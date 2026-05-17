@@ -35,8 +35,6 @@ POIs and custom elevation mesh.
 
 <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview1.jpg">
 <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview2.jpg">
-<img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview3.jpg">
-<img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview4.jpg">
 
 </div>
 
