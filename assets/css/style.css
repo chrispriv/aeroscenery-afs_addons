@@ -136,8 +136,10 @@ a {
 
 .hero-image {
   width: 100%;
+  max-width: 900px;
+  display: block;
+  margin: 0 auto 25px auto;
   border-radius: 12px;
-  margin-bottom: 25px;
 }
 
 .preview-grid {

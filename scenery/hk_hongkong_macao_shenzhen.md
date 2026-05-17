@@ -53,12 +53,16 @@ src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
 
 <div class="download-panel">
 
-<a class="download-button" href="#">
+<a class="download-button" href="https://drive.google.com/file/d/13GJSlpD6WnxAGVdrnHv1yhKgvniyGydD/view?usp=drive_link">
 Download Images
 </a>
 
-<a class="download-button" href="#">
+<a class="download-button" href="https://drive.google.com/file/d/17vkMHelgdc0gLa2ELzFU9RwWoju82PXM/view?usp=drive_link">
 Download POIs / Airports / Elevation
+</a>
+
+<a class="download-button" href="https://drive.google.com/file/d/19ewDOZ40NYXznbJr-9iVtXsS8rF9OrDO/view?usp=drive_link">
+Download Kai Tak Airport (optional)
 </a>
 
 </div>
@@ -69,27 +73,16 @@ Download POIs / Airports / Elevation
 
 <div class="download-panel">
 
-<a class="download-button" href="#">
+<a class="download-button" href="https://drive.google.com/file/d/1ki_fZs_9dn2DpOGlWu4kUiCWrTd4XdCS/view?usp=drive_link">
 Download Images
 </a>
 
-<a class="download-button" href="#">
+<a class="download-button" href="https://drive.google.com/file/d/1bgW9Q84lVZrL2zRop6sfVANKjbBNdbsL/view?usp=drive_link">
 Download POIs / Airports / Elevation
 </a>
 
-</div>
-
----
-
-# Optional Kai Tak Airport
-
-<div class="download-panel">
-
-Historic Kai Tak airport addon for nostalgic flights
-into old Hong Kong.
-
-<a class="download-button" href="#">
-Download Kai Tak Addon
+<a class="download-button" href="https://drive.google.com/file/d/1UG_NfAlsitFlmmTf7GsWQvzvazoDdQKh/view?usp=drive_link">
+Download Kai Tak Airport (optional)
 </a>
 
 </div>
