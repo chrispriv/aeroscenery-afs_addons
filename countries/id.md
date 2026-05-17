@@ -4,8 +4,36 @@ title: Indonesia
 ---
 # Indonesia
 
-## Available Sceneries
+<div class="scenery-grid">
 
-- [Bali photo scenery](../scenery/id_bali.md)
+<a class="scenery-card" href="../scenery/id_bali.html">
 
-- [Java Island photo scenery](../scenery/id_java.md)
+<img src="../assets/images/scenery/id_bali.jpg">
+
+<div class="scenery-content">
+<h2>Bali Photo Scenery</h2>
+
+<p class="scenery-features">
+FS4 Desktop • FSG Mobile<br>
+Photo Scenery • Airports • Elevation
+</p>
+</div>
+
+</a>
+
+<a class="scenery-card" href="../scenery/id_java.html">
+
+<img src="../assets/images/scenery/id_java.jpg">
+
+<div class="scenery-content">
+<h2>Java Island Photo Scenery</h2>
+
+<p class="scenery-features">
+FS4 Desktop • FSG Mobile<br>
+Photo Scenery • POIs • Elevation
+</p>
+</div>
+
+</a>
+
+</div>

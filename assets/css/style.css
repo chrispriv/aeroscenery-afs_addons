@@ -33,6 +33,7 @@ a {
   background: #1a1a1a;
 }
 
+
 .country-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -77,4 +78,44 @@ a {
 .country-overlay p {
   margin: 5px 0 0;
   color: #ccc;
+}
+
+
+.scenery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.scenery-card {
+  background: #1b1b1b;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  color: white;
+  transition: transform 0.2s ease;
+}
+
+.scenery-card:hover {
+  transform: scale(1.02);
+}
+
+.scenery-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.scenery-content {
+  padding: 15px;
+}
+
+.scenery-content h2 {
+  margin-top: 0;
+}
+
+.scenery-features {
+  color: #aaa;
+  font-size: 14px;
 }
