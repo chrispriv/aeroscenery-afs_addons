@@ -1,3 +1,7 @@
+---
+layout: default
+title: South Africa
+---
 # South Africa
 
 ## Available Sceneries

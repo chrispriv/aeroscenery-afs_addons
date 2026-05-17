@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Hong Kong, Macao & Shenzhen area scenery
 country: HK
 ---

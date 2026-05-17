@@ -1,3 +1,7 @@
+---
+layout: default
+title: Indonesia
+---
 # Indonesia
 
 ## Available Sceneries

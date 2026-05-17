@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # AeroScenery AFS Addons
 
 High quality photo sceneries for:

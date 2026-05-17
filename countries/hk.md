@@ -1,3 +1,7 @@
+---
+layout: default
+title: Hong Kong
+---
 # Hong Kong
 
 ## Available Sceneries
