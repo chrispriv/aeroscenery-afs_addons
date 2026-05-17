@@ -3,7 +3,6 @@ layout: default
 title: Hong Kong, Macao & Shenzhen area scenery
 country: HK
 ---
-
 # Hong Kong, Macao & Shenzhen area scenery
 
 ## Description
