@@ -28,10 +28,16 @@ Photo Scenery • Airports • Elevation
 <div class="scenery-content">
 <h2>Java Island Photo Scenery</h2>
 
-<p class="scenery-features">
-FS4 Desktop • FSG Mobile<br>
-Photo Scenery • POIs • Elevation
-</p>
+<div class="tag-container">
+
+<span class="tag">FS4 Desktop</span>
+<span class="tag">FSG Mobile</span>
+
+<span class="tag">Photo Scenery</span>
+<span class="tag">Airports</span>
+<span class="tag">Elevation</span>
+
+</div>
 </div>
 
 </a>

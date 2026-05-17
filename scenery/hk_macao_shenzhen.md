@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Hong Kong, Macao & Shenzhen area scenery
+title: Hongkong, Macao & Shenzhen area scenery HK/CN  (incl. Kai Tak airport)
 country: HK
 ---
-# Hong Kong, Macao & Shenzhen area scenery
+# Hongkong, Macao & Shenzhen area scenery HK/CN  (incl. Kai Tak airport)
 
 ## Description
 
@@ -15,7 +15,7 @@ This scene covers not only the surrounding of Hong Kong, but also a very wide ar
 - Photo Scenery
 - POIs
 - Airports
-- Elevation Mesh
+- Elevation Data
 
 ---
 

@@ -25,7 +25,7 @@ High quality photo sceneries for:
 
   <div class="country-overlay">
     <h2>🇮🇩 Indonesia</h2>
-    <p>1 Scenery</p>
+    <p>2 Sceneries</p>
   </div>
 </a>
 
