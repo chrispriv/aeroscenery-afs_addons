@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Created with AeroScenery Mod by @chrispriv
+# by @chrispriv
 
 High quality photo sceneries for:
 

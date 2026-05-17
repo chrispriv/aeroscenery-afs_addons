@@ -11,9 +11,11 @@ src="../assets/images/scenery/hk_hongkong_macao_shenzhen/hero.jpg">
 
 ## Description
 
-High resolution photo scenery covering the Hong Kong,
-Macao and Shenzhen region including airports,
-POIs and custom elevation mesh.
+This scene covers not only the surrounding of Hong Kong, but also a very wide area including Macao in the west and Shenzhen in the north. 
+Automatic water masking is also applied to the entire area and an elevation fix is applied to Hong Kong city and the airports areas in particular. 
+Former Kai Tak Airport (main terminal is missing) and additional POI's are included.
+
+
 
 <div class="tag-container">
 
@@ -35,6 +37,8 @@ POIs and custom elevation mesh.
 
 <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview1.jpg">
 <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview2.jpg">
+<img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview3.jpg">
+<img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview4.jpg">
 
 </div>
 
@@ -89,13 +93,17 @@ Download Kai Tak Airport (optional)
 
 # References
 
-- ArcGIS Maps
-- OpenTopography
+- ArcGIS Maps © with a resolution of 2.389 meters/pixels
+- OpenTopography © Copernicus Global 30m data
 - SketchUp 3D Warehouse
 
 ---
 
 # Credits
 
-- nickhod for AeroScenery
+- nickhod for AeroScenery (creating photo-sceneries)
+- Arno Gerretsen for ModelConverterX (converting-tool)
+- @brunnobellic for initial Kai Tak airport on FS2
+- @Apfelflieger for FS4 Kai Tak airport conversion
+- all the authors of the models used
 
