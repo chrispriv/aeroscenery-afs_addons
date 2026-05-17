@@ -32,3 +32,49 @@ a {
   text-align: center;
   background: #1a1a1a;
 }
+
+.country-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.country-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  text-decoration: none;
+  color: white;
+  background: #222;
+  transition: transform 0.2s ease;
+}
+
+.country-card:hover {
+  transform: scale(1.02);
+}
+
+.country-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+}
+
+.country-overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+}
+
+.country-overlay h2 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.country-overlay p {
+  margin: 5px 0 0;
+  color: #ccc;
+}
