@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# AeroScenery AFS Addons
+# AeroFly FS Addons by @chrispriv
 
 High quality photo sceneries for:
 
