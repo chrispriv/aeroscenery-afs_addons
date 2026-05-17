@@ -1,50 +1,110 @@
 ---
 layout: default
-title: Hongkong, Macao & Shenzhen area scenery HK/CN  (incl. Kai Tak airport)
+title: Hong Kong, Macao & Shenzhen Area Scenery HK/CN (incl. Kai Tak airport)
 country: HK
 ---
-# Hongkong, Macao & Shenzhen area scenery HK/CN  (incl. Kai Tak airport)
+
+# Hong Kong, Macao & Shenzhen Area Scenery HK/CN (incl. Kai Tak airport)
+
+<img class="hero-image"
+src="../assets/images/scenery/hk_hongkong_macao_shenzhen/hero.jpg">
 
 ## Description
 
-This scene covers not only the surrounding of Hong Kong, but also a very wide area including Macao in the west and Shenzhen in the north. Automatic water masking is also applied to the entire area and an elevation fix is applied to Hong Kong city and the airports areas in particular. Former Kai Tak Airport (main terminal is missing) and Big Buddha POI's is included.
----
+High resolution photo scenery covering the Hong Kong,
+Macao and Shenzhen region including airports,
+POIs and custom elevation mesh.
 
-## Features
+<div class="tag-container">
 
-- Photo Scenery
-- POIs
-- Airports
-- Elevation Data
+<span class="tag">FS4 Desktop</span>
+<span class="tag">FSG Mobile</span>
 
----
+<span class="tag">Photo Scenery</span>
+<span class="tag">POIs</span>
+<span class="tag">Airports</span>
+<span class="tag">Elevation Mesh</span>
 
-## FS4 Desktop
-
-### Downloads
-
-- Images
-- Airports / POIs / Elevation
+</div>
 
 ---
 
-## FSG Mobile
+# Preview Images
 
-### Downloads
+<div class="preview-grid">
 
-- Images
-- Airports / POIs / Elevation
+<img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview1.jpg">
+<img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview2.jpg">
+<img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview3.jpg">
+<img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview4.jpg">
+
+</div>
 
 ---
 
-## References
+# Coverage
 
-- ArcGIS map © with a resolution of 2.389 meters/pixels
+<img class="hero-image"
+src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
+
+---
+
+# FS4 Desktop Downloads
+
+<div class="download-panel">
+
+<a class="download-button" href="#">
+Download Images
+</a>
+
+<a class="download-button" href="#">
+Download POIs / Airports / Elevation
+</a>
+
+</div>
+
+---
+
+# FSG Mobile Downloads
+
+<div class="download-panel">
+
+<a class="download-button" href="#">
+Download Images
+</a>
+
+<a class="download-button" href="#">
+Download POIs / Airports / Elevation
+</a>
+
+</div>
+
+---
+
+# Optional Kai Tak Airport
+
+<div class="download-panel">
+
+Historic Kai Tak airport addon for nostalgic flights
+into old Hong Kong.
+
+<a class="download-button" href="#">
+Download Kai Tak Addon
+</a>
+
+</div>
+
+---
+
+# References
+
+- ArcGIS Maps
 - OpenTopography
 - SketchUp 3D Warehouse
 
 ---
 
-## Credits
+# Credits
 
 - nickhod for AeroScenery
+

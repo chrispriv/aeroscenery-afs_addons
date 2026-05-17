@@ -133,3 +133,48 @@ a {
   border-radius: 20px;
   font-size: 12px;
 }
+
+.hero-image {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 25px;
+}
+
+.preview-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.preview-grid img {
+  width: 100%;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.preview-grid img:hover {
+  transform: scale(1.02);
+}
+
+.download-panel {
+  background: #1b1b1b;
+  padding: 20px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+.download-button {
+  display: inline-block;
+  background: #0066cc;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  margin: 8px 8px 0 0;
+}
+
+.download-button:hover {
+  background: #0080ff;
+}
