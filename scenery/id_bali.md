@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Bali Photo Scenery ID
+title: Bali Photo Scenery
 country: ID
 ---
 
-# Bali Photo Scenery ID
+# Bali Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/id_bali/hero.jpg">

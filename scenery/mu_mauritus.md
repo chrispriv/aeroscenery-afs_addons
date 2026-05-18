@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  Mauritius Islands Scenery MU
+title:  Mauritius Islands Scenery
 country: MU
 ---
 
-# Mauritius Islands Scenery MU
+# Mauritius Islands Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/mu_mauritius/hero.jpg">

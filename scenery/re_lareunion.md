@@ -1,10 +1,10 @@
 ---
 layout: default
-title: La Reunion Photo Scenery RE
-country: HK
+title: La Reunion Photo Scenery
+country: RE
 ---
 
-# La Reunion Photo Scenery RE
+# La Reunion Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/re_lareunion/hero.jpg">

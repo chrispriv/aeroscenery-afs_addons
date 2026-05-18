@@ -1,8 +1,8 @@
 ---
 layout: default
-title: South Africa
+title: La Reunion
 ---
-# South Africa
+# La Reunion
 
 <div class="scenery-grid">
 
@@ -11,7 +11,7 @@ title: South Africa
 <img src="../assets/images/scenery/re_lareunion.jpg">
 
 <div class="scenery-content">
-<h2>La Reunion Photo Scenery RE</h2>
+<h2>La Reunion Photo Scenery</h2>
 
 <div class="tag-container">
 

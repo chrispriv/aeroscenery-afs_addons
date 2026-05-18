@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Java Island Photo Scenery ID
+title: Java Island Photo Scenery
 country: ID
 ---
 
-# Java Island Photo Scenery ID
+# Java Island Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/id_java/hero.jpg">

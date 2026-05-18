@@ -11,7 +11,7 @@ title: Mauritius
 <img src="../assets/images/scenery/mu_mauritius.jpg">
 
 <div class="scenery-content">
-<h2>Mauritius Islands Scenery MU </h2>
+<h2>Mauritius Islands Scenery</h2>
 
 <div class="tag-container">
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Cape town photo scenery ZA
+title: Cape Town Photo Scenery
 country: ZA
 ---
 
-# Cape town photo scenery ZA
+# Cape Town Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/za_capetown/hero.jpg">
