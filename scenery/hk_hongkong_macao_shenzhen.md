@@ -54,25 +54,25 @@ Former Kai Tak Airport (main terminal is missing) and additional POI's are inclu
 </div>
 
 <div id="preview1" class="lightbox">
-  <a href="#" class="lightbox-close">&times;</a>
+  <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview1.jpg">
 </div>
 
 <div id="preview2" class="lightbox">
-  <a href="#" class="lightbox-close">&times;</a>
+  <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview2.jpg">
 </div>
 
 <div id="preview3" class="lightbox">
-  <a href="#" class="lightbox-close">&times;</a>
+  <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview3.jpg">
 </div>
 
 <div id="preview4" class="lightbox">
-  <a href="#" class="lightbox-close">&times;</a>
+  <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview4.jpg">
 </div>
@@ -81,8 +81,17 @@ Former Kai Tak Airport (main terminal is missing) and additional POI's are inclu
 
 # Coverage
 
-<img class="hero-image"
-src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
+<div class="preview-grid">
+<a href="#coverage">
+  <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
+</a>
+</div>
+
+<div id="preview1" class="lightbox">
+  <a href="#!" class="lightbox-close">&times;</a>
+
+  <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
+</div>
 
 
 ---
