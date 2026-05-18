@@ -11,22 +11,33 @@
 
 <body>
 
-<header class="site-header">
+<div class="header-overlay">
 
-  <img src="{{ '/assets/images/header.jpg' | relative_url }}"
-       class="header-image">
+  <a href="{{ '/' | relative_url }}" class="site-title">
+    AeroScenery AFS Addons
+  </a>
 
-  <div class="header-overlay">
-	<a href="{{ '/' | relative_url }}" class="site-title">
-	  AeroScenery AFS Addons
-	</a>
+  <p>
+    Photo Sceneries for Aerofly FS4 & Aerofly Global
+  </p>
 
-    <p>
-      Photo Sceneries for Aerofly FS4 & Aerofly Global
-    </p>
-  </div>
+  <nav class="top-nav">
 
-</header>
+    <a href="{{ '/' | relative_url }}">
+      Home
+    </a>
+
+    <a href="{{ '/install/fs4.html' | relative_url }}">
+      Installation
+    </a>
+
+    <a href="{{ '/license/index.html' | relative_url }}">
+      License
+    </a>
+
+  </nav>
+
+</div>
 
 <main class="content">
   {{ content }}

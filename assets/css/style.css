@@ -284,3 +284,18 @@ a {
 .site-title:hover {
   text-decoration: underline;
 }
+
+.top-nav {
+  margin-top: 15px;
+}
+
+.top-nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.top-nav a:hover {
+  text-decoration: underline;
+}
