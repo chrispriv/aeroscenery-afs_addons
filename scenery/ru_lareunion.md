@@ -1,19 +1,17 @@
 ---
 layout: default
-title: Bali Photo Scenery ID
-country: ID
+title: La Reunion Photo Scenery RE
+country: HK
 ---
 
-# Bali Photo Scenery ID
+# La Reunion Photo Scenery RE
 
 <img class="hero-image"
-src="../assets/images/scenery/id_bali/hero.jpg">
+src="../assets/images/scenery/re_lareunion/hero.jpg">
 
 ## Description
 
-Photo scenery in HD covering the islands of Bali, Lombok & eastern part of Java. 
-
-An elevation fix was made especially for the airport area as well as vulcans. WADE Lieutenant Colonel Wisnu Airfield is also included in addition to IPAC's airports.
+HighRes Photo scenery covering beautiful La Reunion island. There is also an enhanced Elevation Mesh covering the whole island.
 
 <div class="tag-container">
 
@@ -21,7 +19,6 @@ An elevation fix was made especially for the airport area as well as vulcans. WA
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">Airports</span>
 <span class="tag">Elevation Mesh</span>
 
 </div>
@@ -33,19 +30,19 @@ An elevation fix was made especially for the airport area as well as vulcans. WA
 <div class="preview-grid">
 
 <a href="#preview1">
-  <img src="../assets/images/scenery/id_bali/preview1.jpg">
+  <img src="../assets/images/scenery/re_lareunion/preview1.jpg">
 </a>
 
 <a href="#preview2">
-  <img src="../assets/images/scenery/id_bali/preview2.jpg">
+  <img src="../assets/images/scenery/re_lareunion/preview2.jpg">
 </a>
 
 <a href="#preview3">
-  <img src="../assets/images/scenery/id_bali/preview3.jpg">
+  <img src="../assets/images/scenery/re_lareunion/preview3.jpg">
 </a>
 
 <a href="#preview4">
-  <img src="../assets/images/scenery/id_bali/preview4.jpg">
+  <img src="../assets/images/scenery/re_lareunion/preview4.jpg">
 </a>
 
 </div>
@@ -53,25 +50,25 @@ An elevation fix was made especially for the airport area as well as vulcans. WA
 <div id="preview1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/id_bali/preview1.jpg">
+  <img src="../assets/images/scenery/re_lareunion/preview1.jpg">
 </div>
 
 <div id="preview2" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/id_bali/preview2.jpg">
+  <img src="../assets/images/scenery/re_lareunion/preview2.jpg">
 </div>
 
 <div id="preview3" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/id_bali/preview3.jpg">
+  <img src="../assets/images/scenery/re_lareunion/preview3.jpg">
 </div>
 
 <div id="preview4" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/id_bali/preview4.jpg">
+  <img src="../assets/images/scenery/re_lareunion/preview4.jpg">
 </div>
 
 ---
@@ -81,14 +78,14 @@ An elevation fix was made especially for the airport area as well as vulcans. WA
 <div class="preview-grid">
 
 <a href="#coverage">
-  <img src="../assets/images/scenery/id_bali/coverage.jpg">
+  <img src="../assets/images/scenery/re_lareunion/coverage.jpg">
 </a>
 </div>
 
 <div id="coverage" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/id_bali/coverage.jpg">
+  <img src="../assets/images/scenery/re_lareunion/coverage.jpg">
 
 </div>
 
@@ -98,11 +95,11 @@ An elevation fix was made especially for the airport area as well as vulcans. WA
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/13GJSlpD6WnxAGVdrnHv1yhKgvniyGydD/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1yAjx_0BQ1sAHYKPzCSNVqwWizu-25yEN/view?usp=drive_link">
 Download Images
 </a>
 
-<a class="download-button" href="https://drive.google.com/file/d/17vkMHelgdc0gLa2ELzFU9RwWoju82PXM/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/18HpuK9EiAq3wr021QT_tav-gwnO68-Vp/view?usp=drive_link">
 Download Data FS4
 </a>
 
@@ -114,14 +111,13 @@ Download Data FS4
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/1ki_fZs_9dn2DpOGlWu4kUiCWrTd4XdCS/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1SpG-3QgZUkGkYwwdj_Lax3rz40bthQtk/view?usp=drive_link">
 Download Images
 </a>
 
-<a class="download-button" href="https://drive.google.com/file/d/1bgW9Q84lVZrL2zRop6sfVANKjbBNdbsL/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1xMUkjSIxp0iIJeoRzXd3T1DmDRaUVmLS/view?usp=drive_link">
 Download Data FSG
 </a>
-
 
 </div>
 
@@ -129,7 +125,7 @@ Download Data FSG
 
 # References
 
-- Bing Maps © 
+- ArcGIS Maps © 
 - OpenTopography - Copernicus Global 30m data © 
 
 ---

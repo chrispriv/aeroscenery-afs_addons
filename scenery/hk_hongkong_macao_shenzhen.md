@@ -82,6 +82,7 @@ Former Kai Tak Airport (main terminal is missing) and additional POI's are inclu
 # Coverage
 
 <div class="preview-grid">
+
 <a href="#coverage">
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
 </a>
@@ -91,8 +92,8 @@ Former Kai Tak Airport (main terminal is missing) and additional POI's are inclu
   <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
-</div>
 
+</div>
 
 ---
 
@@ -140,7 +141,7 @@ Download Kai Tak Airport (optional)
 
 - ArcGIS Maps © 
 - OpenTopography - Copernicus Global 30m data © 
-- SketchUp 3D Warehouse
+- SketchUp 3D Warehouse (3dwarehouse.sketchup.com)
 
 ---
 
