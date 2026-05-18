@@ -87,7 +87,7 @@ Former Kai Tak Airport (main terminal is missing) and additional POI's are inclu
 </a>
 </div>
 
-<div id="preview1" class="lightbox">
+<div id="coverage" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
@@ -96,7 +96,7 @@ Former Kai Tak Airport (main terminal is missing) and additional POI's are inclu
 
 ---
 
-# FS4 Desktop Downloads
+# FS4 Desktop Downloads (zip)
 
 <div class="download-panel">
 
@@ -105,7 +105,7 @@ Download Images
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/17vkMHelgdc0gLa2ELzFU9RwWoju82PXM/view?usp=drive_link">
-Download POIs / Airports / Elevation
+Download Data FS4
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/19ewDOZ40NYXznbJr-9iVtXsS8rF9OrDO/view?usp=drive_link">
@@ -116,7 +116,7 @@ Download Kai Tak Airport (optional)
 
 ---
 
-# FSG Mobile Downloads
+# FSG Mobile Downloads (tme)
 
 <div class="download-panel">
 
@@ -125,7 +125,7 @@ Download Images
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1bgW9Q84lVZrL2zRop6sfVANKjbBNdbsL/view?usp=drive_link">
-Download POIs / Airports / Elevation
+Download Data FSG
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1UG_NfAlsitFlmmTf7GsWQvzvazoDdQKh/view?usp=drive_link">
@@ -138,8 +138,8 @@ Download Kai Tak Airport (optional)
 
 # References
 
-- ArcGIS Maps © with a resolution of 2.389 meters/pixels
-- OpenTopography © Copernicus Global 30m data
+- ArcGIS Maps © 
+- OpenTopography - Copernicus Global 30m data © 
 - SketchUp 3D Warehouse
 
 ---
@@ -150,5 +150,5 @@ Download Kai Tak Airport (optional)
 - Arno Gerretsen for ModelConverterX (converting-tool)
 - @brunnobellic for initial Kai Tak airport on FS2
 - @Apfelflieger for FS4 Kai Tak airport conversion
-- all the authors of the models used
+- to all the authors of the models used
 
