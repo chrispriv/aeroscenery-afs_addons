@@ -7,7 +7,7 @@ title: Home
 High quality photo sceneries for:
 
 - Aerofly FS4
-- Aerofly Global
+- Aerofly FS Global (Android)
 
 <div class="country-grid">
 
