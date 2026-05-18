@@ -152,3 +152,15 @@ Download Kai Tak Airport (optional)
 - @Apfelflieger for FS4 Kai Tak airport conversion
 - to all the authors of the models used
 
+---
+
+# Installation
+
+- [FS4 Desktop Installation](../install/fs4.html)
+- [FSG Mobile Installation](../install/fsg.html)
+
+---
+
+# License
+
+- [License Information](../license/index.html)
