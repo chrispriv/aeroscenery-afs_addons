@@ -44,9 +44,6 @@ Former Kai Tak Airport (main terminal is missing) and additional POI's are inclu
 
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview1.jpg">
 </div>
-<a href="#preview1">
-  <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview1.jpg">
-</a>
 
 <a href="#preview2">
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/preview2.jpg">
@@ -84,11 +81,8 @@ Former Kai Tak Airport (main terminal is missing) and additional POI's are inclu
 
 # Coverage
 
-<div class="preview-grid">
-
-<img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
-
-</div>
+<img class="hero-image"
+src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
 
 
 ---
