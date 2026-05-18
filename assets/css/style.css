@@ -143,10 +143,15 @@ a {
 }
 
 .preview-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;  
   gap: 15px;
   margin-top: 20px;
+}
+
+.preview-grid a {
+  width: 220px;
 }
 
 .preview-grid img {
@@ -179,4 +184,38 @@ a {
 
 .download-button:hover {
   background: #0080ff;
+}
+
+.lightbox {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  padding-top: 40px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background: rgba(0,0,0,0.9);
+}
+
+.lightbox img {
+  margin: auto;
+  display: block;
+  max-width: 90%;
+  max-height: 85vh;
+  border-radius: 10px;
+}
+
+.lightbox:target {
+  display: block;
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 20px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  text-decoration: none;
 }
