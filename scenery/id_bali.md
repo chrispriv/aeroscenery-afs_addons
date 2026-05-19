@@ -80,13 +80,13 @@ An elevation fix was made especially for the airport area as well as vulcans. WA
 
 <div class="preview-grid">
 
-<a href="#coverage">
+<a href="#coverage1">
   <img src="../assets/images/scenery/id_bali/coverage.jpg">
 </a>
 
 </div>
 
-<div id="coverage" class="lightbox">
+<div id="coverage1" class="lightbox">
 
   <a href="#!" class="lightbox-close">&times;</a>
 
