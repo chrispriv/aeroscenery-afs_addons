@@ -99,11 +99,11 @@ There are 7 airports included (most with aprons, taxiways and objects) as well a
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/1V-wjyMJxWaUoItO4lrKJfpDRb5yYcGRf/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1tlx42yDR55bXSeEUR2ZxjLJn55jJ--mS/view?usp=drive_link">
 Download Images
 </a>
 
-<a class="download-button" href="https://drive.google.com/file/d/1W-4pT3uMp6mQNc37hd5qF1v0HGpPAKsp/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1FKCYD373dTns-MJQg8LPb6ONQs0TxtYk/view?usp=drive_link">
 Download Data FS4
 </a>
 
@@ -115,11 +115,11 @@ Download Data FS4
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/1oNY-RgrF-qi_mfKsvoHr1kDEDzYCDUp6/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1bSQC2WQ9MvfgNqu2KgDcIX8Z7-UY-Olr/view?usp=drive_link">
 Download Images
 </a>
 
-<a class="download-button" href="https://drive.google.com/file/d/1LBKxKBXIPOSvw5JIMkP9fRtFteiU8kxh/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1hOdsnVhgbV9pXCDVkYbP-UyGxw_lYh9B/view?usp=drive_link">
 Download Data FSG
 </a>
 
