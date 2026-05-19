@@ -38,6 +38,15 @@ High quality freeware addons for:
   </div>
 </a>
 
+<a class="country-card" href="countries/pf.html">
+  <img src="assets/images/countries/pf.jpg">
+
+  <div class="country-overlay">
+    <h2>🇫🇷 French Polynesia</h2>
+    <p>1 Scenery</p>
+  </div>
+</a>
+
 <a class="country-card" href="countries/re.html">
   <img src="assets/images/countries/re.jpg">
 

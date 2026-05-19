@@ -101,11 +101,11 @@ It also has a few POI's in Jakarta, Bandung and Surabaya. An elevation fix was m
   <img src="../assets/images/scenery/id_java/coverage1.jpg">
 </a>
 
-<a href="#coverage1">
+<a href="#coverage2">
   <img src="../assets/images/scenery/id_java/coverage2.jpg">
 </a>
 
-<a href="#coverage1">
+<a href="#coverage3">
   <img src="../assets/images/scenery/id_java/coverage3.jpg">
 </a>
 
@@ -136,15 +136,15 @@ It also has a few POI's in Jakarta, Bandung and Surabaya. An elevation fix was m
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1bXJHYrp3s_fztXMzNvLoSZ29j2QZLoWi/view?usp=drive_link">
-Download Images-Part 1
+Download Images - Part 1
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1GUJCcM3DHBptf641xKdq9CTc0mUJYsoj/view?usp=drive_link">
-Download Images-Part 2
+Download Images - Part 2
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1lm5h7vOmzpJLxU0q8G4lGlp5-O6BOv6S/view?usp=drive_link">
-Download Images-Part 3
+Download Images - Part 3
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1gebc8MzG4p_dbtuQjRXCuyOKZPS-T78a/view?usp=drive_link">
@@ -160,15 +160,15 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1cMV32AgiAEY9KJFjZGhhDL4Uzh3Svpbh/view?usp=drive_link">
-Download Images-Part 1
+Download Images - Part 1
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1E5qy3WZg2R7YYnoYMYEj9mJUjN7YBsVn/view?usp=drive_link">
-Download Images-Part 2
+Download Images - Part 2
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1UEUJuJCnAnEwocFZ5_FD8AbFduTtiuhX/view?usp=drive_link">
-Download Images-Part 3
+Download Images - Part 3
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1jfU7uQev5NlNnaJexGiN3PlZ48yOBatD/view?usp=drive_link">

@@ -86,7 +86,7 @@ Also the two airports FIMP and FIMR are included with taxiways, aprons and 3D ob
 </a>
 
 <a href="#coverage2">
-  <img src="../assets/images/scenery/mu_mauritius/coverage1.jpg">
+  <img src="../assets/images/scenery/mu_mauritius/coverage2.jpg">
 </a>
 
 </div>
@@ -95,14 +95,12 @@ Also the two airports FIMP and FIMR are included with taxiways, aprons and 3D ob
   <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/mu_mauritius/coverage1.jpg">
-
 </div>
 
 <div id="coverage2" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/mu_mauritius/coverage2.jpg">
-
 </div>
 
 ---

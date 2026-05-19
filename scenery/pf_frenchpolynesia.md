@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Cape Town Photo Scenery
-country: ZA
+title:  French Polynesia Scenery
+country: PF
 ---
 
-# Cape Town Photo Scenery
+# French Polynesia Scenery
 
 <img class="hero-image"
-src="../assets/images/scenery/za_capetown/hero.jpg">
+src="../assets/images/scenery/pf_frenchpolynesia/hero.jpg">
 
 ## Description
 
-High resolution photo scenery covering enlarged area of Cape Town in South Africa.
+Photo scenery covering all islands of French Polynesia including the main island Tahiti and the famous Bora Bora Island. 
 
-The stadium and cable car stations are added as POIs. To depict the shape of Table Mountains as realistically as possible, the elevation data has been adjusted manually.
+There are 7 airports included (most with aprons, taxiways and objects) as well as elevation data.
 
 <div class="tag-container">
 
@@ -21,7 +21,8 @@ The stadium and cable car stations are added as POIs. To depict the shape of Tab
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">POIs</span>
+<span class="tag">POI's</span>
+<span class="tag">Airports</span>
 <span class="tag">Elevation Mesh</span>
 
 </div>
@@ -33,19 +34,19 @@ The stadium and cable car stations are added as POIs. To depict the shape of Tab
 <div class="preview-grid">
 
 <a href="#preview1">
-  <img src="../assets/images/scenery/za_capetown/preview1.jpg">
+  <img src="../assets/images/scenery/pf_frenchpolynesia/preview1.jpg">
 </a>
 
 <a href="#preview2">
-  <img src="../assets/images/scenery/za_capetown/preview2.jpg">
+  <img src="../assets/images/scenery/pf_frenchpolynesia/preview2.jpg">
 </a>
 
 <a href="#preview3">
-  <img src="../assets/images/scenery/za_capetown/preview3.jpg">
+  <img src="../assets/images/scenery/pf_frenchpolynesia/preview3.jpg">
 </a>
 
 <a href="#preview4">
-  <img src="../assets/images/scenery/za_capetown/preview4.jpg">
+  <img src="../assets/images/scenery/pf_frenchpolynesia/preview4.jpg">
 </a>
 
 </div>
@@ -53,25 +54,25 @@ The stadium and cable car stations are added as POIs. To depict the shape of Tab
 <div id="preview1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/za_capetown/preview1.jpg">
+  <img src="../assets/images/scenery/pf_frenchpolynesia/preview1.jpg">
 </div>
 
 <div id="preview2" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/za_capetown/preview2.jpg">
+  <img src="../assets/images/scenery/pf_frenchpolynesia/preview2.jpg">
 </div>
 
 <div id="preview3" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/za_capetown/preview3.jpg">
+  <img src="../assets/images/scenery/pf_frenchpolynesia/preview3.jpg">
 </div>
 
 <div id="preview4" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/za_capetown/preview4.jpg">
+  <img src="../assets/images/scenery/pf_frenchpolynesia/preview4.jpg">
 </div>
 
 ---
@@ -81,7 +82,7 @@ The stadium and cable car stations are added as POIs. To depict the shape of Tab
 <div class="preview-grid">
 
 <a href="#coverage">
-  <img src="../assets/images/scenery/za_capetown/coverage.jpg">
+  <img src="../assets/images/scenery/pf_frenchpolynesia/coverage.jpg">
 </a>
 
 </div>
@@ -89,7 +90,7 @@ The stadium and cable car stations are added as POIs. To depict the shape of Tab
 <div id="coverage" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/za_capetown/coverage.jpg">
+  <img src="../assets/images/scenery/pf_frenchpolynesia/coverage.jpg">
 </div>
 
 ---
@@ -98,11 +99,11 @@ The stadium and cable car stations are added as POIs. To depict the shape of Tab
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/1UhmWxkxx_EE81W9fauKAx_wA_0tsiS-x/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1V-wjyMJxWaUoItO4lrKJfpDRb5yYcGRf/view?usp=drive_link">
 Download Images
 </a>
 
-<a class="download-button" href="https://drive.google.com/file/d/16zz9GFROQ3OwjPzN_xO52HyT1lWP2Pey/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1W-4pT3uMp6mQNc37hd5qF1v0HGpPAKsp/view?usp=drive_link">
 Download Data FS4
 </a>
 
@@ -114,13 +115,14 @@ Download Data FS4
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/1bCQ22vJGhANifOcInQufw4TM-Xj0UIkq/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1oNY-RgrF-qi_mfKsvoHr1kDEDzYCDUp6/view?usp=drive_link">
 Download Images
 </a>
 
-<a class="download-button" href="https://drive.google.com/file/d/1qw2oyboFuO7HQBxFccLb6YyQQQqfhmLG/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1LBKxKBXIPOSvw5JIMkP9fRtFteiU8kxh/view?usp=drive_link">
 Download Data FSG
 </a>
+
 
 </div>
 
@@ -129,7 +131,7 @@ Download Data FSG
 # References
 
 - ArcGIS Maps © 
-- OpenTopography - ALOS World 3D 30m data © 
+- OpenTopography - Copernicus Global 30m data © 
 - SketchUp 3D Warehouse (3dwarehouse.sketchup.com)
 
 ---
