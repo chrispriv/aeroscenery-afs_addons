@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Hong Kong, Macao & Shenzhen Area Scenery HK/CN (incl. Kai Tak airport)
+title: Hong Kong, Macao & Shenzhen Area Scenery (incl. Kai Tak airport)
 country: HK
 ---
 
-# Hong Kong, Macao & Shenzhen Area Scenery HK/CN (incl. Kai Tak airport)
+# Hong Kong, Macao & Shenzhen Area Scenery (incl. Kai Tak airport)
 
 <img class="hero-image"
 src="../assets/images/scenery/hk_hongkong_macao_shenzhen/hero.jpg">

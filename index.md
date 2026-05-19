@@ -4,7 +4,7 @@ title: Home
 ---
 # by @chrispriv ©
 
-High quality photo sceneries for:
+High quality freeware addons for:
 
 - Aerofly FS4
 - Aerofly FS Global (Android)
@@ -15,7 +15,7 @@ High quality photo sceneries for:
   <img src="assets/images/countries/hk.jpg">
 
   <div class="country-overlay">
-    <h2>🇭🇰 Hong Kong</h2>
+    <h2>🇭🇰/🇨🇳 Hong Kong</h2>
     <p>1 Scenery</p>
   </div>
 </a>
@@ -33,16 +33,16 @@ High quality photo sceneries for:
   <img src="assets/images/countries/mu.jpg">
 
   <div class="country-overlay">
-    <h2>MU - Mauritius</h2>
+    <h2>🇲🇺 Mauritius</h2>
     <p>1 Scenery</p>
   </div>
 </a>
 
 <a class="country-card" href="countries/re.html">
-  <img src="assets/images/countries/mu.jpg">
+  <img src="assets/images/countries/re.jpg">
 
   <div class="country-overlay">
-    <h2>RE - La Reunion</h2>
+    <h2>🇫🇷 La Reunion</h2>
     <p>1 Scenery</p>
   </div>
 </a>

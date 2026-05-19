@@ -28,8 +28,3 @@ title: Mauritius
 </a>
 
 </div>
-
-
-## Available Sceneries
-
-- [Mauritius Islands Scenery MU](../scenery/mu_mauritius.md)

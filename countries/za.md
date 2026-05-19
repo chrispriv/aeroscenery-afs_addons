@@ -28,8 +28,3 @@ title: South Africa
 </a>
 
 </div>
-
-
-## Available Sceneries
-
-- [Cape Town Photo Scenery](../scenery/za_capetown.md)

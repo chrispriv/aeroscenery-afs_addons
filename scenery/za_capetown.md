@@ -130,7 +130,7 @@ Download Data FSG
 
 - ArcGIS Maps © 
 - OpenTopography - ALOS World 3D 30m data © 
-- SketchUp 3D Warehouse
+- SketchUp 3D Warehouse (3dwarehouse.sketchup.com)
 
 ---
 

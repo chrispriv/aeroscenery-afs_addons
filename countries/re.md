@@ -28,8 +28,3 @@ title: La Reunion
 </a>
 
 </div>
-
-
-## Available Sceneries
-
-- [La Reunion Photo Scenery RE](../scenery/re_lareunion.md)

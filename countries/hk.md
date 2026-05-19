@@ -11,7 +11,7 @@ title: Hong Kong
 <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen.jpg">
 
 <div class="scenery-content">
-<h2>Hongkong, Macao & Shenzhen Area Scenery HK/CN (incl. Kai Tak Airport)</h2>
+<h2>Hongkong, Macao & Shenzhen Area Scenery (incl. Kai Tak Airport)</h2>
 
 <div class="tag-container">
 

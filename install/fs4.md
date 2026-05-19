@@ -14,7 +14,7 @@ title: FS4 Desktop Installation
 - `_images`
 - `_fs4`
 
-3. Copy unzipped _fs4 folder into your Aerofly FS4 user scenery folder and then palce the _images into your new scenery folder:
+3. Copy unzipped _fs4 folder into your Aerofly FS4 user scenery folder and then place the images into your new scenery folder:
 
 ```text
 Documents\Aerofly FS4\addons\scenery\<scenery-name>\
@@ -34,4 +34,4 @@ If scenery tiles do not appear:
 
 ## Credits
 
-Sceneries created using my [AeroScenery v1.1.3 MOD](https://chrispriv.github.io/aeroscenery-mod).
+Sceneries created using my [AeroScenery v1.1.3 MOD](https://github.com/chrispriv/aeroscenery-mod).

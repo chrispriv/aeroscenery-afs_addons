@@ -37,4 +37,4 @@ If you encounter issues or performance problems:
 
 ## Credits
 
-Scenes created using my [AeroScenery v1.1.3 MOD](https://chrispriv.github.io/aeroscenery-mod).
+Scenes created using my [AeroScenery v1.1.3 MOD](https://github.com/chrispriv/aeroscenery-mod).

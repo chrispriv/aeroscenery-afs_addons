@@ -46,3 +46,7 @@ Use at your own risk.
 
 If you encounter issues or performance problems,
 simply remove the installed scenery packages.
+
+## Credits
+
+Scenes created using my [AeroScenery v1.1.3 MOD](https://github.com/chrispriv/aeroscenery-mod).
