@@ -80,13 +80,13 @@ The stadium and cable car stations are added as POIs. To depict the shape of Tab
 
 <div class="preview-grid">
 
-<a href="#coverage">
+<a href="#coverage1">
   <img src="../assets/images/scenery/za_capetown/coverage.jpg">
 </a>
 
 </div>
 
-<div id="coverage" class="lightbox">
+<div id="coverage1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/za_capetown/coverage.jpg">

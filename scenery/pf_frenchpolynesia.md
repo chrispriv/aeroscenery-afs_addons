@@ -81,13 +81,13 @@ There are 7 airports included (most with aprons, taxiways and objects) as well a
 
 <div class="preview-grid">
 
-<a href="#coverage">
+<a href="#coverage1">
   <img src="../assets/images/scenery/pf_frenchpolynesia/coverage.jpg">
 </a>
 
 </div>
 
-<div id="coverage" class="lightbox">
+<div id="coverage1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/pf_frenchpolynesia/coverage.jpg">

@@ -77,13 +77,13 @@ HighRes Photo scenery covering beautiful La Reunion island. There is also an enh
 
 <div class="preview-grid">
 
-<a href="#coverage">
+<a href="#coverage1">
   <img src="../assets/images/scenery/re_lareunion/coverage.jpg">
 </a>
 
 </div>
 
-<div id="coverage" class="lightbox">
+<div id="coverage1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/re_lareunion/coverage.jpg">

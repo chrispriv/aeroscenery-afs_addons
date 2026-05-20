@@ -83,13 +83,13 @@ Former Kai Tak Airport (main terminal is missing) and additional POI's are inclu
 
 <div class="preview-grid">
 
-<a href="#coverage">
+<a href="#coverage1">
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
 </a>
 
 </div>
 
-<div id="coverage" class="lightbox">
+<div id="coverage1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
   <img src="../assets/images/scenery/hk_hongkong_macao_shenzhen/coverage.jpg">
