@@ -11,7 +11,7 @@ src="../assets/images/scenery/mu_mauritius/hero.jpg">
 
 ## Description
 
-Photo scenery covering Mauritius and Rodrigues islands also belonging to Mauritius including the main town Port Louis with POI's. 
+Photo scenery covering Mauritius and Rodrigues islands also belonging to Mauritius including the main town Port Louis with POIs. 
 
 Also the two airports FIMP and FIMR are included with taxiways, aprons and 3D objects.
 

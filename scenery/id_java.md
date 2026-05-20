@@ -15,7 +15,7 @@ Photo scenery covering a large part of Java island, particularly the capital cit
 
 Discover the island's many volcanoes as you fly from town to town.
 
-It also has a few POI's in Jakarta, Bandung and Surabaya. An elevation fix was made especially for Jakarta airport and town.
+It also has a few POIs in Jakarta, Bandung and Surabaya. An elevation fix was made especially for Jakarta airport and town.
 
 ## Included Regions
 

@@ -11,11 +11,13 @@ src="../assets/images/scenery/hk_hongkong_macao_shenzhen/hero.jpg">
 
 ## Description
 
-This scene covers not only the surrounding of Hong Kong, but also a very wide area including Macao in the west and Shenzhen in the north. 
-Automatic water masking is also applied to the entire area and an elevation fix is applied to Hong Kong city and the airports areas in particular. 
-Former Kai Tak Airport (main terminal is missing) and additional POI's are included.
+This scene covers the surrounding of Hong Kong, as well as a very wide area including Macao in the west and Shenzhen in the north. 
 
+Automatic water masking is also applied to the entire area, and an elevation fix is applied to Hong Kong city and the airports areas. 
 
+The famous former Kai Tak Airport and additional POIs are also included as well as for FS4 the following existing 3rd party freeware sceneries are also integrated in this package scenery:
+•	Hong Kong: bridges / moving cars / harbor / (moving) ships 
+•	Hang Kong: 1x airport and 26x heliports
 
 <div class="tag-container">
 
@@ -139,7 +141,7 @@ Download Kai Tak Airport (optional)
 
 # References
 
-- ArcGIS Maps © 
+- ArcGIS Maps ©
 - OpenTopography - Copernicus Global 30m data © 
 - SketchUp 3D Warehouse (3dwarehouse.sketchup.com)
 
@@ -149,8 +151,8 @@ Download Kai Tak Airport (optional)
 
 - nickhod for AeroScenery (creating photo-sceneries)
 - Arno Gerretsen for ModelConverterX (converting-tool)
-- @brunnobellic for initial Kai Tak airport on FS2
-- @Apfelflieger for FS4 Kai Tak airport conversion
+- @brunnobellic for initial Kai Tak airport and objects on FS2
+- @Apfelflieger for Kai Tak, objects and add. airports on FS4
 - to all the authors of the models used
 
 ---
