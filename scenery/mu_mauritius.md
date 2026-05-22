@@ -21,8 +21,8 @@ Also the two airports FIMP and FIMR are included with taxiways, aprons and 3D ob
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">POI's</span>
 <span class="tag">Airports</span>
+<span class="tag">POI's</span>
 <span class="tag">Elevation Mesh</span>
 
 </div>

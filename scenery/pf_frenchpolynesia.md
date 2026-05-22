@@ -21,8 +21,8 @@ There are 7 airports included (most with aprons, taxiways and objects) as well a
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">POI's</span>
 <span class="tag">Airports</span>
+<span class="tag">POI's</span>
 <span class="tag">Elevation Mesh</span>
 
 </div>

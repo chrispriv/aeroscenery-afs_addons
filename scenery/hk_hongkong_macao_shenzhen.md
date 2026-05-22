@@ -13,11 +13,15 @@ src="../assets/images/scenery/hk_hongkong_macao_shenzhen/hero.jpg">
 
 This scene covers the surrounding of Hong Kong, as well as a very wide area including Macao in the west and Shenzhen in the north. 
 
-Automatic water masking is also applied to the entire area, and an elevation fix is applied to Hong Kong city and the airports areas. 
+Automatic water masking is also applied to the entire area, and an elevation fix is applied to Hong Kong city and the airports areas.
 
-The famous former Kai Tak Airport and additional POIs are also included as well as for FS4 the following existing 3rd party freeware sceneries are also integrated in this package scenery:
-•	Hong Kong: bridges / moving cars / harbor / (moving) ships 
-•	Hang Kong: 1x airport and 26x heliports
+The famous former Kai Tak Airport and additional POIs are also included. 
+
+## Sceneries Included
+
+For FS4 the following 3rd party freeware sceneries are also integrated in this package:
+- Hong Kong: bridges / moving cars / harbor / (moving) ships 
+- Hang Kong: 1x airport and 26x heliports
 
 <div class="tag-container">
 
@@ -25,8 +29,8 @@ The famous former Kai Tak Airport and additional POIs are also included as well 
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">POIs</span>
 <span class="tag">Airports</span>
+<span class="tag">POIs</span>
 <span class="tag">Elevation Mesh</span>
 
 </div>
@@ -151,8 +155,8 @@ Download Kai Tak Airport (optional)
 
 - nickhod for AeroScenery (creating photo-sceneries)
 - Arno Gerretsen for ModelConverterX (converting-tool)
-- @brunnobellic for initial Kai Tak airport and objects on FS2
-- @Apfelflieger for Kai Tak, objects and add. airports on FS4
+- brunnobellic for initial Kai Tak airport and objects on FS2
+- Apfelflieger for Kai Tak, objects and add. airports on FS4
 - to all the authors of the models used
 
 ---
