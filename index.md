@@ -25,7 +25,7 @@ High quality freeware addons for:
 
   <div class="country-overlay">
     <h2>🇬🇷 Greece</h2>
-    <p>1 Scenery</p>
+    <p>1 Scenery (6 Regions)</p>
   </div>
 </a>
 
@@ -43,7 +43,7 @@ High quality freeware addons for:
 
   <div class="country-overlay">
     <h2>🇮🇩 Indonesia</h2>
-    <p>2 Sceneries</p>
+    <p>2 Sceneries (4 Regions)</p>
   </div>
 </a>
 
@@ -79,7 +79,7 @@ High quality freeware addons for:
 
   <div class="country-overlay">
     <h2>🇹🇷 Turkey</h2>
-    <p>2 Sceneries</p>
+    <p>2 Sceneries (3 Regions)</p>
   </div>
 </a>
 
