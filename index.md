@@ -88,7 +88,7 @@ High quality freeware addons for:
 
   <div class="country-overlay">
     <h2>🇿🇦 South Africa</h2>
-    <p>1 Scenery</p>
+    <p>2 Sceneries</p>
   </div>
 </a>
 
