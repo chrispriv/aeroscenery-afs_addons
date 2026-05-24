@@ -4,14 +4,21 @@ title:  Istanbul Town With Extended Area
 country: TR
 ---
 
-# Mauritius Islands Scenery
+# Istanbul Town With Extended Area
 
 <img class="hero-image"
 src="../assets/images/scenery/tr_istanbul/hero.jpg">
 
 ## Description
 
-...
+This scenery includes the city of Istanbul at the Bosporus and its wider surroundings. 
+
+The coverage with a big part of the Marmara sea reaches eastward to Izmit and southward to Bursa, including Mount Uludag going up to 2'500 m.
+
+Aeroprakt Uluslararasi flight education airfield at Bursa is added to IPACS's airports. It also has some POIs in Istanbul (mainly bridges and stadiums). 
+
+Elevation data are also included for improvement and in particular as fix for the airport LTFM.
+
 
 ## Included Regions
 
@@ -33,7 +40,7 @@ src="../assets/images/scenery/tr_istanbul/hero.jpg">
 <span class="tag">POI's</span>
 <span class="tag">Elevation Mesh</span>
 
-<span class="tag">v1.0</span>
+<span class="tag">v1.1</span>
 
 </div>
 
@@ -119,11 +126,11 @@ src="../assets/images/scenery/tr_istanbul/hero.jpg">
 
 <div class="download-panel">
 
-<a class="download-button" href="">
+<a class="download-button" href="https://drive.google.com/file/d/10n-n8NWr27tdu7NiFZf7l4dtdJt6_ja9/view?usp=drive_link">
 Download Images - Part 1
 </a>
 
-<a class="download-button" href="">
+<a class="download-button" href="https://drive.google.com/file/d/1KboofpC-VvQNFiUQl9VhT5K0CNhaMbQY/view?usp=drive_link">
 Download Images - Part 2
 </a>
 
@@ -139,11 +146,11 @@ Download Data FS4
 
 <div class="download-panel">
 
-<a class="download-button" href="">
+<a class="download-button" href="https://drive.google.com/file/d/1RFGFFF0QTD_Fh97BEGhe0lPrSQqXMCsq/view?usp=drive_link">
 Download Images - Part 1
 </a>
 
-<a class="download-button" href="">
+<a class="download-button" href="https://drive.google.com/file/d/1-oVhxC9uBwWbB_0xsDFo4LCXIH9q6fvB/view?usp=drive_link">
 Download Images - Part 2
 </a>
 
