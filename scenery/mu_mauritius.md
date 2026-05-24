@@ -25,6 +25,8 @@ Also the two airports FIMP and FIMR are included with taxiways, aprons and 3D ob
 <span class="tag">POI's</span>
 <span class="tag">Elevation Mesh</span>
 
+<span class="tag">v1.0</span>
+
 </div>
 
 ---

@@ -41,6 +41,8 @@ title: South Africa
 
 <span class="tag">Photo Scenery</span>
 
+<span class="tag">v1.0</span>
+
 </div>
 </div>
 

@@ -33,6 +33,8 @@ For FS4 the following 3rd party freeware sceneries are also integrated in this p
 <span class="tag">POIs</span>
 <span class="tag">Elevation Mesh</span>
 
+<span class="tag">v1.1</span>
+
 </div>
 
 ---

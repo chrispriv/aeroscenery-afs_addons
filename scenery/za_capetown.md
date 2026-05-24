@@ -24,6 +24,8 @@ The stadium and cable car stations are added as POIs. To depict the shape of Tab
 <span class="tag">POIs</span>
 <span class="tag">Elevation Mesh</span>
 
+<span class="tag">v1.0</span>
+
 </div>
 
 ---

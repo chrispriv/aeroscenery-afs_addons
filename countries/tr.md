@@ -23,6 +23,8 @@ title: Turkey
 <span class="tag">POI's</span>
 <span class="tag">Elevation</span>
 
+<span class="tag">v1.0</span>
+
 </div>
 </div>
 
@@ -43,6 +45,8 @@ title: Turkey
 <span class="tag">Photo Scenery</span>
 <span class="tag">Airports</span>
 <span class="tag">Elevation</span>
+
+<span class="tag">v1.0</span>
 
 </div>
 </div>
