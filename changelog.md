@@ -21,4 +21,4 @@ title: Change Log
 - 🇲🇺 Mauritius Islands Scenery added/ v1.0
 - 🇫🇷 French Polynesia Scenery added / v1.0
 - 🇹🇷 Istanbul scenery added / v1.0
-- 🇹🇷 Turkish Riviera Photo Scenery added / v1.0
+- 🇹🇷 Turkish Riviera Photo Scenery added / v1.0Change Log file and version informations added

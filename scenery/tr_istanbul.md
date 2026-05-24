@@ -1,19 +1,27 @@
 ---
 layout: default
-title:  French Polynesia Scenery
-country: PF
+title:  Istanbul Town With Extended Area
+country: TR
 ---
 
-# French Polynesia Scenery
+# Mauritius Islands Scenery
 
 <img class="hero-image"
-src="../assets/images/scenery/pf_frenchpolynesia/hero.jpg">
+src="../assets/images/scenery/tr_istanbul/hero.jpg">
 
 ## Description
 
-Photo scenery covering all islands of French Polynesia including the main island Tahiti and the famous Bora Bora Island. 
+...
 
-There are 7 airports included (most with aprons, taxiways and objects) as well as elevation data.
+## Included Regions
+
+### Part 1
+- Istanbul
+- Pendik
+- Izmit
+
+### Part 2
+- Bursa
 
 <div class="tag-container">
 
@@ -36,19 +44,19 @@ There are 7 airports included (most with aprons, taxiways and objects) as well a
 <div class="preview-grid">
 
 <a href="#preview1">
-  <img src="../assets/images/scenery/pf_frenchpolynesia/preview1.jpg">
+  <img src="../assets/images/scenery/tr_istanbul/preview1.jpg">
 </a>
 
 <a href="#preview2">
-  <img src="../assets/images/scenery/pf_frenchpolynesia/preview2.jpg">
+  <img src="../assets/images/scenery/tr_istanbul/preview2.jpg">
 </a>
 
 <a href="#preview3">
-  <img src="../assets/images/scenery/pf_frenchpolynesia/preview3.jpg">
+  <img src="../assets/images/scenery/tr_istanbul/preview3.jpg">
 </a>
 
 <a href="#preview4">
-  <img src="../assets/images/scenery/pf_frenchpolynesia/preview4.jpg">
+  <img src="../assets/images/scenery/tr_istanbul/preview4.jpg">
 </a>
 
 </div>
@@ -56,25 +64,25 @@ There are 7 airports included (most with aprons, taxiways and objects) as well a
 <div id="preview1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/pf_frenchpolynesia/preview1.jpg">
+  <img src="../assets/images/scenery/tr_istanbul/preview1.jpg">
 </div>
 
 <div id="preview2" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/pf_frenchpolynesia/preview2.jpg">
+  <img src="../assets/images/scenery/tr_istanbul/preview2.jpg">
 </div>
 
 <div id="preview3" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/pf_frenchpolynesia/preview3.jpg">
+  <img src="../assets/images/scenery/tr_istanbul/preview3.jpg">
 </div>
 
 <div id="preview4" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/pf_frenchpolynesia/preview4.jpg">
+  <img src="../assets/images/scenery/tr_istanbul/preview4.jpg">
 </div>
 
 ---
@@ -84,7 +92,11 @@ There are 7 airports included (most with aprons, taxiways and objects) as well a
 <div class="preview-grid">
 
 <a href="#coverage1">
-  <img src="../assets/images/scenery/pf_frenchpolynesia/coverage.jpg">
+  <img src="../assets/images/scenery/tr_istanbul/coverage1.jpg">
+</a>
+
+<a href="#coverage2">
+  <img src="../assets/images/scenery/tr_istanbul/coverage2.jpg">
 </a>
 
 </div>
@@ -92,7 +104,13 @@ There are 7 airports included (most with aprons, taxiways and objects) as well a
 <div id="coverage1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/pf_frenchpolynesia/coverage.jpg">
+  <img src="../assets/images/scenery/tr_istanbul/coverage1.jpg">
+</div>
+
+<div id="coverage2" class="lightbox">
+  <a href="#!" class="lightbox-close">&times;</a>
+
+  <img src="../assets/images/scenery/tr_istanbul/coverage2.jpg">
 </div>
 
 ---
@@ -101,11 +119,15 @@ There are 7 airports included (most with aprons, taxiways and objects) as well a
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/1tlx42yDR55bXSeEUR2ZxjLJn55jJ--mS/view?usp=drive_link">
-Download Images
+<a class="download-button" href="">
+Download Images - Part 1
 </a>
 
-<a class="download-button" href="https://drive.google.com/file/d/1FKCYD373dTns-MJQg8LPb6ONQs0TxtYk/view?usp=drive_link">
+<a class="download-button" href="">
+Download Images - Part 2
+</a>
+
+<a class="download-button" href="https://drive.google.com/file/d/1A4shfuQdhuTh34STeCnfuRS_ICvANIPy/view?usp=drive_link">
 Download Data FS4
 </a>
 
@@ -117,11 +139,15 @@ Download Data FS4
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/1bSQC2WQ9MvfgNqu2KgDcIX8Z7-UY-Olr/view?usp=drive_link">
-Download Images
+<a class="download-button" href="">
+Download Images - Part 1
 </a>
 
-<a class="download-button" href="https://drive.google.com/file/d/1hOdsnVhgbV9pXCDVkYbP-UyGxw_lYh9B/view?usp=drive_link">
+<a class="download-button" href="">
+Download Images - Part 2
+</a>
+
+<a class="download-button" href="https://drive.google.com/file/d/1Zqmy8wrH8HLJN9OIxscDCIRCHhu6s2Ce/view?usp=drive_link">
 Download Data FSG
 </a>
 
