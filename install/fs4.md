@@ -14,11 +14,11 @@ title: FS4 Desktop Installation
 - `_images`
 - `_fs4`
 
-3. Copy unzipped _fs4 folder into your Aerofly FS4 user scenery folder and then place the images into your new scenery folder:
+3. Copy unzipped `_fs4` folder into your Aerofly FS4 user scenery folder and then place the images into your new scenery folder:
 
-```text
-Documents\Aerofly FS4\addons\scenery\<scenery-name>\
-```
+   ```text
+   Documents\Aerofly FS4\addons\scenery\<scenery-name>\
+   ```
 
 ## Notes
 Existing files can safely be overwritten.
@@ -31,6 +31,10 @@ If scenery tiles do not appear:
 - Verify correct folder placement
 - Restart Aerofly FS4
 - Check available disk space
+
+## FSG Mobile Installation
+
+- [FSG Mobile Installation](../install/fsg.html)
 
 ## Credits
 

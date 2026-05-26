@@ -14,9 +14,9 @@ title: FSG Mobile Installation
 
 2. Copy both files to the following directory on your Android device:
 
-```text
-/storage/emulated/0/Android/data/com.aerofly.aeroflyfsg1/files/<tme-files>/
-```
+   ```text
+   /storage/emulated/0/Android/data/com.aerofly.aeroflyfsg1/files/<tme-files>/
+   ```
 You can use:
 
 - Google Files App
@@ -34,6 +34,10 @@ If you encounter issues or performance problems:
 
 - Remove the .tme files
 - Restart the application
+
+## FS4 Desktop Installation
+
+- [FS4 Desktop Installation](../install/fs4.html)
 
 ## Credits
 
