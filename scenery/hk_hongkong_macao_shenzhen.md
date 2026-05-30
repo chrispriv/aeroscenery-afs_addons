@@ -21,7 +21,7 @@ The famous former Kai Tak Airport and additional POIs are also included.
 
 For FS4 the following 3rd party freeware sceneries are also integrated in this package:
 - Hong Kong: bridges / moving cars / harbor / (moving) ships 
-- Hang Kong: 1x airport and 26x heliports
+- Hong Kong: 1x airport and 26x heliports
 
 <div class="tag-container">
 
@@ -172,4 +172,4 @@ Download Kai Tak Airport (optional)
 
 # License
 
-- [License Information](../license/index.html)
+- [License Information](../license/license.html)

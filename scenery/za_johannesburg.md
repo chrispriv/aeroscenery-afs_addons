@@ -141,4 +141,4 @@ Download Images
 
 # License
 
-- [License Information](../license/index.html)
+- [License Information](../license/license.html)

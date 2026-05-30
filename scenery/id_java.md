@@ -206,4 +206,4 @@ Download Data FSG
 
 # License
 
-- [License Information](../license/index.html)
+- [License Information](../license/license.html)

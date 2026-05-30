@@ -20,5 +20,5 @@ title: Change Log
 - 🇮🇩 [Bali Photo Scenery](scenery/id_bali.html) added / v1.0
 - 🇲🇺 [Mauritius Islands Scenery](scenery/mu_mauritius.html) added/ v1.0
 - 🇫🇷 [French Polynesia Scenery added](scenery/pf_frenchpolynesia.html) / v1.0
-- 🇹🇷 [Istanbul scenery](scenery/tr_istanbul.html) added / v1.0
+- 🇹🇷 [Istanbul scenery](scenery/tr_istanbul.html) added / v1.1
 - 🇹🇷 [Turkish Riviera Photo Scenery](scenery/tr_riviera.html) added / v1.0
