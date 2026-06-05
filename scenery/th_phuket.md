@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Chengdu Photo Scener
-country: CN
+title: Phuket Photo Scenery 
+country: TH
 ---
 
-# Chengdu Photo Scenery
+# Phuket Photo Scenery 
 
 <img class="hero-image"
-src="../assets/images/scenery/cn_chengdu/hero.jpg">
+src="../assets/images/scenery/th_phuket/hero.jpg">
 
 ## Description
 
-Photo scenery in HD covering the town of Chengdu and its surroundings, incl. the mountains in the west. 
+Photo scenery covering tropical Phuket area and also Krabi in the east. 
 
-An elevation fix was made especially for the airport area.
+There are also an elevation fix for the airport area of Phuket and additional tropical vegetation with palms included (FS4 only).
 
 <div class="tag-container">
 
@@ -34,19 +34,19 @@ An elevation fix was made especially for the airport area.
 <div class="preview-grid">
 
 <a href="#preview1">
-  <img src="../assets/images/scenery/cn_chengdu/preview1.jpg">
+  <img src="../assets/images/scenery/th_phuket/preview1.jpg">
 </a>
 
 <a href="#preview2">
-  <img src="../assets/images/scenery/cn_chengdu/preview2.jpg">
+  <img src="../assets/images/scenery/th_phuket/preview2.jpg">
 </a>
 
 <a href="#preview3">
-  <img src="../assets/images/scenery/cn_chengdu/preview3.jpg">
+  <img src="../assets/images/scenery/th_phuket/preview3.jpg">
 </a>
 
 <a href="#preview4">
-  <img src="../assets/images/scenery/cn_chengdu/preview4.jpg">
+  <img src="../assets/images/scenery/th_phuket/preview4.jpg">
 </a>
 
 </div>
@@ -54,25 +54,25 @@ An elevation fix was made especially for the airport area.
 <div id="preview1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/cn_chengdu/preview1.jpg">
+  <img src="../assets/images/scenery/th_phuket/preview1.jpg">
 </div>
 
 <div id="preview2" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/cn_chengdu/preview2.jpg">
+  <img src="../assets/images/scenery/th_phuket/preview2.jpg">
 </div>
 
 <div id="preview3" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/cn_chengdu/preview3.jpg">
+  <img src="../assets/images/scenery/th_phuket/preview3.jpg">
 </div>
 
 <div id="preview4" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/cn_chengdu/preview4.jpg">
+  <img src="../assets/images/scenery/th_phuket/preview4.jpg">
 </div>
 
 ---
@@ -82,7 +82,7 @@ An elevation fix was made especially for the airport area.
 <div class="preview-grid">
 
 <a href="#coverage1">
-  <img src="../assets/images/scenery/cn_chengdu/coverage.jpg">
+  <img src="../assets/images/scenery/th_phuket/coverage.jpg">
 </a>
 
 </div>
@@ -90,7 +90,7 @@ An elevation fix was made especially for the airport area.
 <div id="coverage1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/cn_chengdu/coverage.jpg">
+  <img src="../assets/images/scenery/th_phuket/coverage.jpg">
 </div>
 
 ---
@@ -99,11 +99,11 @@ An elevation fix was made especially for the airport area.
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/1P5PqEiVPiTuX3LUQ2_VKrcTVXt6sycbi/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1eH1C8CpqIrTV7fS0YcBzQTL027uCGDy5/view?usp=drive_link">
 Download Images
 </a>
 
-<a class="download-button" href="https://drive.google.com/file/d/1MX0cuXDVdjL2G2GaFOOQWHJ4FnrFoU6Z/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1xmDCPkVU_VLlKFXJGqM9dXirDFT3PExj/view?usp=drive_link">
 Download Data FS4
 </a>
 
@@ -115,13 +115,14 @@ Download Data FS4
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/15kXTAu53YvSN4aro-KIu-aixRzt-MzMq/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1LgESRtGB-HK0JTNT5tvNfnOxYk3CX74W/view?usp=drive_link">
 Download Images
 </a>
 
-<a class="download-button" href="https://drive.google.com/file/d/1NBl8-zMgRU5H86eaw-YcSRGlwlmDhyM5/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1tlRPPBOmwnyOwgEoUXOqHT7Hh5eJHxM2/view?usp=drive_link">
 Download Data FSG
 </a>
+
 
 </div>
 

@@ -24,7 +24,6 @@ An elevation fix was made especially for the airport area.
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">Airports</span>
 <span class="tag">POI's</span>
 <span class="tag">Elevation Mesh</span>
 
