@@ -15,6 +15,8 @@ Photo scenery in HD covering the islands of Bali, Lombok & eastern part of Java.
 
 An elevation fix was made especially for the airport area as well as vulcans. WADE Lieutenant Colonel Wisnu Airfield is also included in addition to IPAC's airports.
 
+Additional tropical vegetation with palms is included for FS4 Desktop.
+
 <div class="tag-container">
 
 <span class="tag">FS4 Desktop</span>

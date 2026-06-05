@@ -11,7 +11,7 @@ src="../assets/images/scenery/re_lareunion/hero.jpg">
 
 ## Description
 
-HighRes Photo scenery covering beautiful La Reunion island. There is also an enhanced Elevation Mesh covering the whole island.
+HD Photo scenery covering beautiful La Reunion island. There is also an enhanced elevation mesh covering the whole island.
 
 <div class="tag-container">
 

@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Brazil
+title: Zimbabwe
 ---
-# Brazil
+# Zimbabwe
 
 <div class="scenery-grid">
 
-<a class="scenery-card" href="../scenery/br_riodejaneiro.html">
+<a class="scenery-card" href="../scenery/zw_victoriafalls.html">
 
-<img src="../assets/images/scenery/br_riodejaneiro.jpg">
+<img src="../assets/images/scenery/zw_victoriafalls.jpg">
 
 <div class="scenery-content">
-<h2>Rio de Janeiro Extended Photo Scenery</h2>
+<h2>Victoria Falls Scenery</h2>
 
 <div class="tag-container">
 
@@ -19,7 +19,6 @@ title: Brazil
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">Airports</span>
 
 <span class="tag">v1.0</span>
 

@@ -42,6 +42,7 @@ title: China
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
+<span class="tag">POI's</span>
 <span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
