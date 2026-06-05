@@ -11,7 +11,9 @@ src="../assets/images/scenery/cn_chengdu/hero.jpg">
 
 ## Description
 
-Photo scenery in HD covering the town of Chengdu and its surroundings, incl. the mountains in the west. An elevation fix was made especially for the airport area.
+Photo scenery in HD covering the town of Chengdu and its surroundings, incl. the mountains in the west. 
+
+An elevation fix was made especially for the airport area.
 
 <div class="tag-container">
 

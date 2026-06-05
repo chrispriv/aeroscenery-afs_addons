@@ -11,7 +11,7 @@ src="../assets/images/scenery/az_baku/hero.jpg">
 
 ## Description
 
-Photo scenery covering Baku town and the surrounding area.
+Photo scenery in HD covering Baku town and the surrounding area.
 
 ## Note
 To add currently missing pushback parking positions to UBBB Baku airport, install the add-on created by @Wingberry. It includes approximately 150 airports worldwide.

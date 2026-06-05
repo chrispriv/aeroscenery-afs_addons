@@ -11,7 +11,9 @@ src="../assets/images/scenery/cn_kunming/hero.jpg">
 
 ## Description
 
-Photo scenery in HD covering the town of Kunming and its surroundings. Take a flight to Chengu in the north. An elevation fix was made especially for the airport area.
+Photo scenery in HD covering the town of Kunming and its surroundings.
+
+An elevation fix was made especially for the airport area.
 
 <div class="tag-container">
 

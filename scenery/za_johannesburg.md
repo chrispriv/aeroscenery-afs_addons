@@ -119,16 +119,12 @@ Download Images
 # References
 
 - ArcGIS Maps © 
-- OpenTopography - ALOS World 3D 30m data © 
-- SketchUp 3D Warehouse (3dwarehouse.sketchup.com)
 
 ---
 
 # Credits
 
 - nickhod for AeroScenery (creating photo-sceneries)
-- Arno Gerretsen for ModelConverterX (converting-tool)
-- to all the authors of the models used
 
 ---
 
