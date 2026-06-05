@@ -14,7 +14,7 @@ src="../assets/images/scenery/az_baku/hero.jpg">
 Photo scenery covering Baku town and the surrounding area.
 
 ## Note
-To add actually missing pushback parking positions to UBBB Bako airport, you can install the add-on created by @Wingberry. It includes approximately 150 airports worldwide.
+To add currently missing pushback parking positions to UBBB Baku airport, install the add-on created by @Wingberry. It includes approximately 150 airports worldwide.
 
 <div class="tag-container">
 
@@ -130,17 +130,13 @@ Download Airport Pushbacks (by @Wingberry)
 # References
 
 - ArcGIS Maps © 
-- OpenTopography - ALOS World 3D 30m data © 
-- SketchUp 3D Warehouse (3dwarehouse.sketchup.com)
 
 ---
 
 # Credits
 
 - nickhod for AeroScenery (creating photo-sceneries)
-- Arno Gerretsen for ModelConverterX (converting-tool)
-- to all the authors of the models used
-- @Wingberry for his additional pushback add-on
+- @Wingberry for additional pushback add-on
 
 ---
 
