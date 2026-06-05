@@ -4,7 +4,7 @@ title: Baku Photo Scenery
 country: AZ
 ---
 
-# Johannesburg Photo Scenery
+# Baku Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/az_baku/hero.jpg">
@@ -103,10 +103,6 @@ To add actually missing pushback parking positions to UBBB Bako airport, you can
 Download Images
 </a>
 
-</div>
-
-<div class="download-panel">
-
 <a class="download-button" href="https://drive.google.com/file/d/1ku_-84UnYqSGEI20oV3rFmEvams3JIja/view?usp=drive_link">
 Download Airport Pushbacks (by @Wingberry)
 </a>
@@ -122,10 +118,6 @@ Download Airport Pushbacks (by @Wingberry)
 <a class="download-button" href="https://drive.google.com/file/d/1dC7hAThDtM4CTOgQ2RKzVtV_yv6MfFZ0/view?usp=drive_link">
 Download Images
 </a>
-
-</div>
-
-<div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1jYWX_NTUNu5iXeJVvqHD-mKuKEUqMCNR/view?usp=drive_link">
 Download Airport Pushbacks (by @Wingberry)
