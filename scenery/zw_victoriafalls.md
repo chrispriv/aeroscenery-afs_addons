@@ -91,6 +91,12 @@ To add currently missing pushback parking positions to FVFA Victoria Falls airpo
 
 </div>
 
+<div id="coverage1" class="lightbox">
+  <a href="#!" class="lightbox-close">&times;</a>
+
+  <img src="../assets/images/scenery/zw_victoriafalls/coverage.jpg">
+</div>
+
 ---
 
 # FS4 Desktop Downloads (zip)
@@ -121,7 +127,7 @@ Download Airport Pushbacks (by @Wingberry)
 Download Images
 </a>
 
-<a class="https://drive.google.com/file/d/1Zy-mJE2k256AwZ49qwdFEH90Zd4hcQne/view?usp=drive_link">
+<a class="download-button" href="https://drive.google.com/file/d/1Zy-mJE2k256AwZ49qwdFEH90Zd4hcQne/view?usp=drive_link">
 Download Data FSG
 </a>
 

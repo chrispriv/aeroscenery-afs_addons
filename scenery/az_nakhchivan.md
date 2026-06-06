@@ -4,7 +4,7 @@ title: Nakhchivan Photo Scenery
 country: AZ
 ---
 
-# Baku Photo Scenery
+# Nakhchivan Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/az_nakhchivan/hero.jpg">
@@ -85,6 +85,12 @@ To add currently missing pushback parking positions to UBBN Nakhchivan airport, 
   <img src="../assets/images/scenery/az_nakhchivan/coverage.jpg">
 </a>
 
+</div>
+
+<div id="coverage1" class="lightbox">
+  <a href="#!" class="lightbox-close">&times;</a>
+
+  <img src="../assets/images/scenery/az_nakhchivan/coverage.jpg">
 </div>
 
 ---

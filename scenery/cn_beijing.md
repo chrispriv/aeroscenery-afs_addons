@@ -86,11 +86,7 @@ An elevation fix was made especially for the airport area.
 <div class="preview-grid">
 
 <a href="#coverage1">
-  <img src="../assets/images/scenery/cn_beijing/coverage1.jpg">
-</a>
-
-<a href="#coverage2">
-  <img src="../assets/images/scenery/cn_beijing/coverage2.jpg">
+  <img src="../assets/images/scenery/cn_beijing/coverage.jpg">
 </a>
 
 </div>
@@ -98,13 +94,7 @@ An elevation fix was made especially for the airport area.
 <div id="coverage1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/cn_beijing/coverage1.jpg">
-</div>
-
-<div id="coverage2" class="lightbox">
-  <a href="#!" class="lightbox-close">&times;</a>
-
-  <img src="../assets/images/scenery/cn_beijing/coverage2.jpg">
+  <img src="../assets/images/scenery/cn_beijing/coverage.jpg">
 </div>
 
 ---
