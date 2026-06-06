@@ -5,6 +5,12 @@ title: Change Log
 
 # Change Log
 
+## 2026-06-06
+- 🇨🇳 [Beijing Area Scenery](scenery/cn_beijing.html) released / v1.0
+- 🇨🇳 [Chengdu Photo Scenery](scenery/cn_chengdu.html) released / v1.0
+- 🇨🇳 [Kunming Photo Scenery](scenery/cn_kunming.html) released / v1.0
+- 🇹🇭 [Phuket Photo Scenery](scenery/th_phuket.html) released / v1.0
+
 ## 2026-05-26
 - 🇿🇦 [Johannesburg Photo Scenery](scenery/za_johannesburg.html) released / v1.0
 

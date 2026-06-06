@@ -25,7 +25,7 @@ High quality freeware addons for:
 
   <div class="country-overlay">
     <h2>🇨🇳 China</h2>
-    <p>1 Scenery</p>
+    <p>3 Sceneries</p>
   </div>
 </a>
 
