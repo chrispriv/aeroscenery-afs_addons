@@ -25,6 +25,8 @@ title: Azerbaijan
 </div>
 </div>
 
+</a>
+
 <a class="scenery-card" href="../scenery/az_nakhchivan.html">
 
 <img src="../assets/images/scenery/az_nakhchivan.jpg">
