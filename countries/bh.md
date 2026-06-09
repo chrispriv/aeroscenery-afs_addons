@@ -6,9 +6,9 @@ title: Bahrein
 
 <div class="scenery-grid">
 
-<a class="scenery-card" href="../scenery/bh_bahrein.html">
+<a class="scenery-card" href="../scenery/bh_bahrain.html">
 
-<img src="../assets/images/scenery/bh_bahrein.jpg">
+<img src="../assets/images/scenery/bh_bahrain.jpg">
 
 <div class="scenery-content">
 <h2>Bahrain Photo Scenery</h2>
@@ -19,7 +19,6 @@ title: Bahrein
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">Airports</span>
 
 <span class="tag">v1.0</span>
 

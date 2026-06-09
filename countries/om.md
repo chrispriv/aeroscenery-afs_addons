@@ -11,7 +11,7 @@ title: Oman
 <img src="../assets/images/scenery/om_muscat.jpg">
 
 <div class="scenery-content">
-<h2>Qatar Photo Scenery</h2>
+<h2>Oman Photo Scenery</h2>
 
 <div class="tag-container">
 

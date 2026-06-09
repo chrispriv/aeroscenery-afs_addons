@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Buenos Aires-Ezeiza Area Scenery
+title: Buenos Aires Area Scenery
 country: AR
 ---
 
-# Buenos Aires-Ezeiza Area Scenery
+# Buenos Aires Area Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/ar_buenosaires/hero.jpg">

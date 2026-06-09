@@ -11,7 +11,7 @@ title: United Arab Emirates
 <img src="../assets/images/scenery/ae_dubai.jpg">
 
 <div class="scenery-content">
-<h2>Dubai Scenery</h2>
+<h2>Dubai Photo Scenery</h2>
 
 <div class="tag-container">
 
@@ -19,8 +19,9 @@ title: United Arab Emirates
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
+<span class="tag">Airports</span>
 
-<span class="tag">v1.0</span>
+<span class="tag">v1.2</span>
 
 </div>
 </div>

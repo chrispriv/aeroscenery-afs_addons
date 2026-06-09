@@ -11,7 +11,7 @@ title: Argentina
 <img src="../assets/images/scenery/ar_buenosaires.jpg">
 
 <div class="scenery-content">
-<h2> Buenos Aires-Ezeiza Area Scenery</h2>
+<h2> Buenos Aires Area Scenery</h2>
 
 <div class="tag-container">
 
