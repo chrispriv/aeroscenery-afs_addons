@@ -27,7 +27,7 @@ An elevation fix was made especially for the airport area.
 <span class="tag">POI's</span>
 <span class="tag">Elevation Mesh</span>
 
-<span class="tag">v1.1</span>
+<span class="tag">v1.0</span>
 
 </div>
 

@@ -99,7 +99,7 @@ To add currently missing pushback parking positions to UBBN Nakhchivan airport, 
 
 <div class="download-panel">
 
-<a class="download-button" href="">
+<a class="download-button" href="https://drive.google.com/file/d/1ZbbWbk3ev8TKIMnBdfaI-P_D3890m4lA/view?usp=drive_link">
 Download Images
 </a>
 
@@ -115,7 +115,7 @@ Download Airport Pushbacks (by @Wingberry)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
+<a class="download-button" href="https://drive.google.com/file/d/1tQMwe_hxabO21kqsRyqA6knJRiQuZp5c/view?usp=sharing">
 Download Images
 </a>
 
