@@ -21,7 +21,7 @@ There are also an elevation fix for the airport area of Phuket and additional tr
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">Elevation Mesh</span>
+<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 

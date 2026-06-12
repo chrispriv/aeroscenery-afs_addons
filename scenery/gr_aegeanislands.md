@@ -58,7 +58,7 @@ Former FS2 Samos Airport Scenery from brunnobellic (only for FS4 Desktop)
 <span class="tag">Photo Scenery</span>
 <span class="tag">Airports</span>
 <span class="tag">POIs</span>
-<span class="tag">Elevation Mesh</span>
+<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 

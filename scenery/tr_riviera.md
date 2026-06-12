@@ -34,7 +34,7 @@ Elevation data are also included for improvement of coastal sections and in part
 
 <span class="tag">Photo Scenery</span>
 <span class="tag">Airports</span>
-<span class="tag">Elevation Mesh</span>
+<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 

@@ -25,7 +25,7 @@ To add currently missing pushback parking positions to FVFA Victoria Falls airpo
 
 <span class="tag">Photo Scenery</span>
 <span class="tag">POIs</span>
-<span class="tag">Elevation Mesh</span>
+<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 

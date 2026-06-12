@@ -31,7 +31,7 @@ For FS4 the following 3rd party freeware sceneries are also integrated in this p
 <span class="tag">Photo Scenery</span>
 <span class="tag">Airports</span>
 <span class="tag">POIs</span>
-<span class="tag">Elevation Mesh</span>
+<span class="tag">Elevation</span>
 
 <span class="tag">v1.1</span>
 

@@ -39,7 +39,7 @@ It also has a few POIs in Jakarta, Bandung and Surabaya. An elevation fix was ma
 
 <span class="tag">Photo Scenery</span>
 <span class="tag">POIs</span>
-<span class="tag">Elevation Mesh</span>
+<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 
