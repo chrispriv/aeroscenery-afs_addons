@@ -100,10 +100,6 @@ Photo scenery in HD covering Bahrain and its capital, Manama.
 Download Images
 </a>
 
-<a class="download-button" href="">
-Download Data FS4
-</a>
-
 </div>
 
 ---
@@ -115,11 +111,6 @@ Download Data FS4
 <a class="download-button" href="">
 Download Images
 </a>
-
-<a class="download-button" href="">
-Download Data FSG
-</a>
-
 
 </div>
 

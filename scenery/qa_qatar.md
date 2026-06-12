@@ -4,7 +4,7 @@ title: Qatar Photo Scenery
 country: QA
 ---
 
-# Dubai Photo Scenery
+# Qatar Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/qa_qatar/hero.jpg">
@@ -100,10 +100,6 @@ Photo scenery in HD covering Qatar and its capital, Doha.
 Download Images
 </a>
 
-<a class="download-button" href="">
-Download Data FS4
-</a>
-
 </div>
 
 ---
@@ -115,11 +111,6 @@ Download Data FS4
 <a class="download-button" href="">
 Download Images
 </a>
-
-<a class="download-button" href="">
-Download Data FSG
-</a>
-
 
 </div>
 
