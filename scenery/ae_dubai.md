@@ -13,11 +13,11 @@ src="../assets/images/scenery/ae_dubai/hero.jpg">
 
 Photo scenery in HD for Dubai area and Abu Dhabi, covering a large part of the United Arab Emirates. 
 
-There are 12 airports included (most with aprons, taxiways and objects) as well. 
+There are 12 airports included (most with aprons, taxiways and objects). 
 
 There is also an elevation fix for Dubai and Abu Dhabi City.
 
-## Description
+## Note
 
 Version 1.2 has been updated to work together with add. photo sceneries of the Gulf States (Qatar, Bahrain and Oman in progress). 
 
