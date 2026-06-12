@@ -11,11 +11,29 @@ High quality freeware addons for:
 
 <div class="country-grid">
 
+<a class="country-card" href="countries/ae.html">
+  <img src="assets/images/countries/ae.jpg">
+
+  <div class="country-overlay">
+    <h2>🇦🇪 United Arab Emirates</h2>
+    <p>1 Scenery</p>
+  </div>
+</a>
+
 <a class="country-card" href="countries/aq.html">
   <img src="assets/images/countries/aq.jpg">
 
   <div class="country-overlay">
     <h2>🇦🇶 Antarctica</h2>
+    <p>1 Scenery</p>
+  </div>
+</a>
+
+<a class="country-card" href="countries/ar.html">
+  <img src="assets/images/countries/ar.jpg">
+
+  <div class="country-overlay">
+    <h2>🇦🇷 Argentina</h2>
     <p>1 Scenery</p>
   </div>
 </a>

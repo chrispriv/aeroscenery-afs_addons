@@ -5,6 +5,10 @@ title: Change Log
 
 # Change Log
 
+## 2026-06-12
+- 🇦🇪 [Dubai Photo Scenery](scenery/ae_dubai.html) added & updated / v1.2
+- 🇦🇷 [Buenos Aires Area Scenery](scenery/ar_buenosaires.html) released / v1.0
+
 ## 2026-06-06
 - 🇨🇳 [Beijing Area Scenery](scenery/cn_beijing.html) released / v1.0
 - 🇨🇳 [Chengdu Photo Scenery](scenery/cn_chengdu.html) released / v1.0
