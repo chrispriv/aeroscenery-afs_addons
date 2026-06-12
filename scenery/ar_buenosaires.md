@@ -22,7 +22,7 @@ The airfield SAAK Isla Martin Garcia is also included in addition to IPAC's stre
 
 <span class="tag">Photo Scenery</span>
 <span class="tag">Airports</span>
-<span class="tag">Elevation Mesh</span>
+<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 
