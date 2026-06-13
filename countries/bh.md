@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Bahrein
+title: Bahrain
 ---
-# Bahrein
+# Bahrain
 
 <div class="scenery-grid">
 
