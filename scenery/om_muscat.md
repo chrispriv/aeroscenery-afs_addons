@@ -4,14 +4,14 @@ title: Muscat Photo Scenery
 country: OM
 ---
 
-# Oman Photo Scenery
+# Muscat Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/om_muscat/hero.jpg">
 
 ## Description
 
-Photo scenery in HD covering a large part of Oman and its capital, Muscat, going up to Khasab at the Strait of Hormuz.
+Photo scenery in HD covering a large part of Oman and its capital, Muscat, as well as eastern part of UAE, going up to Khasab at the Strait of Hormuz.
 
 <div class="tag-container">
 
@@ -19,6 +19,8 @@ Photo scenery in HD covering a large part of Oman and its capital, Muscat, going
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
+<span class="tag">Airports</span>
+<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 
