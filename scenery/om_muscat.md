@@ -13,6 +13,8 @@ src="../assets/images/scenery/om_muscat/hero.jpg">
 
 Photo scenery in HD covering a large part of Oman and its capital, Muscat, as well as eastern part of UAE, going up to Khasab at the Strait of Hormuz.
 
+There are 2 airports enhancements and elevation data for OOMS Muscat airport included.
+
 <div class="tag-container">
 
 <span class="tag">FS4 Desktop</span>

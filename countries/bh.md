@@ -20,7 +20,7 @@ title: Bahrain
 
 <span class="tag">Photo Scenery</span>
 
-<span class="tag">v1.0</span>
+<span class="tag">v1.1</span>
 
 </div>
 </div>
