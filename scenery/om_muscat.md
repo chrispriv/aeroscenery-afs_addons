@@ -100,12 +100,12 @@ There are 2 airports enhancements and elevation data for OOMS Muscat airport inc
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images
+<a class="download-button" href="https://drive.google.com/file/d/1pjhrHIpY6SytGMZYvwKinCZDFyq0W72R/view?usp=drive_link">
+Download Images (2.11 GB)
 </a>
 
-<a class="download-button" href="">
-Download Data FS4
+<a class="download-button" href="https://drive.google.com/file/d/1jpPscjnUbKzX4RvKM5tqKFufL6n9Ch0W/view?usp=drive_link">
+Download Data FS4 (913 KB)
 </a>
 
 </div>
@@ -116,12 +116,12 @@ Download Data FS4
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images
+<a class="download-button" href="https://drive.google.com/file/d/1CziJqr0qQRaFz2ZeHICOuXlgrOcfZXkh/view?usp=drive_link">
+Download Images (1.76 GB)
 </a>
 
-<a class="download-button" href="">
-Download Data FSG
+<a class="download-button" href="https://drive.google.com/file/d/1KmLwXHhm3f-wMbfGmEScbQBuSL2l9YF8/view?usp=drive_link">
+Download Data FSG (716 KB)
 </a>
 
 
