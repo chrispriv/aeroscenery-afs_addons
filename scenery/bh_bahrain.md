@@ -97,7 +97,7 @@ Photo scenery in HD covering Bahrain and its capital, Manama.
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1ZZe9r06ILfNZ8Wn5b9gAtH0zUEAiN-ls/view?usp=sharing">
-Download Images
+Download Images (837 MB)
 </a>
 
 </div>
@@ -109,7 +109,7 @@ Download Images
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1skTDUr2j6hdMm4q1u4gV4x5aKMgaSnEx/view?usp=drive_link">
-Download Images
+Download Images (413.7 MB)
 </a>
 
 </div>

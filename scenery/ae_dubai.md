@@ -109,11 +109,11 @@ If you have an older version of the scenery installed, delete it and replace it 
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1E6tLJgDSzNg0fwh2HKwNXmHZTNFnaIPM/view?usp=drive_link">
-Download Images
+Download Images (3.43 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1CY9oL2FQBmf-9VBWPp4YdXpqEacdHyGy/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (3.2 MB)
 </a>
 
 </div>
@@ -125,11 +125,11 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1mX06Jvx6ZfhlaV_ICsI95XLxmzTKdB7o/view?usp=drive_link">
-Download Images
+Download Images (1.43 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/11ulIVkPi1BNHUotDfLpD3uF9pBBvrwWH/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (22.3 MB)
 </a>
 
 

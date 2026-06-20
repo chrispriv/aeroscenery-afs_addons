@@ -97,7 +97,7 @@ Photo scenery in HD covering Qatar and its capital, Doha.
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1WU7H1ei3JMsksPM3gNZvXkIP4H8xht8J/view?usp=drive_link">
-Download Images
+Download Images (843.8 MB)
 </a>
 
 </div>
@@ -109,7 +109,7 @@ Download Images
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1tTqebCi1rSR-swSv50MI2wUitPtGZbOu/view?usp=drive_link">
-Download Images
+Download Images (761.9 MB)
 </a>
 
 </div>

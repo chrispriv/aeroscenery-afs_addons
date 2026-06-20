@@ -5,6 +5,11 @@ title: Change Log
 
 # Change Log
 
+## 2026-06-20
+- 🇿🇼 [Victoria Falls Scenery](scenery/zw_victoriafalls.html) released / v1.0
+- 🇦🇿 [Baku Photo Scenery](scenery/az_baku.html) released / v1.0
+- 🇦🇿 [Nakhchivan Photo Scenery](scenery/az_nakhchivan.html) released / v1.0
+
 ## 2026-06-12
 - 🇦🇪 [Dubai Photo Scenery](scenery/ae_dubai.html) added & updated / v1.2
 - 🇦🇷 [Buenos Aires Area Scenery](scenery/ar_buenosaires.html) added / v1.0
@@ -20,7 +25,7 @@ title: Change Log
 
 ## 2026-05-24
 - 🇮🇩 [Java Island Photo Scenery](scenery/id_java.html) released / v1.0
-- 🇫🇷 [La Reunion Photo Scenery](scenery/re_lareunion.html) released / v1.0
+- 🇷🇪 [La Reunion Photo Scenery](scenery/re_lareunion.html) released / v1.0
 - 🇿🇦 [Cape Town scenery](scenery/za_capetown.html) released / v1.0
 
 ## 2026-05-23
@@ -29,6 +34,6 @@ title: Change Log
 - 🇭🇰/🇨🇳 [Hong Kong, Macao & Shenzhen (incl. Kai Tak airport)](scenery/hk_hongkong_macao_shenzhen.html) added / v1.1
 - 🇮🇩 [Bali Photo Scenery](scenery/id_bali.html) added / v1.0
 - 🇲🇺 [Mauritius Islands Scenery](scenery/mu_mauritius.html) added/ v1.0
-- 🇫🇷 [French Polynesia Scenery added](scenery/pf_frenchpolynesia.html) / v1.0
+- 🇵🇫 [French Polynesia Scenery added](scenery/pf_frenchpolynesia.html) / v1.0
 - 🇹🇷 [Istanbul scenery](scenery/tr_istanbul.html) added / v1.1
 - 🇹🇷 [Turkish Riviera Photo Scenery](scenery/tr_riviera.html) added / v1.0

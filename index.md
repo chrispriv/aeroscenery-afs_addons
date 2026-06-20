@@ -38,6 +38,15 @@ High quality freeware addons for:
   </div>
 </a>
 
+<a class="country-card" href="countries/az.html">
+  <img src="assets/images/countries/az.jpg">
+
+  <div class="country-overlay">
+    <h2>🇦🇿 Azerbaijan</h2>
+    <p>2 Sceneries</p>
+  </div>
+</a>
+
 <a class="country-card" href="countries/cn.html">
   <img src="assets/images/countries/cn.jpg">
 
@@ -87,7 +96,7 @@ High quality freeware addons for:
   <img src="assets/images/countries/pf.jpg">
 
   <div class="country-overlay">
-    <h2>🇫🇷 French Polynesia</h2>
+    <h2>🇵🇫 French Polynesia</h2>
     <p>1 Scenery</p>
   </div>
 </a>
@@ -96,7 +105,7 @@ High quality freeware addons for:
   <img src="assets/images/countries/re.jpg">
 
   <div class="country-overlay">
-    <h2>🇫🇷 La Reunion</h2>
+    <h2>🇷🇪 La Reunion</h2>
     <p>1 Scenery</p>
   </div>
 </a>
@@ -125,6 +134,15 @@ High quality freeware addons for:
   <div class="country-overlay">
     <h2>🇿🇦 South Africa</h2>
     <p>2 Sceneries</p>
+  </div>
+</a>
+
+<a class="country-card" href="countries/zw.html">
+  <img src="assets/images/countries/zw.jpg">
+
+  <div class="country-overlay">
+    <h2>🇿🇼 Zimbabwe</h2>
+    <p>1 Scenery</p>
   </div>
 </a>
 
