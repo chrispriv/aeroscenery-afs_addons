@@ -123,15 +123,15 @@ Elevation data are also included for improvement of coastal sections and in part
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1oyLXoSaVbhXNT2UBvb31xBjuhEfjU7FZ/view?usp=drive_link">
-Download Images - Part 1
+Download Images - Part 1 (1.86 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1rJuVFabNb91-gSLsvh_TZu5BIukgkjFZ/view?usp=drive_link">
-Download Images - Part 2
+Download Images - Part 2 (1.97 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/10AipxYqfEcetZiNXUDJuHGpkulFNGr8B/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (23.9 MB)
 </a>
 
 </div>
@@ -143,15 +143,15 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1OEN4EM0DsYoCHv2J6GhupEi9K6lL39AK/view?usp=drive_link">
-Download Images - Part 1
+Download Images - Part 1 (1.6 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1SK6WrATQke8Uiod31axozXB-6Y_AFr4l/view?usp=drive_link">
-Download Images - Part 2
+Download Images - Part 2 (1.33 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1I-Nw83YATgTaNeJRm7d5sp1t4Gf_8RCP/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (23.3 MB)
 </a>
 
 

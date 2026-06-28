@@ -187,31 +187,31 @@ Former FS2 Samos Airport Scenery from brunnobellic (only for FS4 Desktop)
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1XvkuqWI-crxTg6K2nrlSL48YVhrjWB-Z/view?usp=drive_link">
-Download Images - Part 1
+Download Images - Part 1 (801.4 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1kwldrZldE72mfluGGoY8KTDIyFMu939e/view?usp=drive_link">
-Download Images - Part 2
+Download Images - Part 2 (981.1 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1H96UnxRUL5cRTzpkOFaYd5R8PfsvSN2u/view?usp=drive_link">
-Download Images - Part 3
+Download Images - Part 3 (1.43 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1THi0TMSFQ0S7ndSjApk4nJLoPB_xxMl5/view?usp=drive_link">
-Download Images - Part 4
+Download Images - Part 4 (355.8 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/11UjW2LctO48YrYdcLZfFwoKTGb4jnqGA/view?usp=drive_link">
-Download Images - Part 5
+Download Images - Part 5 (855.4 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/11MGp1C94-ZFma2fT7sQvOezS_uqw08YD/view?usp=drive_link">
-Download Images - Part 6
+Download Images - Part 6 (1.85 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1sOLdPdM1z1GBcp2l0Z34Pr1-H1sAickE/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (59.3 MB)
 </a>
 
 </div>
@@ -223,31 +223,31 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1mwb9NEcZnlAAr4AtrVo-RvdSy3J1KI8P/view?usp=drive_link">
-Download Images - Part 1
+Download Images - Part 1 (259.5 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1innQcqWJIXSGIw-eTFFwnY9josvvf7Wf/view?usp=drive_link">
-Download Images - Part 2
+Download Images - Part 2 (401.5 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1PPdCspTRHuCtb6FGRSGletZr2dTpqs4V/view?usp=drive_link">
-Download Images - Part 3
+Download Images - Part 3 (400 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/193SGmODGDV7iZnuqMggd1O-piLelJB8M/view?usp=drive_link">
-Download Images - Part 4
+Download Images - Part 4 (205.4 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1X-DgLpMueWrdZ7UpvKyn0q4Kc0J0VY-B/view?usp=drive_link">
-Download Images - Part 5
+Download Images - Part 5 (290.1 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1T_ZmuaDXGORx9dSknqGp42cTb8LiWNer/view?usp=drive_link">
-Download Images - Part 6
+Download Images - Part 6 (1.68 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/13ljN5pWIXFcC7bVDtiYGqscXES9z4H4Q/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (21.6 MB)
 </a>
 
 </div>

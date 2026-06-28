@@ -98,11 +98,11 @@ HD Photo scenery covering beautiful La Reunion island. There is also an enhanced
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1yAjx_0BQ1sAHYKPzCSNVqwWizu-25yEN/view?usp=drive_link">
-Download Images
+Download Images (437.3 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/18HpuK9EiAq3wr021QT_tav-gwnO68-Vp/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (42.4 MB)
 </a>
 
 </div>
@@ -114,11 +114,11 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1xMUkjSIxp0iIJeoRzXd3T1DmDRaUVmLS/view?usp=drive_link">
-Download Images
+Download Images (441.1 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1SpG-3QgZUkGkYwwdj_Lax3rz40bthQtk/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (2.5 MB)
 </a>
 
 </div>

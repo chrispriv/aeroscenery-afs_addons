@@ -138,19 +138,19 @@ It also has a few POIs in Jakarta, Bandung and Surabaya. An elevation fix was ma
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1bXJHYrp3s_fztXMzNvLoSZ29j2QZLoWi/view?usp=drive_link">
-Download Images - Part 1
+Download Images - Part 1 (1.67 GB))
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1GUJCcM3DHBptf641xKdq9CTc0mUJYsoj/view?usp=drive_link">
-Download Images - Part 2
+Download Images - Part 2 (1.01 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1lm5h7vOmzpJLxU0q8G4lGlp5-O6BOv6S/view?usp=drive_link">
-Download Images - Part 3
+Download Images - Part 3 (767.1 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1gebc8MzG4p_dbtuQjRXCuyOKZPS-T78a/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (22.7 MB)
 </a>
 
 </div>
@@ -162,19 +162,19 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1cMV32AgiAEY9KJFjZGhhDL4Uzh3Svpbh/view?usp=drive_link">
-Download Images - Part 1
+Download Images - Part 1 (1.08 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1E5qy3WZg2R7YYnoYMYEj9mJUjN7YBsVn/view?usp=drive_link">
-Download Images - Part 2
+Download Images - Part 2 (696 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1UEUJuJCnAnEwocFZ5_FD8AbFduTtiuhX/view?usp=drive_link">
-Download Images - Part 3
+Download Images - Part 3 (491.1 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1jfU7uQev5NlNnaJexGiN3PlZ48yOBatD/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (6.5 MB)
 </a>
 
 </div>

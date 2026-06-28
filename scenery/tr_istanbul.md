@@ -127,15 +127,15 @@ Elevation data are also included for improvement and in particular as fix for th
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/10n-n8NWr27tdu7NiFZf7l4dtdJt6_ja9/view?usp=drive_link">
-Download Images - Part 1
+Download Images - Part 1 (2.55 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1KboofpC-VvQNFiUQl9VhT5K0CNhaMbQY/view?usp=drive_link">
-Download Images - Part 2
+Download Images - Part 2 (1.54 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1A4shfuQdhuTh34STeCnfuRS_ICvANIPy/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (13.2 MB)
 </a>
 
 </div>
@@ -147,15 +147,15 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1RFGFFF0QTD_Fh97BEGhe0lPrSQqXMCsq/view?usp=drive_link">
-Download Images - Part 1
+Download Images - Part 1 (1.16 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1-oVhxC9uBwWbB_0xsDFo4LCXIH9q6fvB/view?usp=drive_link">
-Download Images - Part 2
+Download Images - Part 2 (1.13 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1Zqmy8wrH8HLJN9OIxscDCIRCHhu6s2Ce/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (13.1 MB)
 </a>
 
 

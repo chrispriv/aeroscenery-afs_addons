@@ -110,11 +110,11 @@ For FS4 the following 3rd party freeware sceneries are also integrated in this p
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/13GJSlpD6WnxAGVdrnHv1yhKgvniyGydD/view?usp=drive_link">
-Download Images
+Download Images (2.64 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/17vkMHelgdc0gLa2ELzFU9RwWoju82PXM/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (88.3 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/19ewDOZ40NYXznbJr-9iVtXsS8rF9OrDO/view?usp=drive_link">
@@ -130,11 +130,11 @@ Download Kai Tak Airport (optional)
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1ki_fZs_9dn2DpOGlWu4kUiCWrTd4XdCS/view?usp=drive_link">
-Download Images
+Download Images (1.62 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1bgW9Q84lVZrL2zRop6sfVANKjbBNdbsL/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (14.4 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1UG_NfAlsitFlmmTf7GsWQvzvazoDdQKh/view?usp=drive_link">

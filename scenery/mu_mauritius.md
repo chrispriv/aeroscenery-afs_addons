@@ -112,11 +112,11 @@ Also the two airports FIMP and FIMR are included with taxiways, aprons and 3D ob
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1V-wjyMJxWaUoItO4lrKJfpDRb5yYcGRf/view?usp=drive_link">
-Download Images
+Download Images (820.9 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1W-4pT3uMp6mQNc37hd5qF1v0HGpPAKsp/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (30.2 MB)
 </a>
 
 </div>
@@ -128,11 +128,11 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1oNY-RgrF-qi_mfKsvoHr1kDEDzYCDUp6/view?usp=drive_link">
-Download Images
+Download Images (181.2 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1LBKxKBXIPOSvw5JIMkP9fRtFteiU8kxh/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (7.1 MB)
 </a>
 
 

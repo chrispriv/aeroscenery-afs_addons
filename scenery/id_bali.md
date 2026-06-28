@@ -103,11 +103,11 @@ Additional tropical vegetation with palms is included for FS4 Desktop.
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/10UMBgkeGuZe4fJB0Tf8ojR4WjNJ8BDhk/view?usp=drive_link">
-Download Images
+Download Images (928.3 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1gebc8MzG4p_dbtuQjRXCuyOKZPS-T78a/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (92.7 MB)
 </a>
 
 </div>
@@ -119,11 +119,11 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1fw4U-z_wuUvRVZmxi1i5dKlPNbkYj0kb/view?usp=drive_link">
-Download Images
+Download Images (627.4 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1vxl3meltonS28MNkyI9Ey7ptuA-Y1p6s/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (3.1 MB)
 </a>
 
 

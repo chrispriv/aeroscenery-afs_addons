@@ -102,11 +102,11 @@ There are 7 airports included (most with aprons, taxiways and objects) as well a
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1tlx42yDR55bXSeEUR2ZxjLJn55jJ--mS/view?usp=drive_link">
-Download Images
+Download Images (446.5 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1FKCYD373dTns-MJQg8LPb6ONQs0TxtYk/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (50.9 MB)
 </a>
 
 </div>
@@ -118,11 +118,11 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1bSQC2WQ9MvfgNqu2KgDcIX8Z7-UY-Olr/view?usp=drive_link">
-Download Images
+Download Images (418.6 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1hOdsnVhgbV9pXCDVkYbP-UyGxw_lYh9B/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (3.2 MB)
 </a>
 
 

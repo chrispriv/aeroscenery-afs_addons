@@ -101,6 +101,15 @@ High quality freeware addons for:
   </div>
 </a>
 
+<a class="country-card" href="countries/om.html">
+  <img src="assets/images/countries/om.jpg">
+
+  <div class="country-overlay">
+    <h2>🇴🇲 Oman</h2>
+    <p>1 Scenery</p>
+  </div>
+</a>
+
 <a class="country-card" href="countries/pf.html">
   <img src="assets/images/countries/pf.jpg">
 
@@ -115,15 +124,6 @@ High quality freeware addons for:
 
   <div class="country-overlay">
     <h2>🇷🇪 La Reunion</h2>
-    <p>1 Scenery</p>
-  </div>
-</a>
-
-<a class="country-card" href="countries/om.html">
-  <img src="assets/images/countries/om.jpg">
-
-  <div class="country-overlay">
-    <h2>🇴🇲 Oman</h2>
     <p>1 Scenery</p>
   </div>
 </a>

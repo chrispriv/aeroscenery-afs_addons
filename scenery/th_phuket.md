@@ -100,11 +100,11 @@ There are also an elevation fix for the airport area of Phuket and additional tr
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1eH1C8CpqIrTV7fS0YcBzQTL027uCGDy5/view?usp=drive_link">
-Download Images
+Download Images (606.1 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1xmDCPkVU_VLlKFXJGqM9dXirDFT3PExj/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (34.7 MB)
 </a>
 
 </div>
@@ -116,11 +116,11 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1LgESRtGB-HK0JTNT5tvNfnOxYk3CX74W/view?usp=drive_link">
-Download Images
+Download Images (583.2 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1tlRPPBOmwnyOwgEoUXOqHT7Hh5eJHxM2/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (2.9 MB)
 </a>
 
 
