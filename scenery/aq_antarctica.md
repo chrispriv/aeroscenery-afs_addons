@@ -104,11 +104,11 @@ SCRM Isle Rey Jore-Martin Base, SAWB Base Marimbio and EGAR Rothera Research Sta
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1wtsben2KY6TESCvRFJ0iaQ3R9pGfmt7g/view?usp=drive_link">
-Download Images
+Download Images (2.58 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1R6DPQhmYXLluoEGnioY_wlqeLC0mjga5/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (526.4 MB)
 </a>
 
 </div>
@@ -120,11 +120,11 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/152aKcMD_wTEXyBf9-QCKLzReErqmobGM/view?usp=drive_link">
-Download Images
+Download Images (2.19 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1MDenegR3lJvs-Od4N0Qy-9-TMiTi5KRE/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (29.6 MB)
 </a>
 
 

@@ -100,11 +100,11 @@ In addition to IPAC's streamed airports, SDAG Angra dos Reis and SBSC Rio de Jan
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1b-c_I2zQFM8D6WpYIaHx5f4R7tW7cXy_/view?usp=drive_link">
-Download Images
+Download Images (1.07 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1-0NSl64zArMKuZd_7H4JKKiYTTajMgGh/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (454 KB)
 </a>
 
 </div>
@@ -116,11 +116,11 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/17769lavP6X2Bt9JMQXHNx2X755lT4DK6/view?usp=drive_link">
-Download Images
+Download Images (636.8 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1EHZ3tPivGO4GgsgfTf_apVUf-oohAhMI/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (256 KB)
 </a>
 
 

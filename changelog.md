@@ -5,6 +5,11 @@ title: Change Log
 
 # Change Log
 
+## 2026-06-28
+- 🇧🇭 [Bahrain Photo Scenery](scenery/bh_bahrain.html) released / v1.0
+- 🇴🇲 [Muscat Photo Scenery](scenery/om_muscat.html) released / v1.0
+- 🇶🇦 [Qatar Photo Scenery](scenery/qa_qatar.html) released / v1.0
+
 ## 2026-06-20
 - 🇿🇼 [Victoria Falls Scenery](scenery/zw_victoriafalls.html) released / v1.0
 - 🇦🇿 [Baku Photo Scenery](scenery/az_baku.html) released / v1.0

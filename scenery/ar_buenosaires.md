@@ -101,11 +101,11 @@ The airfield SAAK Isla Martin Garcia is also included in addition to IPAC's stre
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1NrmI7Rk5oUSkubEWMpEWwnTMR8HvbVUR/view?usp=drive_link">
-Download Images
+Download Images (2.68 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/10D8BHlCuIeIn0Aj9e99nUMehK6iko_Gg/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (12.6 MB)
 </a>
 
 </div>
@@ -117,11 +117,11 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/17ZXUmyXF6FtpQCf9SLRoFJcUhjQNLDDR/view?usp=drive_link">
-Download Images
+Download Images (738.4 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1gnJKDllmj5VGno278P5X9udgKU9U3vGM/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (11.7 MB)
 </a>
 
 
