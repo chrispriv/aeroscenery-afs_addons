@@ -104,11 +104,11 @@ An elevation fix was made especially for the airport area.
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1sRHkg56mcb34gI31Lm5hn2jwSGQ_9tsq/view?usp=drive_link">
-Download Images
+Download Images (2.1 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1L5NjjyRGNpsw5ZFe6t8_-Z4m6nD0ufrf/view?usp=drive_link">
-Download Data FS4
+Download Data FS4 (88.5 MB)
 </a>
 
 </div>
@@ -120,11 +120,11 @@ Download Data FS4
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1pEODqhCHmJeOQFlf_nyt25IzrgEgNhxc/view?usp=drive_link">
-Download Images
+Download Images (1.56 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1U8MvhX3lzBUalWC-9b7ks-ZcsVfABWW2/view?usp=drive_link">
-Download Data FSG
+Download Data FSG (81.8 MB)
 </a>
 
 
