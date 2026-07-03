@@ -11,7 +11,7 @@ src="../assets/images/scenery/jp_osakabay/hero.jpg">
 
 ## Description
 
-...
+....
 
 <div class="tag-container">
 

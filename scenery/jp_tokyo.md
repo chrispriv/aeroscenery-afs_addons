@@ -11,7 +11,7 @@ src="../assets/images/scenery/jp_tokyo/hero.jpg">
 
 ## Description
 
-...
+....
 
 <div class="tag-container">
 
