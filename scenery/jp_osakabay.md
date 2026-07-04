@@ -13,7 +13,7 @@ src="../assets/images/scenery/jp_osakabay/hero.jpg">
 
 HD photo scenery covering the entire Osaka Bay area, including the cities of Osaka, Kobe and Wakayama as well as the missing ground texture for Kansai Intl. Airport.
 
-Some POIs have been added to the scenery. Alos an elevation was fixed for some areas and the helipad implemented at Sakai City Hall.
+Some POIs have been added. Also elevation was fixed for some areas and a helipad implemented at Sakai City Hall.
 
 <div class="tag-container">
 
