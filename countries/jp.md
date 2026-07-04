@@ -11,7 +11,7 @@ title: Japan
 <img src="../assets/images/scenery/jp_tokyo.jpg">
 
 <div class="scenery-content">
-<h2>Tokyo Extended Area Photo Scenery (Incl. Mt Fuji)</h2>
+<h2>Tokyo Extended Area Scenery (Incl. Mt Fuji)</h2>
 
 <div class="tag-container">
 
@@ -34,7 +34,7 @@ title: Japan
 <img src="../assets/images/scenery/jp_osakabay.jpg">
 
 <div class="scenery-content">
-<h2>Osaka Bay Photo Scenery (Incl. Kansai Airport Area)</h2>
+<h2>Osaka Bay Scenery (Incl. Kansai Airport Area)</h2>
 
 <div class="tag-container">
 

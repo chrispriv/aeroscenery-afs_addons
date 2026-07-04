@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Tokyo Extended Area Photo Scenery (Incl. Mt Fuji)
+title: Tokyo Extended Area Scenery (Incl. Mt Fuji)
 country: JP
 ---
 
-# Tokyo Extended Area Photo Scenery (Incl. Mt Fuji)
+# Tokyo Extended Area Scenery (Incl. Mt Fuji)
 
 <img class="hero-image"
 src="../assets/images/scenery/jp_tokyo/hero.jpg">
@@ -99,11 +99,11 @@ src="../assets/images/scenery/jp_tokyo/hero.jpg">
 <div class="download-panel">
 
 <a class="download-button" href="">
-Download Images (437.3 MB)
+Download Images (1.59 GB)
 </a>
 
 <a class="download-button" href="">
-Download Data FS4 (42.4 MB)
+Download Data FS4 (#.# MB)
 </a>
 
 </div>
@@ -115,11 +115,11 @@ Download Data FS4 (42.4 MB)
 <div class="download-panel">
 
 <a class="download-button" href="">
-Download Images (441.1 MB)
+Download Images (969.9 MB)
 </a>
 
 <a class="download-button" href="">
-Download Data FSG (2.5 MB)
+Download Data FSG (#.# MB)
 </a>
 
 </div>
@@ -130,12 +130,15 @@ Download Data FSG (2.5 MB)
 
 - ArcGIS Maps © 
 - OpenTopography - Copernicus Global 30m data © 
+- SketchUp 3D Warehouse (3dwarehouse.sketchup.com)
 
 ---
 
 # Credits
 
 - nickhod for AeroScenery (creating photo-sceneries)
+- Arno Gerretsen for ModelConverterX (converting-tool)
+- to all the authors of the models used
 
 ---
 

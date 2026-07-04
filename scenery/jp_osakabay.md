@@ -1,17 +1,19 @@
 ---
 layout: default
-title: Osaka Bay Photo Scenery (Incl. Kansai Airport Area) 
+title: Osaka Bay Scenery (Incl. Kansai Airport Area) 
 country: JP
 ---
 
-# Osaka Bay Photo Scenery (Incl. Kansai Airport Area) 
+# Osaka Bay Scenery (Incl. Kansai Airport Area) 
 
 <img class="hero-image"
 src="../assets/images/scenery/jp_osakabay/hero.jpg">
 
 ## Description
 
-....
+HD photo scenery covering the entire Osaka Bay area, including the cities of Osaka, Kobe and Wakayama as well as the missing ground texture for Kansai Intl. Airport.
+
+Some POIs have been added to the scenery. Alos an elevation was fixed for some areas and the helipad implemented at Sakai City Hall.
 
 <div class="tag-container">
 
@@ -99,12 +101,12 @@ src="../assets/images/scenery/jp_osakabay/hero.jpg">
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (437.3 MB)
+<a class="download-button" href="https://drive.google.com/file/d/1loCFgoNLEMD1PeU2Iduh77wWd6pPQrKB/view?usp=drive_link">
+Download Images (736.3 MB)
 </a>
 
-<a class="download-button" href="">
-Download Data FS4 (42.4 MB)
+<a class="download-button" href="https://drive.google.com/file/d/1MJr_dG8PuJ3qp2X1kH7KmytvoFBEuqRe/view?usp=drive_link">
+Download Data FS4 (8.2 MB)
 </a>
 
 </div>
@@ -115,12 +117,12 @@ Download Data FS4 (42.4 MB)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (441.1 MB)
+<a class="download-button" href="https://drive.google.com/file/d/1LSkz3AFJLvpQr8zP-fqgf38Rxasa9g6c/view?usp=drive_link">
+Download Images (425.2 MB)
 </a>
 
-<a class="download-button" href="">
-Download Data FSG (2.5 MB)
+<a class="download-button" href="https://drive.google.com/file/d/1D_lquv2sh5dgUNOmIJg_wEiHEDBXEaE2/view?usp=drive_link">
+Download Data FSG (7.7 MB)
 </a>
 
 </div>
@@ -131,12 +133,15 @@ Download Data FSG (2.5 MB)
 
 - ArcGIS Maps © 
 - OpenTopography - Copernicus Global 30m data © 
+- SketchUp 3D Warehouse (3dwarehouse.sketchup.com)
 
 ---
 
 # Credits
 
 - nickhod for AeroScenery (creating photo-sceneries)
+- Arno Gerretsen for ModelConverterX (converting-tool)
+- to all the authors of the models used
 
 ---
 
