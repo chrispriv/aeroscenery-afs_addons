@@ -15,6 +15,9 @@ Photo scenery in HD covering a large part of Oman and its capital, Muscat, as we
 
 There are 2 airports enhancements and elevation data for OOMS Muscat airport included.
 
+## Note
+To add currently missing pushback parking positions to OOMS Muscat airport, install the add-on created by @Wingberry. It includes approximately 150 airports worldwide (OOMS Muscat has been added).
+
 <div class="tag-container">
 
 <span class="tag">FS4 Desktop</span>
@@ -108,6 +111,10 @@ Download Images (2.11 GB)
 Download Data FS4 (913 KB)
 </a>
 
+<a class="download-button" href="https://drive.google.com/file/d/1ku_-84UnYqSGEI20oV3rFmEvams3JIja/view?usp=drive_link">
+Download Airport Pushbacks (by @Wingberry)
+</a>
+
 </div>
 
 ---
@@ -124,6 +131,9 @@ Download Images (1.76 GB)
 Download Data FSG (716 KB)
 </a>
 
+<a class="download-button" href="https://drive.google.com/file/d/1jYWX_NTUNu5iXeJVvqHD-mKuKEUqMCNR/view?usp=drive_link">
+Download Airport Pushbacks (by @Wingberry)
+</a>
 
 </div>
 
