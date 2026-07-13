@@ -11,7 +11,9 @@ src="../assets/images/scenery/jp_tokyo/hero.jpg">
 
 ## Description
 
-....
+High resolution photo scenery covering enlarged area of Tokyo city in Japan. The scenery includes the famous Mt. Fuji, located in the west of the city, extends to Narita International Airport, and features all the islands in the south waiting to be explored.
+
+Some POIs have been added to the city. Also elevation was fixed for the town, Mt. Fuji and southern islands. In addition to IPACS streamed airports, RJTO Oshima airport and RJAN Niijima Airport (runway only) airports are also included.
 
 <div class="tag-container">
 
@@ -19,6 +21,7 @@ src="../assets/images/scenery/jp_tokyo/hero.jpg">
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
+<span class="tag">Airports</span>
 <span class="tag">POI's</span>
 <span class="tag">Elevation</span>
 
@@ -98,12 +101,12 @@ src="../assets/images/scenery/jp_tokyo/hero.jpg">
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (1.59 GB)
+<a class="download-button" href="https://drive.google.com/file/d/14EoGd8FvljuwBCgLl2JyfONWBsvv5u2i/view?usp=drive_link">
+Download Images (1.66 GB)
 </a>
 
-<a class="download-button" href="">
-Download Data FS4 (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1tU_v3cR3HNNLPqGF21F1pE-LOy8HXXHf/view?usp=drive_link">
+Download Data FS4 (12.3 MB)
 </a>
 
 </div>
@@ -114,12 +117,12 @@ Download Data FS4 (#.# MB)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (969.9 MB)
+<a class="download-button" href="https://drive.google.com/file/d/1MxLInHh-WLdOAIvRRr7G7qptbmurOF4K/view?usp=drive_link">
+Download Images (1.02 GB)
 </a>
 
-<a class="download-button" href="">
-Download Data FSG (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1X5F6sysAiB_R7akzX-c9FTISPNKa8AXI/view?usp=drive_link">
+Download Data FSG (12.9 MB)
 </a>
 
 </div>
@@ -139,6 +142,7 @@ Download Data FSG (#.# MB)
 - nickhod for AeroScenery (creating photo-sceneries)
 - Arno Gerretsen for ModelConverterX (converting-tool)
 - to all the authors of the models used
+- @Pilot boy for RJTO Oshima airport
 
 ---
 
