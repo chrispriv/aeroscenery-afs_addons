@@ -5,6 +5,11 @@ title: Change Log
 
 # Change Log
 
+## 2026-07-25
+- 🇧🇷 [Rio de Janeiro Extended Area Scenery](scenery/br_riodejaneiro.html) released / v1.0
+- 🇯🇵 [Tokyo Extended Area Scenery (Incl. Mt Fuji)](scenery/jp_tokyo.html) released / v1.0
+- 🇯🇵 [Osaka Bay Scenery (Incl. Kansai Airport Area](scenery/jp_osakabay.html) released / v1.0
+
 ## 2026-06-28
 - 🇧🇭 [Bahrain Photo Scenery](scenery/bh_bahrain.html) released / v1.0
 - 🇴🇲 [Muscat Photo Scenery](scenery/om_muscat.html) released / v1.0

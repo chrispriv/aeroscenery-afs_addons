@@ -11,7 +11,7 @@ src="../assets/images/scenery/no_janmayen/hero.jpg">
 
 ## Description
 
-Photo scenery covering the Jan Mayen island being part of Norway. Take a trip to the high north to this stunning and snow covered volcanic island. 
+Photo scenery covering Jan Mayen island being part of Norway. Take a trip to the high north to this stunning and snow covered volcanic island. 
 
 There is also an enhanced elevation mesh covering the whole island.
 
