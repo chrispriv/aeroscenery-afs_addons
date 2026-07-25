@@ -1,17 +1,17 @@
 ---
 layout: default
-title: La Reunion
+title: Norway
 ---
-# La Reunion
+# Norway
 
 <div class="scenery-grid">
 
-<a class="scenery-card" href="../scenery/re_lareunion.html">
+<a class="scenery-card" href="../scenery/no_janmayen.html">
 
-<img src="../assets/images/scenery/re_lareunion.jpg">
+<img src="../assets/images/scenery/no_janmayen.jpg">
 
 <div class="scenery-content">
-<h2>La Reunion Photo Scenery</h2>
+<h2>Jan Mayen Island Photo Scenery</h2>
 
 <div class="tag-container">
 
@@ -21,7 +21,7 @@ title: La Reunion
 <span class="tag">Photo Scenery</span>
 <span class="tag">Elevation</span>
 
-<span class="tag">v1.0</span>
+<span class="tag">v1.1</span>
 
 </div>
 </div>

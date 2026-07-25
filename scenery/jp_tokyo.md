@@ -11,7 +11,7 @@ src="../assets/images/scenery/jp_tokyo/hero.jpg">
 
 ## Description
 
-High resolution photo scenery covering enlarged area of Tokyo city in Japan. The scenery includes the famous Mt. Fuji, located in the west of the city, extends to Narita International Airport, and features all the islands in the south waiting to be explored.
+High resolution photo scenery covering enlarged area of Tokyo city in Japan. The scenery includes the famous Mt. Fuji, located in the west of the city, extends to Narita International Airport in the east and features all the islands in the south waiting to be explored.
 
 Some POIs have been added to the city. Also elevation was fixed for the town, Mt. Fuji and southern islands. In addition to IPACS streamed airports, RJTO Oshima airport and RJAN Niijima Airport (runway only) airports are also included.
 

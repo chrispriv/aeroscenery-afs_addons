@@ -1,17 +1,17 @@
 ---
 layout: default
-title: La Reunion
+title: Ireland
 ---
-# La Reunion
+# Ireland
 
 <div class="scenery-grid">
 
-<a class="scenery-card" href="../scenery/re_lareunion.html">
+<a class="scenery-card" href="../scenery/ie_belfast.html">
 
-<img src="../assets/images/scenery/re_lareunion.jpg">
+<img src="../assets/images/scenery/ie_belfast.jpg">
 
 <div class="scenery-content">
-<h2>La Reunion Photo Scenery</h2>
+<h2>Belfast Photo Scenery</h2>
 
 <div class="tag-container">
 

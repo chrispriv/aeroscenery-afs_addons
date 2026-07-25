@@ -1,17 +1,17 @@
 ---
 layout: default
-title: La Reunion
+title: Island
 ---
-# La Reunion
+# Island
 
 <div class="scenery-grid">
 
-<a class="scenery-card" href="../scenery/re_lareunion.html">
+<a class="scenery-card" href="../scenery/is_reykjavik.html">
 
-<img src="../assets/images/scenery/re_lareunion.jpg">
+<img src="../assets/images/scenery/is_reykjavik.jpg">
 
 <div class="scenery-content">
-<h2>La Reunion Photo Scenery</h2>
+<h2>Reykjavik Extended Area Photo Scenery</h2>
 
 <div class="tag-container">
 
