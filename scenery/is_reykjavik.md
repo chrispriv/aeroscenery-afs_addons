@@ -11,7 +11,7 @@ src="../assets/images/scenery/is_reykjavik/hero.jpg">
 
 ## Description
 
-... (work in progress)
+.... (work in progress)
 
 <div class="tag-container">
 
