@@ -11,7 +11,10 @@ src="../assets/images/scenery/is_reykjavik/hero.jpg">
 
 ## Description
 
-.... (work in progress)
+HD photo scenery covering the enlarged area of Reykjavik, capital of Iceland, incl. part of the volcanic island. 
+
+A minor elevation fix has been added for Reykjavik.
+
 
 <div class="tag-container">
 
@@ -97,11 +100,11 @@ src="../assets/images/scenery/is_reykjavik/hero.jpg">
 
 <div class="download-panel">
 
-<a class="download-button" href="">
+<a class="download-button" href="https://drive.google.com/file/d/1TicUsNjK2l5rhIUmcBI8I7tw_HVNk0zu/view?usp=drive_link">
 Download Images (2.77 GB)
 </a>
 
-<a class="download-button" href="">
+<a class="download-button" href="https://drive.google.com/file/d/1fMW0_Z98fZU6doEdDjxAngHxtO2e4CXi/view?usp=drive_link">
 Download Data FS4 (510 KB)
 </a>
 
@@ -113,11 +116,11 @@ Download Data FS4 (510 KB)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
+<a class="download-button" href="https://drive.google.com/file/d/1FJvWjKumj2qiG4yc74sR2rNhtexXbxKm/view?usp=drive_link">
 Download Images (2.44 GB)
 </a>
 
-<a class="download-button" href="">
+<a class="download-button" href="https://drive.google.com/file/d/1hZ6lVw_gj28dZG_dAeyvoYSei5Ka-m8k/view?usp=drive_link">
 Download Data FSG (241 KB)
 </a>
 
