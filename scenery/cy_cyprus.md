@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Lebanon
+title: Cyprus Island Photo Scenery
 country: CY
 ---
 
-# Bali Photo Scenery
+# Cyprus Island Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/cy_cyprus/hero.jpg">

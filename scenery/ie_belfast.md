@@ -98,11 +98,11 @@ src="../assets/images/scenery/ie_belfast/hero.jpg">
 <div class="download-panel">
 
 <a class="download-button" href="">
-Download Images (## MB)
+Download Images (524.8 MB)
 </a>
 
 <a class="download-button" href="">
-Download Data FS4 (## MB)
+Download Data FS4 (967 KB)
 </a>
 
 </div>
@@ -118,7 +118,7 @@ Download Images (308.6 MB)
 </a>
 
 <a class="download-button" href="">
-Download Data FSG (## MB)
+Download Data FSG (810 KB)
 </a>
 
 </div>
