@@ -13,6 +13,8 @@ src="../assets/images/scenery/ie_belfast/hero.jpg">
 
 Photo scenery in HD featuring the city of Belfast and its two main airports EGAC Belfast City as well as EGGA Belfast Intl. in Northern Ireland.
 
+An elevation adjustment has been added for the port and city of Belfast.
+
 ## Note
 To add currently missing pushback parking positions to EGAC Belfast City airport, install the add-on created by @Wingberry. It includes approximately 150 airports worldwide (EGAC Belfast City has been added).
 

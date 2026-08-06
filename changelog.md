@@ -5,6 +5,11 @@ title: Change Log
 
 # Change Log
 
+## 2026-08-06
+- 🇮🇸 [Reykjavik Extended Area Photo Scenery](scenery/is_reykjavik.html) released / v1.0
+- 🇮🇪 [Belfast Photo Scenery](scenery/ie_belfast.html) released / v1.0
+- 🇳🇴 [Jan Mayen Island Photo Scenery](scenery/no_janmayen.html) added / v1.1
+
 ## 2026-07-25
 - 🇧🇷 [Rio de Janeiro Extended Area Scenery](scenery/br_riodejaneiro.html) released / v1.0
 - 🇯🇵 [Tokyo Extended Area Scenery (Incl. Mt Fuji)](scenery/jp_tokyo.html) released / v1.0
