@@ -11,7 +11,11 @@ src="../assets/images/scenery/cy_cyprus/hero.jpg">
 
 ## Description
 
-... (work in progress)
+HD photo scenery covering the entire island of Cyprus, including both the Cypriot and Turkish parts of the island. 
+
+A helipad has been added at the foot of Mt. Olympus so that it can be located more easily. 
+
+There is also an enhanced elevation mesh covering the whole island.
 
 <div class="tag-container">
 
@@ -98,12 +102,12 @@ src="../assets/images/scenery/cy_cyprus/hero.jpg">
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1SqGl1LYZII8cta22OeDODwVn0cq3dFhL/view?usp=drive_link">
+Download Images (3.3 GB)
 </a>
 
-<a class="download-button" href="">
-Download Data FS4 (# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1MPqnaCbIG_gJCnvfLJL__tzu2jLAzcsN/view?usp=drive_link">
+Download Data FS4 (7.7 MB)
 </a>
 
 </div>
@@ -114,12 +118,12 @@ Download Data FS4 (# MB)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1Znf_vUCWLNUwzM2FCujEsPnorlMjYMgu/view?usp=drive_link">
+Download Images (1.49 GB)
 </a>
 
-<a class="download-button" href="">
-Download Data FSG (# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1be_A48qMLVngtxohGbgNmsn18uPY7S00/view?usp=drive_link">
+Download Data FSG (7.6 MB)
 </a>
 
 

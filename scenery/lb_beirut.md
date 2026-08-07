@@ -98,12 +98,12 @@ src="../assets/images/scenery/lb_beirut/hero.jpg">
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1djsw9qIBnTv58C0fhTyMY1_oFEI1nYJ1/view?usp=drive_link">
+Download Images (870.3 MB)
 </a>
 
-<a class="download-button" href="">
-Download Data FS4 (# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1ZL1eA3VBN_ikExLrX82fUxnHSjwdhspT/view?usp=drive_link">
+Download Data FS4 (7.9 MB)
 </a>
 
 </div>

@@ -5,7 +5,7 @@ title: Change Log
 
 # Change Log
 
-## 2026-08-06
+## 2026-08-07
 - 🇮🇸 [Reykjavik Extended Area Photo Scenery](scenery/is_reykjavik.html) released / v1.0
 - 🇮🇪 [Belfast Photo Scenery](scenery/ie_belfast.html) released / v1.0
 - 🇳🇴 [Jan Mayen Island Photo Scenery](scenery/no_janmayen.html) added / v1.1

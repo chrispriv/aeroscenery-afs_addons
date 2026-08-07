@@ -6,9 +6,9 @@ title: Bhutan
 
 <div class="scenery-grid">
 
-<a class="scenery-card" href="../scenery/bt_paros.html">
+<a class="scenery-card" href="../scenery/bt_paro.html">
 
-<img src="../assets/images/scenery/bt_paros.jpg">
+<img src="../assets/images/scenery/bt_paro.jpg">
 
 <div class="scenery-content">
 <h2>Paro Photo Scenery</h2>
