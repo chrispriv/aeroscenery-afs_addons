@@ -11,7 +11,9 @@ src="../assets/images/scenery/lb_beirut/hero.jpg">
 
 ## Description
 
-... (work in progress)
+HD photoscenery of Beirut, the capital, with enlarged coverage, covering most parts of Lebanon.
+
+The elevation data currently still missing in AeroFly are also included as a temporary scenery fix.
 
 <div class="tag-container">
 
@@ -114,12 +116,12 @@ Download Data FS4 (7.9 MB)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1v5AX-npK1Nfr2Fx7ipnnbqpHc_ssaw1A/view?usp=drive_link">
+Download Images (722.2 MB)
 </a>
 
-<a class="download-button" href="">
-Download Data FSG (# MB)
+<a class="download-button" href="https://drive.google.com/file/d/16A-7ofCq4JeHaKSCOoHSRy0QpXJZVtIX/view?usp=drive_link">
+Download Data FSG (7.6 MB)
 </a>
 
 
