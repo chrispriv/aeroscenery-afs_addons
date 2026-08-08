@@ -17,6 +17,10 @@ Automatic water masking is also applied to the entire area, and an elevation fix
 
 The famous former Kai Tak Airport and additional POIs are also included. 
 
+## Note
+
+Version v1.2 has been updated just for Kai Tak Airport, changing the airport code from "VHHex" 6 to "VHH0" 4 digits, so that it works again with FS Beta version and further.
+
 ## Sceneries Included
 
 For FS4 the following 3rd party freeware sceneries are also integrated in this package:
@@ -33,7 +37,7 @@ For FS4 the following 3rd party freeware sceneries are also integrated in this p
 <span class="tag">POIs</span>
 <span class="tag">Elevation</span>
 
-<span class="tag">v1.1</span>
+<span class="tag">v1.2</span>
 
 </div>
 

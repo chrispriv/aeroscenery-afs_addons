@@ -23,7 +23,7 @@ title: Hong Kong
 <span class="tag">POI's</span>
 <span class="tag">Elevation</span>
 
-<span class="tag">v1.1</span>
+<span class="tag">v1.2</span>
 
 </div>
 </div>

@@ -11,7 +11,7 @@ src="../assets/images/scenery/lb_beirut/hero.jpg">
 
 ## Description
 
-HD photoscenery of Beirut, the capital, with enlarged coverage, covering most parts of Lebanon.
+HD photoscenery of Beirut, the capital with enlarged coverage, covering most parts of Lebanon.
 
 The elevation data currently still missing in AeroFly are also included as a temporary scenery fix.
 
