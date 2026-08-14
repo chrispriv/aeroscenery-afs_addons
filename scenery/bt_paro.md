@@ -11,7 +11,11 @@ src="../assets/images/scenery/bt_paro/hero.jpg">
 
 ## Description
 
-... (work in progress)
+HD scenery covering Paro airport area as well as Bhutan’s capital, Thimphu, and extending northwards into the Himalayas mountains.
+
+Two POIs have been added; the Buddha Dordenma located in Thimphu, in particular, is a must-see. 
+
+There is a helipad at the foot of this famous landmark, as well as updated elevation data for Paro airport and the POIs in Thimphu.
 
 <div class="tag-container">
 
@@ -19,6 +23,8 @@ src="../assets/images/scenery/bt_paro/hero.jpg">
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
+<span class="tag">Airports</span>
+<span class="tag">POI's</span>
 <span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
@@ -98,11 +104,11 @@ src="../assets/images/scenery/bt_paro/hero.jpg">
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1qiOjhh1ocbkYs-36U20voRowmVnvPLlv/view?usp=drive_link">
-Download Images (626.9 MB)
+Download Images (670.9 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1C-lvxrT4K3LauUrwpYpO8E2ROJvXIsyl/view?usp=drive_link">
-Download Data FS4 (1.8 MB)
+Download Data FS4 (6.2 MB)
 </a>
 
 </div>
@@ -113,12 +119,12 @@ Download Data FS4 (1.8 MB)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/16ioVCo87T_DmjYRTGz1Okdlak-kF6Kxk/view?usp=drive_link">
+Download Images (384.0 MB)
 </a>
 
-<a class="download-button" href="">
-Download Data FSG (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1svrdoEXS84zSEYDv3z_F1VDUSus7JjrZ/view?usp=drive_link">
+Download Data FSG (6.0 MB)
 </a>
 
 </div>
