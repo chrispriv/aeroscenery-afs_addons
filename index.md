@@ -74,6 +74,15 @@ High quality freeware addons for:
   </div>
 </a>
 
+<a class="country-card" href="countries/cy.html">
+  <img src="assets/images/countries/cy.jpg">
+
+  <div class="country-overlay">
+    <h2>🇨🇾 Cyprus</h2>
+    <p>1 Scenery</p>
+  </div>
+</a>
+
 <a class="country-card" href="countries/gr.html">
   <img src="assets/images/countries/gr.jpg">
 
@@ -125,6 +134,15 @@ High quality freeware addons for:
   <div class="country-overlay">
     <h2>🇯🇵 Japan</h2>
     <p>2 Sceneries</p>
+  </div>
+</a>
+
+<a class="country-card" href="countries/lb.html">
+  <img src="assets/images/countries/lb.jpg">
+
+  <div class="country-overlay">
+    <h2>🇱🇧 Lebanon</h2>
+    <p>1 Scenery</p>
   </div>
 </a>
 
@@ -197,6 +215,15 @@ High quality freeware addons for:
   <div class="country-overlay">
     <h2>🇹🇷 Turkey</h2>
     <p>2 Sceneries (4 Regions)</p>
+  </div>
+</a>
+
+<a class="country-card" href="countries/uk.html">
+  <img src="assets/images/countries/uk.jpg">
+
+  <div class="country-overlay">
+    <h2>🇬🇧 United Kingdom </h2>
+    <p>1 Scenery (2 Regions)</p>
   </div>
 </a>
 

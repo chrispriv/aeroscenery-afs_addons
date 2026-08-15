@@ -124,16 +124,16 @@ A number of helipads like on the The Needles lighthouse on the Isle of Wight, as
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images - Part 1 (# GB)
+<a class="download-button" href="https://drive.google.com/file/d/1cMdEy6V-El79WGn9_hHX1bDuFOIC-LMH/view?usp=drive_link">
+Download Images - Part 1 (3.09 GB)
 </a>
 
-<a class="download-button" href="">
-Download Images - Part 2 (# GB)
+<a class="download-button" href="https://drive.google.com/file/d/1uiPsZuhS62rdPbhdVkkhvupqUAKZoPLm/view?usp=drive_link">
+Download Images - Part 2 (3.04 GB)
 </a>
 
-<a class="download-button" href="">
-Download Data FS4 (# GB)
+<a class="download-button" href="https://drive.google.com/file/d/1_Ja9qIOMjS_dseERQBTs_P2rtEuj6ldb/view?usp=drive_link">
+Download Data FS4 (28.7 MB)
 </a>
 
 </div>
@@ -144,16 +144,16 @@ Download Data FS4 (# GB)
 
 <div class="download-panel">
 
-<a class="download-button" href="#">
-Download Images - Part 1 (# GB)
+<a class="download-button" href="https://drive.google.com/file/d/1EOS_f3eypphE0SnpZp8MhxEzMiH7xQ8E/view?usp=drive_link">
+Download Images - Part 1 (855.3 MB)
 </a>
 
-<a class="download-button" href="#">
-Download Images - Part 2 (# GB)
+<a class="download-button" href="https://drive.google.com/file/d/1j0UDNL_KbZ3HPYQ5kUXzRE51HqL5ZpSE/view?usp=drive_link">
+Download Images - Part 2 (802.6 MB)
 </a>
 
-<a class="download-button" href="#">
-Download Data FSG (# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1gmd5HQxJ68TWSCPTsAgWG7y8gB73aAr5/view?usp=drive_link">
+Download Data FSG (28.8 MB)
 </a>
 
 
