@@ -5,7 +5,7 @@ title: Change Log
 
 # Change Log
 
-## 2026-08-07
+## 2026-08-15
 - 🇨🇾 [Cyprus Island Photo Scenery](scenery/cy_cyprus.html) released / v1.0
 - 🇱🇧 [Beirut Enlarged Area Photo Scenery](scenery/lb_beirut.html) released / v1.0
 - 🇬🇧 [Portsmouth, Isle of Wight and South Coast Scenery](scenery/uk_portsmouth.html) added / v1.0
