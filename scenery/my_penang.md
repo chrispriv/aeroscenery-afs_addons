@@ -11,7 +11,7 @@ src="../assets/images/scenery/my_penang/hero.jpg">
 
 ## Description
 
-Photo scenery covering Penang Island, its capital George Town and the surrounding area.
+Photo scenery covering Penang Island, its capital George Town and the surrounding area. 
 
 <div class="tag-container">
 
