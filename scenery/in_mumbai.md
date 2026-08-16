@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Kuala Lumpur Photo Scenery
-country: MY
+title: Mumbai Photo Scenery
+country: IN
 ---
 
-# Kuala Lumpur Photo Scenery
+# Mumbai Photo Scenery
 
 <img class="hero-image"
-src="../assets/images/scenery/my_kualalumpur/hero.jpg">
+src="../assets/images/scenery/in_mumbai/hero.jpg">
 
 ## Description
 
-HD photo scenery featuring Kuala Lumpur, the capital of Malaysia, and its surroundings.
+... (work in progress)
 
 <div class="tag-container">
 
@@ -31,19 +31,19 @@ HD photo scenery featuring Kuala Lumpur, the capital of Malaysia, and its surrou
 <div class="preview-grid">
 
 <a href="#preview1">
-  <img src="../assets/images/scenery/my_kualalumpur/preview1.jpg">
+  <img src="../assets/images/scenery/in_mumbai/preview1.jpg">
 </a>
 
 <a href="#preview2">
-  <img src="../assets/images/scenery/my_kualalumpur/preview2.jpg">
+  <img src="../assets/images/scenery/in_mumbai/preview2.jpg">
 </a>
 
 <a href="#preview3">
-  <img src="../assets/images/scenery/my_kualalumpur/preview3.jpg">
+  <img src="../assets/images/scenery/in_mumbai/preview3.jpg">
 </a>
 
 <a href="#preview4">
-  <img src="../assets/images/scenery/my_kualalumpur/preview4.jpg">
+  <img src="../assets/images/scenery/in_mumbai/preview4.jpg">
 </a>
 
 </div>
@@ -51,25 +51,25 @@ HD photo scenery featuring Kuala Lumpur, the capital of Malaysia, and its surrou
 <div id="preview1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/my_kualalumpur/preview1.jpg">
+  <img src="../assets/images/scenery/in_mumbai/preview1.jpg">
 </div>
 
 <div id="preview2" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/my_kualalumpur/preview2.jpg">
+  <img src="../assets/images/scenery/in_mumbai/preview2.jpg">
 </div>
 
 <div id="preview3" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/my_kualalumpur/preview3.jpg">
+  <img src="../assets/images/scenery/in_mumbai/preview3.jpg">
 </div>
 
 <div id="preview4" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/my_kualalumpur/preview4.jpg">
+  <img src="../assets/images/scenery/in_mumbai/preview4.jpg">
 </div>
 
 ---
@@ -79,7 +79,7 @@ HD photo scenery featuring Kuala Lumpur, the capital of Malaysia, and its surrou
 <div class="preview-grid">
 
 <a href="#coverage1">
-  <img src="../assets/images/scenery/my_kualalumpur/coverage.jpg">
+  <img src="../assets/images/scenery/in_mumbai/coverage.jpg">
 </a>
 
 </div>
@@ -87,7 +87,7 @@ HD photo scenery featuring Kuala Lumpur, the capital of Malaysia, and its surrou
 <div id="coverage1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/my_kualalumpur/coverage.jpg">
+  <img src="../assets/images/scenery/in_mumbai/coverage.jpg">
 </div>
 
 ---
@@ -96,8 +96,8 @@ HD photo scenery featuring Kuala Lumpur, the capital of Malaysia, and its surrou
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/13RZLTSmZZjChW-9dNDOvvYnilYCwIbyP/view?usp=drive_link">
-Download Images (981.5 MB)
+<a class="download-button" href="">
+Download Images (#.# MB)
 </a>
 
 </div>
@@ -108,8 +108,8 @@ Download Images (981.5 MB)
 
 <div class="download-panel">
 
-<a class="download-button" href="https://drive.google.com/file/d/1jSwqef9-8-eEKUz5BG44KGlAEHpL0SUI/view?usp=drive_link">
-Download Images (563.5 MB)
+<a class="download-button" href="">
+Download Images (#.# MB)
 </a>
 
 </div>

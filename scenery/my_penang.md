@@ -13,6 +13,8 @@ src="../assets/images/scenery/my_penang/hero.jpg">
 
 Photo scenery covering Penang Island, its capital George Town and the surrounding area. 
 
+POI's have been added in George Town, and the elevation data for the city and the Mengkuang Dam have been corrected.
+
 <div class="tag-container">
 
 <span class="tag">FS4 Desktop</span>
