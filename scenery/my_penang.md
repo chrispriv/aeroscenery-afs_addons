@@ -100,12 +100,12 @@ POI's have been added in George Town, and the elevation data for the city and th
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1hStJelpymUlA-qETeGLHXSPZ6pXhfvQ2/view?usp=drive_link">
+Download Images (802.9 MB)
 </a>
 
-<a class="download-button" href="">
-Download Data FS4 (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1lwBCsy3hN0Xfktu86vF8qtd-Owlq2Obr/view?usp=drive_link">
+Download Data FS4 (9.4 MB)
 </a>
 
 </div>
@@ -116,12 +116,12 @@ Download Data FS4 (#.# MB)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/11FsiO0kdmKDdSdsDBFJtPPFSiSvQbW5_/view?usp=drive_link">
+Download Images (385.7 MB)
 </a>
 
-<a class="download-button" href="">
-Download Data FSG (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1DRuIximEJAnJ2MVyJ8miPSBDwEeXmHT4/view?usp=drive_link">
+Download Data FSG (9.1 MB)
 </a>
 
 
