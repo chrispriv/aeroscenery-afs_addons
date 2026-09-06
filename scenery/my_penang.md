@@ -105,7 +105,7 @@ Download Images (802.9 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1lwBCsy3hN0Xfktu86vF8qtd-Owlq2Obr/view?usp=drive_link">
-Download Data FS4 (9.4 MB)
+Download Data FS4 (9.6 MB)
 </a>
 
 </div>
@@ -121,7 +121,7 @@ Download Images (385.7 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1DRuIximEJAnJ2MVyJ8miPSBDwEeXmHT4/view?usp=drive_link">
-Download Data FSG (9.1 MB)
+Download Data FSG (9.3 MB)
 </a>
 
 
@@ -132,6 +132,7 @@ Download Data FSG (9.1 MB)
 # References
 
 - Bing Maps © 
+- Carto Basemaps - OpenStreetMap © 
 
 ---
 

@@ -15,7 +15,7 @@ title: FSG Mobile Installation
 2. Copy both files to the following directory on your Android device:
 
    ```text
-   /storage/emulated/0/Android/data/com.aerofly.aeroflyfsg1/files/<tme-files>/
+   /storage/emulated/0/Android/data/com.aerofly.aeroflyfsg1/files/
    ```
 You can use:
 
