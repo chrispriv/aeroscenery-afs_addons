@@ -5,6 +5,11 @@ title: Change Log
 
 # Change Log
 
+## 2026-09-04
+- 🇧🇹 [Paro Photo Scenery](scenery/bt_paro.html) released / v1.0
+- 🇲🇾 [Kuala Lumpur Photo Scenery](scenery/my_kualalumpur.html) released / v1.0
+- 🇲🇾 [Penang Photo Scenery](scenery/my_penang.html) added / v1.0
+
 ## 2026-08-15
 - 🇨🇾 [Cyprus Island Photo Scenery](scenery/cy_cyprus.html) released / v1.0
 - 🇱🇧 [Beirut Enlarged Area Photo Scenery](scenery/lb_beirut.html) released / v1.0
