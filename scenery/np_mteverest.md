@@ -11,16 +11,20 @@ src="../assets/images/scenery/np_mteverest/hero.jpg">
 
 ## Description
 
-...
+Enhanced HighRes photo scenery with enlarged coverage including the core area from Kathmandu to Lukla incl. Mt Everest as well as an extension covering the hole northern mounatin part of Nepal.
+
+There are also 10 small mountain airports included as well elevation mesh improvements for some area. A lot of mountain landing challenges are waiting for you! 
 
 ## Included Regions
 
 ### Part 1
-- ...
-- ...
+- Kathmandu
+- Lukla
+- Mt Everest
 
 ### Part 2
-- ...
+- Phokhara
+- Northern Nepal Extension
 
 <div class="tag-container">
 
@@ -117,16 +121,16 @@ src="../assets/images/scenery/np_mteverest/hero.jpg">
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images - Part 1 (#.# GB)
+<a class="download-button" href="https://drive.google.com/file/d/1j-cmC1t57C2LACQcmxCjYlPR6hoLbEHo/view?usp=drive_link">
+Download Images - Part 1 (2.13 GB)
 </a>
 
-<a class="download-button" href="">
-Download Images - Part 2 (#.# GB)
+<a class="download-button" href="https://drive.google.com/file/d/10wiLcAOFy5SLPm3TK7-zUGO30PTC-9Or/view?usp=drive_link">
+Download Images - Part 2 (2.57 GB)
 </a>
 
-<a class="download-button" href="">
-Download Data FS4 (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1dlgS4WLaFB26tPgnOkQF-e3EmFVhP_DO/view?usp=drive_link">
+Download Data FS4 (18.6 MB)
 </a>
 
 </div>
@@ -137,16 +141,16 @@ Download Data FS4 (#.# MB)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images - Part 1 (#.# GB)
+<a class="download-button" href="https://drive.google.com/file/d/1bZkKqEgTgBfdnkuK2gyVU8jGCpSJg3OX/view?usp=drive_link">
+Download Images - Part 1 (1.3 GB)
 </a>
 
-<a class="download-button" href="">
-Download Images - Part 2 (#.# GB)
+<a class="download-button" href="https://drive.google.com/file/d/19ZOQRFJnCOB0lK4Z-immlq0KU6Rj-l_4/view?usp=drive_link">
+Download Images - Part 2 (2.16 GB)
 </a>
 
-<a class="download-button" href="">
-Download Data FSG (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1LBJEmCDtA79wPAGKaDLMrf0WeAgzCxPu/view?usp=drive_link">
+Download Data FSG (22.7 MB)
 </a>
 
 
