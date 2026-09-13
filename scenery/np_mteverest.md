@@ -11,9 +11,9 @@ src="../assets/images/scenery/np_mteverest/hero.jpg">
 
 ## Description
 
-Enhanced HighRes photo scenery with enlarged coverage including the core area from Kathmandu to Lukla incl. Mt Everest as well as an extension covering the hole northern mounatin part of Nepal.
+Enhanced HighRes photo scenery with enlarged coverage including the core area from Kathmandu to Lukla incl. Mt Everest as well as an extension covering the whole northern mountain part of Nepal.
 
-There are also 10 small mountain airports included as well elevation mesh improvements for some area. A lot of mountain landing challenges are waiting for you! 
+There are also 10 small mountain airports including elevation mesh improvements as well for some areas. A lot of mountain landing challenges are waiting for you!
 
 ## Included Regions
 
