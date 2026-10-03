@@ -100,7 +100,7 @@ To add currently missing pushback parking positions to UBBB Baku airport, instal
 <div class="download-panel">
 
 <a class="download-button" href="https://drive.google.com/file/d/1zp_taAzYKqbOpqyvNLPr6VlEAA4tbuCv/view?usp=drive_link">
-Download Images (793.6 GB)
+Download Images (793.6 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1ku_-84UnYqSGEI20oV3rFmEvams3JIja/view?usp=drive_link">

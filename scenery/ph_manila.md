@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Mumbai Photo Scenery
-country: IN
+title: Manila Photo Scenery
+country: PH
 ---
 
 # Mumbai Photo Scenery
 
 <img class="hero-image"
-src="../assets/images/scenery/in_mumbai/hero.jpg">
+src="../assets/images/scenery/ph_manila/hero.jpg">
 
 ## Description
 
@@ -19,8 +19,6 @@ src="../assets/images/scenery/in_mumbai/hero.jpg">
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">POI's</span>
-<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 
@@ -33,19 +31,19 @@ src="../assets/images/scenery/in_mumbai/hero.jpg">
 <div class="preview-grid">
 
 <a href="#preview1">
-  <img src="../assets/images/scenery/in_mumbai/preview1.jpg">
+  <img src="../assets/images/scenery/ph_manila/preview1.jpg">
 </a>
 
 <a href="#preview2">
-  <img src="../assets/images/scenery/in_mumbai/preview2.jpg">
+  <img src="../assets/images/scenery/ph_manila/preview2.jpg">
 </a>
 
 <a href="#preview3">
-  <img src="../assets/images/scenery/in_mumbai/preview3.jpg">
+  <img src="../assets/images/scenery/ph_manila/preview3.jpg">
 </a>
 
 <a href="#preview4">
-  <img src="../assets/images/scenery/in_mumbai/preview4.jpg">
+  <img src="../assets/images/scenery/ph_manila/preview4.jpg">
 </a>
 
 </div>
@@ -53,25 +51,25 @@ src="../assets/images/scenery/in_mumbai/hero.jpg">
 <div id="preview1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/in_mumbai/preview1.jpg">
+  <img src="../assets/images/scenery/ph_manila/preview1.jpg">
 </div>
 
 <div id="preview2" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/in_mumbai/preview2.jpg">
+  <img src="../assets/images/scenery/ph_manila/preview2.jpg">
 </div>
 
 <div id="preview3" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/in_mumbai/preview3.jpg">
+  <img src="../assets/images/scenery/ph_manila/preview3.jpg">
 </div>
 
 <div id="preview4" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/in_mumbai/preview4.jpg">
+  <img src="../assets/images/scenery/ph_manila/preview4.jpg">
 </div>
 
 ---
@@ -81,7 +79,7 @@ src="../assets/images/scenery/in_mumbai/hero.jpg">
 <div class="preview-grid">
 
 <a href="#coverage1">
-  <img src="../assets/images/scenery/in_mumbai/coverage.jpg">
+  <img src="../assets/images/scenery/ph_manila/coverage.jpg">
 </a>
 
 </div>
@@ -89,7 +87,7 @@ src="../assets/images/scenery/in_mumbai/hero.jpg">
 <div id="coverage1" class="lightbox">
   <a href="#!" class="lightbox-close">&times;</a>
 
-  <img src="../assets/images/scenery/in_mumbai/coverage.jpg">
+  <img src="../assets/images/scenery/ph_manila/coverage.jpg">
 </div>
 
 ---
@@ -100,10 +98,6 @@ src="../assets/images/scenery/in_mumbai/hero.jpg">
 
 <a class="download-button" href="">
 Download Images (#.# MB)
-</a>
-
-<a class="download-button" href="">
-Download Data FS4 (#.# MB)
 </a>
 
 </div>
@@ -118,20 +112,14 @@ Download Data FS4 (#.# MB)
 Download Images (#.# MB)
 </a>
 
-<a class="download-button" href="">
-Download Data FSG (#.# MB)
-</a>
-
 </div>
 
 ---
 
 # References
 
-- ArcGIS Maps © 
+- Bing Maps © 
 - Carto Basemaps - OpenStreetMap © 
-- OpenTopography - Copernicus Global 30m data © 
-- SketchUp 3D Warehouse (3dwarehouse.sketchup.com)
 
 ---
 

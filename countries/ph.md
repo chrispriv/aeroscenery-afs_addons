@@ -1,17 +1,17 @@
 ---
 layout: default
-title: India
+title: Philippines
 ---
-# India
+# Philippines
 
 <div class="scenery-grid">
 
-<a class="scenery-card" href="../scenery/in_mumbai.html">
+<a class="scenery-card" href="../scenery/ph_manila.html">
 
-<img src="../assets/images/scenery/in_mumbai.jpg">
+<img src="../assets/images/scenery/ph_manila.jpg">
 
 <div class="scenery-content">
-<h2>Mumbai Photo Scenery</h2>
+<h2>Manila Photo Scenery</h2>
 
 <div class="tag-container">
 
@@ -19,8 +19,6 @@ title: India
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
-<span class="tag">POI's</span>
-<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 
