@@ -173,7 +173,7 @@ High quality freeware addons for:
   </div>
 </a>
 
-<a class="country-card" href="countries/no.html">
+<a class="country-card" href="countries/np.html">
   <img src="assets/images/countries/np.jpg">
 
   <div class="country-overlay">
