@@ -4,7 +4,7 @@ title: Manila Photo Scenery
 country: PH
 ---
 
-# Mumbai Photo Scenery
+# Manila Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/ph_manila/hero.jpg">
@@ -12,6 +12,8 @@ src="../assets/images/scenery/ph_manila/hero.jpg">
 ## Description
 
 ... (work in progress)
+
+HD photo scenery featuring Manila, the capital of Philippines, and its surroundings.
 
 <div class="tag-container">
 

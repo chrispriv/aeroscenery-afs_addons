@@ -174,6 +174,15 @@ High quality freeware addons for:
 </a>
 
 <a class="country-card" href="countries/no.html">
+  <img src="assets/images/countries/np.jpg">
+
+  <div class="country-overlay">
+    <h2>🇳🇵 Nepal</h2>
+    <p>2 Sceneries</p>
+  </div>
+</a>
+
+<a class="country-card" href="countries/no.html">
   <img src="assets/images/countries/no.jpg">
 
   <div class="country-overlay">

@@ -5,6 +5,9 @@ title: Change Log
 
 # Change Log
 
+## 2026-10-04
+- 🇳🇵 [Mt Everest Extended Area](scenery/np_mteverest.html) released / v1.0
+
 ## 2026-09-04
 - 🇧🇹 [Paro Photo Scenery](scenery/bt_paro.html) released / v1.0
 - 🇲🇾 [Kuala Lumpur Photo Scenery](scenery/my_kualalumpur.html) released / v1.0
