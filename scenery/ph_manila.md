@@ -1,17 +1,15 @@
 ---
 layout: default
-title: Manila Photo Scenery
+title: Manila Area Photo Scenery
 country: PH
 ---
 
-# Manila Photo Scenery
+# Manila Area Photo Scenery
 
 <img class="hero-image"
 src="../assets/images/scenery/ph_manila/hero.jpg">
 
 ## Description
-
-... (work in progress)
 
 HD photo scenery featuring Manila, the capital of Philippines, and its surroundings.
 
@@ -21,6 +19,8 @@ HD photo scenery featuring Manila, the capital of Philippines, and its surroundi
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
+<span class="tag">POI's</span>
+<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 
@@ -98,8 +98,12 @@ HD photo scenery featuring Manila, the capital of Philippines, and its surroundi
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1xbiJ7K0WD1AE7aZ8bJ0HlwnmQuP2PD9A/view?usp=drive_link">
+Download Images (979.9 MB)
+</a>
+
+<a class="download-button" href="https://drive.google.com/file/d/1aar_h4XRlIeyt_3KJdZsL-etKaDUde2u/view?usp=drive_link">
+Download Data FS4 (8.5 MB)
 </a>
 
 </div>
@@ -110,8 +114,12 @@ Download Images (#.# MB)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1mqqhsY30O_V7O1zgK5dHOz0Sdl97I1FT/view?usp=drive_link">
+Download Images (825.1 MB)
+</a>
+
+<a class="download-button" href="https://drive.google.com/file/d/1Jv2bk0wkASRics1z4YLuJsqDhXQwkFs7/view?usp=drive_link">
+Download Data FSG (8.5 MB)
 </a>
 
 </div>
@@ -120,8 +128,10 @@ Download Images (#.# MB)
 
 # References
 
-- Bing Maps © 
-- Carto Basemaps - OpenStreetMap © 
+- ArcGIS Maps © / Bing Maps © 
+- Carto Basemaps - OpenStreetMap ©
+- OpenTopography - Copernicus Global 30m data © 
+- SketchUp 3D Warehouse (3dwarehouse.sketchup.com)
 
 ---
 

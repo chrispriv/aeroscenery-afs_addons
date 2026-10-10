@@ -11,7 +11,7 @@ title: Philippines
 <img src="../assets/images/scenery/ph_manila.jpg">
 
 <div class="scenery-content">
-<h2>Manila Photo Scenery</h2>
+<h2>Manila Area Photo Scenery</h2>
 
 <div class="tag-container">
 
@@ -19,6 +19,8 @@ title: Philippines
 <span class="tag">FSG Mobile</span>
 
 <span class="tag">Photo Scenery</span>
+<span class="tag">POI's</span>
+<span class="tag">Elevation</span>
 
 <span class="tag">v1.0</span>
 
