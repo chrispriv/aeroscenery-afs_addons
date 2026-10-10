@@ -13,6 +13,8 @@ src="../assets/images/scenery/ph_manila/hero.jpg">
 
 HD photo scenery featuring Manila, the capital of Philippines, and its surroundings.
 
+There are also some POI’s added to the scenery.
+
 <div class="tag-container">
 
 <span class="tag">FS4 Desktop</span>
