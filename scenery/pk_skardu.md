@@ -11,7 +11,7 @@ src="../assets/images/scenery/pk_skardu/hero.jpg">
 
 ## Description
 
-HD photo scenery featuring the stunning mountains area around Skardu, including K2 and Gilgit.
+HD photo scenery featuring the stunning mountain area around Skardu, including K2 and Gilgit area.
 
 Skardu Airport has been created by A7.
 
