@@ -46,6 +46,10 @@ An elevation fix was made especially for some costal and airport areas. The airp
 ### Part 6
 - Crete
 
+### Part 7
+- Skiathos
+- Skiros
+
 ## Sceneries Included
 Former FS2 Samos Airport Scenery from brunnobellic (only for FS4 Desktop)
 
@@ -60,7 +64,7 @@ Former FS2 Samos Airport Scenery from brunnobellic (only for FS4 Desktop)
 <span class="tag">POIs</span>
 <span class="tag">Elevation</span>
 
-<span class="tag">v1.0</span>
+<span class="tag">v1.1</span>
 
 </div>
 
@@ -131,15 +135,19 @@ Former FS2 Samos Airport Scenery from brunnobellic (only for FS4 Desktop)
 </a>
 
 <a href="#coverage4">
-  <img src="../assets/images/scenery/gr_aegeanislands/coverage3.jpg">
+  <img src="../assets/images/scenery/gr_aegeanislands/coverage4.jpg">
 </a>
 
 <a href="#coverage5">
-  <img src="../assets/images/scenery/gr_aegeanislands/coverage3.jpg">
+  <img src="../assets/images/scenery/gr_aegeanislands/coverage5.jpg">
 </a>
 
 <a href="#coverage6">
-  <img src="../assets/images/scenery/gr_aegeanislands/coverage3.jpg">
+  <img src="../assets/images/scenery/gr_aegeanislands/coverage6.jpg">
+</a>
+
+<a href="#coverage7">
+  <img src="../assets/images/scenery/gr_aegeanislands/coverage7.jpg">
 </a>
 
 </div>
@@ -180,6 +188,12 @@ Former FS2 Samos Airport Scenery from brunnobellic (only for FS4 Desktop)
   <img src="../assets/images/scenery/gr_aegeanislands/coverage6.jpg">
 </div>
 
+<div id="coverage7" class="lightbox">
+  <a href="#!" class="lightbox-close">&times;</a>
+
+  <img src="../assets/images/scenery/gr_aegeanislands/coverage7.jpg">
+</div>
+
 ---
 
 # FS4 Desktop Downloads (zip)
@@ -208,6 +222,10 @@ Download Images - Part 5 (855.4 MB)
 
 <a class="download-button" href="https://drive.google.com/file/d/11MGp1C94-ZFma2fT7sQvOezS_uqw08YD/view?usp=drive_link">
 Download Images - Part 6 (1.85 GB)
+</a>
+
+<a class="download-button" href="">
+Download Images - Part 7 (#.# GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1sOLdPdM1z1GBcp2l0Z34Pr1-H1sAickE/view?usp=drive_link">
@@ -244,6 +262,10 @@ Download Images - Part 5 (290.1 MB)
 
 <a class="download-button" href="https://drive.google.com/file/d/1T_ZmuaDXGORx9dSknqGp42cTb8LiWNer/view?usp=drive_link">
 Download Images - Part 6 (1.68 GB)
+</a>
+
+<a class="download-button" href="https://drive.google.com/file/d/1T_ZmuaDXGORx9dSknqGp42cTb8LiWNer/view?usp=drive_link">
+Download Images - Part 7 (#.# GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/13ljN5pWIXFcC7bVDtiYGqscXES9z4H4Q/view?usp=drive_link">

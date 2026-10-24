@@ -5,6 +5,10 @@ title: Change Log
 
 # Change Log
 
+## 2026-10-24
+- 🇮🇳 [Mumbai Photo Scenery](scenery/in_mumbai.html) released / v1.0
+- 🇵🇭 [Manila Area Photo Scenery](scenery/ph_manila.html) released / v1.0
+
 ## 2026-10-04
 - 🇳🇵 [Mt Everest Extended Area](scenery/np_mteverest.html) released / v1.0
 
