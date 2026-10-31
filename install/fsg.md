@@ -39,6 +39,10 @@ If you encounter issues or performance problems:
 
 - [FS4 Desktop Installation](../install/fs4.html)
 
+## Converter Tool
+
+- [FS File Converter](../assets/ttx-to-png/index.html)
+
 ## Credits
 
 Scenes created using my [AeroScenery v1.1.3 MOD](https://github.com/chrispriv/aeroscenery-mod).
