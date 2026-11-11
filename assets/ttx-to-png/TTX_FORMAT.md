@@ -338,7 +338,8 @@ Cultivation tiles (`tile_*.toc`) share the container but store dense building da
 | `layers > 1`, non-`target_2d` | Not explored |
 | DXT3/DXT5 decode | Supported (`type_rgba_s3tc_dxt3` / `dxt5`) |
 | Bit-exact original PNG from DXT/ETC | Impossible (lossy). Solid B/W DXT1 synthetics can round-trip exactly |
-| PNG → TTX / WAV → TSB / JSON → TOC encode | Out of scope; use official converter |
+| PNG → TTX | Browser writes plain (`compress_file=false`) ETC2 or DXT1/DXT5. LZHAM file compression still needs the official converter |
+| WAV → TSB / JSON → TOC encode | Out of scope; use official converter |
 | TSB stereo / other rates | Not in corpus yet; `mono16` @ 22050 confirmed |
 | `compress_file=false` for audio | One test still produced `b5fe` wrapper — treat inflate as required when magic matches |
 | Cultivation TOC full geometry dump | Partial (summary / strings); object-list TOCs fully decoded |
@@ -352,7 +353,7 @@ Cultivation tiles (`tile_*.toc`) share the container but store dense building da
 | `tools/ttx_to_png.py` / `~/src/ttx_re/ttx_to_png.py` | CLI parse + texture decode |
 | `tools/toc_to_json.py` | CLI `.toc` → JSON / CSV |
 | `tools/tmcompress_inflate.c` → `bin/tmcompress_inflate` | Native LZHAM inflate |
-| `web/ttx-to-png/` | Browser TTX→PNG, TSB→WAV, TOC→JSON/CSV |
+| `web/ttx-to-png/` | Browser TTX↔PNG (plain ETC2/DXT encode), TSB→WAV, TOC→JSON/CSV |
 | `aerofly_fs_poi_convert_project_macos_linux/` | Official converter + `.tmc` configs |
 | `lzham_codec/` | LZHAM sources used for inflate |
 
@@ -377,3 +378,4 @@ python3 toc_to_json.py path/to/file.toc -o out.json --csv out.csv
 | 2026-07 | DXT5/3, ASTC, `type_r`, `type_rg_rgtc2`; decode disclaimer |
 | 2026-07 | TSB sound: `mono16` + f32 rate + PCM s16le; web TSB→WAV |
 | 2026-08 | TOC scenery: `lonlat` placements → JSON/CSV (CLI + web) |
+| 2026-11 | Browser PNG → plain TTX: ETC2 (mobile) and DXT1/DXT5 (PC) |

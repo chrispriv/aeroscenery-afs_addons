@@ -103,7 +103,7 @@ Download Images (2.92 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1hEcKMD3P95WaO13G2cauTsEOgyInvVr7/view?usp=drive_link">
-Download Data FS4 (554 KB)
+Download Data FS4 (599 KB)
 </a>
 
 </div>
@@ -119,7 +119,7 @@ Download Images (2.79 GB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1Mu9f5-uFxXP2qDqDZLTaZdl_AkyjXX-3/view?usp=drive_link">
-Download Data FSG (518 KB)
+Download Data FSG (571 KB)
 </a>
 
 </div>

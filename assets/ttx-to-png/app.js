@@ -1,16 +1,19 @@
 import {
   warmDecoders,
   decodeAeroflyAsset,
+  decodeTtx,
   encodeTocAsset,
   rgbaToPngBlob,
   isTocText,
   isTocJson,
   buildTocBinary,
 } from "./decode.js";
+import { encodeRgbaToTtx, imageFileToRgba } from "./encode_ttx.js";
 
 const drop = document.getElementById("drop");
 const fileInput = document.getElementById("file");
 const flipEl = document.getElementById("flip");
+const encodeFormatEl = document.getElementById("encodeFormat");
 const flipRow = document.getElementById("flipRow");
 const statusEl = document.getElementById("status");
 const resultsEl = document.getElementById("results");
@@ -48,7 +51,7 @@ async function boot() {
   try {
     await warmDecoders();
     ready = true;
-    setStatus("Ready — drop .ttx, .tsb, .toc, .toc.txt, or .json.", "ok");
+    setStatus("Ready — drop .ttx, .tsb, .toc, .png, .jpg, .toc.txt, or .json.", "ok");
   } catch (e) {
     console.error(e);
     setStatus(`Failed to load decoder: ${e.message || e}`, "err");
@@ -74,16 +77,37 @@ function addResultRow(fileName) {
   return li;
 }
 
+function isImageName(name) {
+  return /\.(png|jpe?g|webp)$/i.test(name);
+}
+
 function isAssetName(name) {
-  return /\.(ttx|tsb|toc|json)$/i.test(name) || /\.toc\.txt$/i.test(name);
+  return isImageName(name) || /\.(ttx|tsb|toc|json)$/i.test(name) || /\.toc\.txt$/i.test(name);
 }
 
 function baseName(fileName) {
   return (
     fileName
       .replace(/\.toc\.txt$/i, "")
-      .replace(/\.(ttx|tsb|toc|json|txt)$/i, "") || "asset"
+      .replace(/\.(png|jpe?g|webp|ttx|tsb|toc|json|txt)$/i, "") || "asset"
   );
+}
+
+function ttxDownloadName(base, format) {
+  const tag =
+    {
+      type_rgb_etc2: "etc2",
+      type_rgba_etc2: "etc2a",
+      type_rgb_s3tc_dxt1: "dxt1",
+      type_rgba_s3tc_dxt5: "dxt5",
+    }[format] || "ttx";
+  return `${base}_${tag}.ttx`;
+}
+
+function formatBytes(n) {
+  if (n < 1024) return `${n} B`;
+  if (n < 1024 * 1024) return `${(n / 1024).toFixed(1)} KB`;
+  return `${(n / (1024 * 1024)).toFixed(2)} MB`;
 }
 
 /**
@@ -113,8 +137,8 @@ async function handleFiles(files) {
 
   let ok = 0;
   let fail = 0;
-  const hasTtx = fallback.some((f) => /\.ttx$/i.test(f.name));
-  if (flipRow) flipRow.hidden = !hasTtx;
+  const hasFlip = fallback.some((f) => /\.(ttx|png|jpe?g|webp)$/i.test(f.name));
+  if (flipRow) flipRow.hidden = !hasFlip;
 
   for (let i = 0; i < fallback.length; i++) {
     const file = fallback[i];
@@ -128,6 +152,56 @@ async function handleFiles(files) {
       const buf = new Uint8Array(await file.arrayBuffer());
       const t0 = performance.now();
       const base = baseName(file.name);
+
+      if (isImageName(file.name)) {
+        const family = encodeFormatEl && encodeFormatEl.value === "dxt" ? "dxt" : "etc2";
+        const image = await imageFileToRgba(file);
+        const encoded = await encodeRgbaToTtx(image.rgba, image.width, image.height, {
+          family,
+          flip: flipEl.checked,
+          onStatus: (msg) => {
+            metaSpan.textContent = msg;
+          },
+        });
+        const ms = Math.round(performance.now() - t0);
+        row.className = "result ok";
+        const parts = [
+          `${encoded.width}×${encoded.height}`,
+          encoded.format,
+          `${encoded.mips} mips`,
+          "plain",
+          formatBytes(encoded.bytes.length),
+          `${ms} ms`,
+          flipEl.checked ? "flipped" : "no flip",
+        ];
+        if (encoded.warning) parts.push(encoded.warning);
+        metaSpan.textContent = parts.join(" · ");
+
+        const ttxUrl = trackUrl(
+          URL.createObjectURL(new Blob([encoded.bytes], { type: "application/octet-stream" }))
+        );
+        const outName = ttxDownloadName(base, encoded.format);
+        row.querySelector(".result-name").textContent = `${file.name} → ${outName}`;
+        actions.appendChild(downloadLink(ttxUrl, outName, "Download .ttx"));
+
+        try {
+          const preview = await decodeTtx(encoded.bytes, { flip: flipEl.checked });
+          const png = await rgbaToPngBlob(preview.rgba, preview.width, preview.height);
+          const pngUrl = trackUrl(URL.createObjectURL(png));
+          const img = document.createElement("img");
+          img.className = "result-preview";
+          img.src = pngUrl;
+          img.alt = `${base} encoded preview`;
+          previewSlot.hidden = false;
+          previewSlot.appendChild(img);
+        } catch (previewErr) {
+          console.warn("encode preview skipped", previewErr);
+        }
+
+        ok++;
+        await new Promise((r) => setTimeout(r, 0));
+        continue;
+      }
 
       // Text / JSON → encode uncompressed .toc
       if (isTocText(file.name, buf) || isTocJson(file.name, buf)) {
@@ -272,19 +346,48 @@ async function handleFiles(files) {
   }
 }
 
-drop.addEventListener("dragover", (e) => {
-  e.preventDefault();
-  drop.classList.add("drag");
-});
-drop.addEventListener("dragleave", () => drop.classList.remove("drag"));
-drop.addEventListener("drop", (e) => {
-  e.preventDefault();
-  drop.classList.remove("drag");
-  const files = e.dataTransfer?.files;
-  if (files?.length) handleFiles(files);
-});
+function isFileDrag(e) {
+  const types = e.dataTransfer?.types;
+  if (!types) return false;
+  for (let i = 0; i < types.length; i++) if (types[i] === "Files") return true;
+  return false;
+}
+
+// Capture phase runs before the file input. A second drop of the same
+// path does not fire "change", and the input can clear dataTransfer.files
+// before a bubble listener reads them.
+document.addEventListener(
+  "dragover",
+  (e) => {
+    if (!isFileDrag(e)) return;
+    e.preventDefault();
+    drop.classList.add("drag");
+  },
+  true
+);
+document.addEventListener(
+  "dragleave",
+  (e) => {
+    if (!e.relatedTarget) drop.classList.remove("drag");
+  },
+  true
+);
+document.addEventListener(
+  "drop",
+  (e) => {
+    if (!isFileDrag(e)) return;
+    e.preventDefault();
+    e.stopPropagation();
+    drop.classList.remove("drag");
+    const files = [...(e.dataTransfer.files || [])];
+    if (files.length) handleFiles(files);
+  },
+  true
+);
 fileInput.addEventListener("change", () => {
-  if (fileInput.files?.length) handleFiles(fileInput.files);
+  const files = [...(fileInput.files || [])];
+  fileInput.value = "";
+  if (files.length) handleFiles(files);
 });
 
 boot();

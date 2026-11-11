@@ -14,11 +14,23 @@ title: FS4 Desktop Installation
 - `_images`
 - `_fs4`
 
-3. Copy unzipped `_fs4` folder into your Aerofly FS4 user scenery folder and then place the images into your new scenery folder:
+3. Copy unzipped `_fs4` folder into your Aerofly FS4 user scenery folder and then place the images into your scenery folder:
 
+   Path on PC Computer - Steam version
    ```text
-   Documents\Aerofly FS4\addons\scenery\<scenery-name>\
+   \Users\<USERNAME>\Documents\Aerofly FS4\addons\scenery\<scenery-name>\
    ```
+   
+   Path on Mac Computer - Steam version
+      ```text
+   /Users/<USERNAME>/Library/Application Support/Aerofly FS 4/addons/scenery/<scenery-name>/
+   ```
+   
+   Path on Mac Computer - AppStore version
+      ```text
+   ~/Library/Containers/Aerofly FS 4/Data/Library/Application Support/Aerofly FS 4/addons/scenery/<scenery-name>/
+   ```
+
 
 ## Notes
 Existing files can safely be overwritten.

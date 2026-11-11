@@ -5,6 +5,7 @@ Client-side Aerofly FS converter. Nothing is uploaded.
 | Input | Output |
 |-------|--------|
 | `.ttx` | PNG preview |
+| PNG / JPEG / WebP | plain `.ttx` (ETC2 or DXT1/DXT5) |
 | `.tsb` | WAV |
 | `.toc` | `.toc.txt` (official syntax) + JSON (+ uncompressed `.toc`) |
 | `.toc.txt` / `.json` | uncompressed `.toc` |
@@ -19,7 +20,7 @@ The downloaded PNG is a **preview of GPU texture data inside the `.ttx`**, not a
 - Block formats (DXT / ETC / ASTC) are **lossy** — pixels will not match the pre-convert source.
 - **`type_r`** is a single channel (often a mask); the PNG is a grayscale visualization.
 - **`type_rg_rgtc2`** stores only normal XY; the PNG **reconstructs Z** for viewing.
-- Feeding a modified PNG back through an unofficial encode path (or treating it as a drop-in replacement) can produce **wrong visuals or crashes**. Prefer the official IPACS converter for anything you ship.
+- PNG → `.ttx` in this page is an **unofficial** encoder. ETC2 and DXT are lossy. The file is plain (`compress_file` off — no LZHAM). Images with alpha become ETC2 RGBA or DXT5. Prefer the official IPACS converter for anything you ship.
 
 ## Deploy
 
@@ -30,6 +31,7 @@ index.html
 styles.css
 app.js
 decode.js
+encode_ttx.js
 tm.js
 ttx.js
 tsb.js
@@ -56,7 +58,8 @@ zsh wasm/build.sh
 cd web/ttx-to-png
 python3 -m http.server 8765
 # open http://localhost:8765
-node test_decode.mjs   # node smoke tests
+node test_decode.mjs   # decode smoke tests
+node test_encode.mjs   # PNG pixels → plain TTX round-trip
 ```
 
 ## Formats
@@ -64,13 +67,13 @@ node test_decode.mjs   # node smoke tests
 | Format | Notes |
 |--------|--------|
 | `type_rgba` | Raw RGBA8 |
-| `type_rgb_s3tc_dxt1` | Pure JS DXT1 |
+| `type_rgb_s3tc_dxt1` | Pure JS DXT1. Encode: range-fit BC1, mips down to 1×1 |
 | `type_r` | Raw R8 → grayscale RGB preview (clouds/masks) |
 | `type_rgb_astc_NxM` | ASTC (block size from name, e.g. 6×6) |
-| `type_rgba_s3tc_dxt5` | BC3 / DXT5 (alpha) via decode_bc3 |
+| `type_rgba_s3tc_dxt5` | BC3 / DXT5 (alpha). Encode when the PNG has alpha |
 | `type_rgba_s3tc_dxt3` | BC2 / DXT3 (explicit alpha) pure JS |
-| `type_rgb_etc2` / `type_rgb_etc1` | texture2ddecoder WASM |
-| `type_rgba_etc2` | ETC2+EAC (alpha) via decode_etc2a8 |
+| `type_rgb_etc2` / `type_rgb_etc1` | texture2ddecoder WASM. Encode: individual + differential ETC2 |
+| `type_rgba_etc2` | ETC2+EAC (alpha). Encode when the PNG has alpha |
 | `compress_file=true` | LZHAM/tmcompress inflate (WASM) |
 | `.tsb` / `mono16` | Sound → WAV (PCM s16le mono, rate from f32) |
 

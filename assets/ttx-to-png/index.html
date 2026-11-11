@@ -3,18 +3,18 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>TTX / TSB / TOC decode</title>
+    <title>TTX / TSB / TOC / PNG</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <main class="shell">
       <header class="hero">
-        <p class="brand">TTX / TSB / TOC</p>
+        <p class="brand">TTX / TSB / TOC / PNG</p>
         <p class="lede">
           Drop Aerofly&nbsp;FS <code>.ttx</code> textures, <code>.tsb</code> sounds, or
-          <code>.toc</code> scenery tables (one or many). Decoding runs in your browser —
-          nothing is uploaded. Drop <code>.toc.txt</code> / JSON to pack an uncompressed
-          <code>.toc</code>.
+          <code>.toc</code> scenery tables. Decoding runs in your browser — nothing is uploaded.
+          Drop a PNG or JPEG to write a plain <code>.ttx</code> (ETC2 for mobile, DXT for PC).
+          Drop <code>.toc.txt</code> / JSON to pack an uncompressed <code>.toc</code>.
         </p>
       </header>
 
@@ -23,12 +23,20 @@
           <input
             type="file"
             id="file"
-            accept=".ttx,.tsb,.toc,.txt,.json,application/octet-stream,text/plain,application/json"
+            accept=".ttx,.tsb,.toc,.txt,.json,.png,.jpg,.jpeg,.webp,image/png,image/jpeg,image/webp,application/octet-stream,text/plain,application/json"
             multiple
             hidden
           />
-          <span class="drop-title">Drop .ttx / .tsb / .toc files here</span>
-          <span class="drop-hint">or .toc.txt / .json to encode · tap to choose</span>
+          <span class="drop-title">Drop .ttx / .tsb / .toc / .png here</span>
+          <span class="drop-hint">PNG or JPG writes a plain .ttx · tap to choose</span>
+        </label>
+
+        <label class="opt" for="encodeFormat">
+          <span>PNG → TTX</span>
+          <select id="encodeFormat">
+            <option value="etc2">ETC2 (mobile)</option>
+            <option value="dxt">DXT1 / DXT5 (PC)</option>
+          </select>
         </label>
 
         <label class="flip" id="flipRow">
@@ -50,12 +58,16 @@
           <code>.toc</code> text matches official Aerofly syntax for xref cultivation
           tables; shipping <code>compress_file=true</code> still needs IPACS tools.
           Re-encoding casually can look/sound wrong or crash the game.
+          PNG → <code>.ttx</code> is an unofficial encoder: block formats are lossy, and the
+          file is plain (<code>compress_file</code> off, no LZHAM). Prefer the IPACS
+          converter for anything you ship.
         </p>
         <p>
           Textures: <code>type_rgba</code>, <code>type_r</code>, <code>type_rg_rgtc2</code>,
-          DXT1/3/5, ASTC, ETC2(+EAC). Sounds: <code>mono16</code> → WAV.
+          DXT1/3/5, ASTC, ETC2(+EAC). Encode: ETC2, or DXT1 — DXT5 / ETC2 RGBA when the
+          image has alpha. Sounds: <code>mono16</code> → WAV.
           Scenery: <code>.toc</code> → <code>.toc.txt</code> / JSON (xref lists).
-          Optional <code>compress_file</code> (LZHAM) on all three.
+          Optional <code>compress_file</code> (LZHAM) on decode.
         </p>
       </footer>
     </main>
