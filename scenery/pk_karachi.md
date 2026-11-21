@@ -99,8 +99,8 @@ To add currently missing pushback parking positions to OPKC Jinnah airport, inst
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1awcLPOsBvjFxfa6IPab4tw7wDVgyYeEd/view?usp=drive_link">
+Download Images (684.6 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1ku_-84UnYqSGEI20oV3rFmEvams3JIja/view?usp=drive_link">
@@ -115,8 +115,8 @@ Download Airport Pushbacks (by @Wingberry)
 
 <div class="download-panel">
 
-<a class="download-button" href="">
-Download Images (#.# MB)
+<a class="download-button" href="https://drive.google.com/file/d/1xzCLNkkakgl5nXAhX5pJ_M1MXvIo4DW4/view?usp=drive_link">
+Download Images (335.1 MB)
 </a>
 
 <a class="download-button" href="https://drive.google.com/file/d/1jYWX_NTUNu5iXeJVvqHD-mKuKEUqMCNR/view?usp=drive_link">
