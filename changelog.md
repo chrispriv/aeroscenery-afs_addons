@@ -21,6 +21,7 @@ title: Change Log
 - 🇧🇹 [Paro Photo Scenery](scenery/bt_paro.html) released / v1.0
 - 🇲🇾 [Kuala Lumpur Photo Scenery](scenery/my_kualalumpur.html) released / v1.0
 - 🇲🇾 [Penang Photo Scenery](scenery/my_penang.html) added / v1.0
+- 🇭🇰/🇨🇳 [Hong Kong, Macao & Shenzhen (incl. Kai Tak airport)](scenery/hk_hongkong_macao_shenzhen.html) updated / v1.2
 
 ## 2026-08-15
 - 🇨🇾 [Cyprus Island Photo Scenery](scenery/cy_cyprus.html) released / v1.0
@@ -28,7 +29,6 @@ title: Change Log
 - 🇬🇧 [Portsmouth, Isle of Wight and South Coast Scenery](scenery/uk_portsmouth.html) added / v1.0
 
 ## 2026-08-07
-- 🇮🇸 [Reykjavik Extended Area Photo Scenery](scenery/is_reykjavik.html) released / v1.0
 - 🇮🇪 [Belfast Photo Scenery](scenery/ie_belfast.html) released / v1.0
 - 🇳🇴 [Jan Mayen Island Photo Scenery](scenery/no_janmayen.html) added / v1.1
 
@@ -68,7 +68,6 @@ title: Change Log
 ## 2026-05-23
 - 🇦🇶 [Fly in the Antarctica](scenery/aq_antarctica.html) added / v1.0
 - 🇬🇷 [Aegean Islands Scenery](scenery/gr_aegeanislands.html) added / v1.0
-- 🇭🇰/🇨🇳 [Hong Kong, Macao & Shenzhen (incl. Kai Tak airport)](scenery/hk_hongkong_macao_shenzhen.html) added / v1.1
 - 🇮🇩 [Bali Photo Scenery](scenery/id_bali.html) added / v1.0
 - 🇲🇺 [Mauritius Islands Scenery](scenery/mu_mauritius.html) added/ v1.0
 - 🇵🇫 [French Polynesia Scenery added](scenery/pf_frenchpolynesia.html) / v1.0
