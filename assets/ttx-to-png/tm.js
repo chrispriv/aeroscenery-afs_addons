@@ -4,6 +4,7 @@
 import createTmCompressModule from "./tmcompress.js";
 
 let modPromise = null;
+let packPromise = null;
 
 export function initTmCompress() {
   if (!modPromise) {
@@ -42,5 +43,51 @@ export async function inflateTtx(data) {
     }
   } finally {
     Module._free(inPtr);
+  }
+}
+
+function initLzhamPack() {
+  if (!packPromise) {
+    const base = new URL("./", import.meta.url).href;
+    packPromise = import("./lzham_pack.js").then((mod) =>
+      mod.default({
+        locateFile: (path) => base + path,
+      })
+    );
+  }
+  return packPromise;
+}
+
+/**
+ * Raw LZHAM compress (no 6E CD zlib header).
+ * dict_size_log2=21, table_update_rate=20, level=DEFAULT, matching IPACS.
+ * A return of -7 means the output buffer was too small.
+ * @param {Uint8Array} data
+ * @returns {Promise<Uint8Array>}
+ */
+export async function lzhamCompressRaw(data) {
+  const Module = await initLzhamPack();
+  const inPtr = Module._malloc(data.length);
+  if (!inPtr) throw new Error("LZHAM compress: out of memory");
+  let cap = data.length + 65536;
+  let outPtr = Module._malloc(cap);
+  try {
+    Module.HEAPU8.set(data, inPtr);
+    let n = -7;
+    for (let attempt = 0; attempt < 3 && n === -7; attempt++) {
+      if (!outPtr) throw new Error("LZHAM compress: out of memory");
+      n = Module._tm_lzham_compress(inPtr, data.length, outPtr, cap);
+      if (n === -7) {
+        Module._free(outPtr);
+        outPtr = 0;
+        cap *= 2;
+        outPtr = Module._malloc(cap);
+      }
+    }
+    if (n <= 0) throw new Error(`LZHAM compress failed (${n})`);
+    return Module.HEAPU8.slice(outPtr, outPtr + n);
+  } finally {
+    Module._free(inPtr);
+    if (outPtr) Module._free(outPtr);
   }
 }

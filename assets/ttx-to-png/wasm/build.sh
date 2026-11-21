@@ -81,4 +81,48 @@ emcc "${SRCS[@]}" "$SHIM" \
   -o "$OUT_DIR/tmcompress.js"
 
 echo "Built: $OUT_DIR/tmcompress.js + tmcompress.wasm"
+
+# Compressor module. The inflate wasm above is unchanged.
+# Point LZHAM_PACK_LIB at pylzham's src/lib (comp + decomp + lzham_api.cpp
+# in one directory). A stock lzham_codec checkout is not laid out that way.
+PACK_LIB="${LZHAM_PACK_LIB:-}"
+if [[ -n "$PACK_LIB" && -f "$PACK_LIB/lzham_lzcomp.cpp" && -f "$PACK_LIB/lzham_api.cpp" ]]; then
+  emcc \
+    "$WASM_SRC/lzham_pack.c" \
+    "$PACK_LIB/lzham_api.cpp" \
+    "$PACK_LIB/lzham_assert.cpp" \
+    "$PACK_LIB/lzham_checksum.cpp" \
+    "$PACK_LIB/lzham_huffman_codes.cpp" \
+    "$PACK_LIB/lzham_lzbase.cpp" \
+    "$PACK_LIB/lzham_lzcomp.cpp" \
+    "$PACK_LIB/lzham_lzcomp_internal.cpp" \
+    "$PACK_LIB/lzham_lzcomp_state.cpp" \
+    "$PACK_LIB/lzham_lzdecomp.cpp" \
+    "$PACK_LIB/lzham_lzdecompbase.cpp" \
+    "$PACK_LIB/lzham_match_accel.cpp" \
+    "$PACK_LIB/lzham_mem.cpp" \
+    "$PACK_LIB/lzham_platform.cpp" \
+    "$PACK_LIB/lzham_prefix_coding.cpp" \
+    "$PACK_LIB/lzham_symbol_codec.cpp" \
+    "$PACK_LIB/lzham_timer.cpp" \
+    "$PACK_LIB/lzham_vector.cpp" \
+    -O3 \
+    -fno-strict-aliasing \
+    -DNDEBUG \
+    -DLZHAM_ANSI_CPLUSPLUS=1 \
+    -I"$PACK_LIB" \
+    -s EXPORTED_FUNCTIONS='["_tm_lzham_compress","_malloc","_free"]' \
+    -s EXPORTED_RUNTIME_METHODS='["HEAPU8"]' \
+    -s ALLOW_MEMORY_GROWTH=1 \
+    -s INITIAL_MEMORY=67108864 \
+    -s MODULARIZE=1 \
+    -s EXPORT_ES6=1 \
+    -s EXPORT_NAME='createLzhamPackModule' \
+    -s ENVIRONMENT='web,worker,node' \
+    -s FILESYSTEM=0 \
+    -o "$OUT_DIR/lzham_pack.js"
+  echo "Built: $OUT_DIR/lzham_pack.js + lzham_pack.wasm"
+else
+  echo "Skipping lzham_pack.js (set LZHAM_PACK_LIB to pylzham src/lib)" >&2
+fi
 ls -la "$OUT_DIR/tmcompress.js" "$OUT_DIR/tmcompress.wasm"

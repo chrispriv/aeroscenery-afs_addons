@@ -1,14 +1,6 @@
-import {
-  warmDecoders,
-  decodeAeroflyAsset,
-  decodeTtx,
-  encodeTocAsset,
-  rgbaToPngBlob,
-  isTocText,
-  isTocJson,
-  buildTocBinary,
-} from "./decode.js";
+import { warmDecoders, decodeAeroflyAsset, decodeTtx, rgbaToPngBlob } from "./decode.js";
 import { encodeRgbaToTtx, imageFileToRgba } from "./encode_ttx.js";
+import { wavToTsb, pcmToWavBlob } from "./tsb.js";
 
 const drop = document.getElementById("drop");
 const fileInput = document.getElementById("file");
@@ -51,7 +43,7 @@ async function boot() {
   try {
     await warmDecoders();
     ready = true;
-    setStatus("Ready — drop .ttx, .tsb, .toc, .png, .jpg, .toc.txt, or .json.", "ok");
+    setStatus("Ready — drop .ttx, .tsb, .png, .jpg, or .wav.", "ok");
   } catch (e) {
     console.error(e);
     setStatus(`Failed to load decoder: ${e.message || e}`, "err");
@@ -81,16 +73,16 @@ function isImageName(name) {
   return /\.(png|jpe?g|webp)$/i.test(name);
 }
 
+function isWavName(name) {
+  return /\.wav$/i.test(name);
+}
+
 function isAssetName(name) {
-  return isImageName(name) || /\.(ttx|tsb|toc|json)$/i.test(name) || /\.toc\.txt$/i.test(name);
+  return isImageName(name) || isWavName(name) || /\.(ttx|tsb)$/i.test(name);
 }
 
 function baseName(fileName) {
-  return (
-    fileName
-      .replace(/\.toc\.txt$/i, "")
-      .replace(/\.(png|jpe?g|webp|ttx|tsb|toc|json|txt)$/i, "") || "asset"
-  );
+  return fileName.replace(/\.(png|jpe?g|webp|wav|ttx|tsb)$/i, "") || "asset";
 }
 
 function ttxDownloadName(base, format) {
@@ -203,27 +195,38 @@ async function handleFiles(files) {
         continue;
       }
 
-      // Text / JSON → encode uncompressed .toc
-      if (isTocText(file.name, buf) || isTocJson(file.name, buf)) {
-        const result = encodeTocAsset(buf, file.name);
+      if (isWavName(file.name)) {
+        const encoded = await wavToTsb(buf);
         const ms = Math.round(performance.now() - t0);
         row.className = "result ok";
+        const outName = `${base}.tsb`;
+        row.querySelector(".result-name").textContent = `${file.name} → ${outName}`;
+        const duration = encoded.frames / encoded.sampleRate;
         metaSpan.textContent = [
-          "encode → .toc",
-          `${result.doc.placement_count} xrefs`,
-          "uncompressed",
+          encoded.format,
+          `${encoded.sampleRate} Hz`,
+          `${encoded.bits}-bit`,
+          "mono",
+          `${duration.toFixed(2)} s`,
+          "compress_file",
+          formatBytes(encoded.bytes.length),
           `${ms} ms`,
         ].join(" · ");
 
-        const blob = new Blob([result.binary], { type: "application/octet-stream" });
-        const url = trackUrl(URL.createObjectURL(blob));
-        actions.appendChild(downloadLink(url, `${base}.toc`, "Download .toc"));
+        const tsbUrl = trackUrl(
+          URL.createObjectURL(new Blob([encoded.bytes], { type: "application/octet-stream" }))
+        );
+        actions.appendChild(downloadLink(tsbUrl, outName, "Download .tsb"));
 
-        const pre = document.createElement("pre");
-        pre.className = "result-text";
-        pre.textContent = `${result.doc.placement_count} xref(s) packed · ${result.binary.length} bytes\n(shipping compress_file=true still needs the official converter)`;
+        const wavUrl = trackUrl(URL.createObjectURL(pcmToWavBlob(encoded.pcm, encoded.sampleRate, 1, 16)));
+        const audio = document.createElement("audio");
+        audio.className = "result-audio";
+        audio.controls = true;
+        audio.preload = "metadata";
+        audio.src = wavUrl;
         previewSlot.hidden = false;
-        previewSlot.appendChild(pre);
+        previewSlot.appendChild(audio);
+
         ok++;
         await new Promise((r) => setTimeout(r, 0));
         continue;
@@ -234,52 +237,7 @@ async function handleFiles(files) {
       row.className = "result ok";
 
       if (result.kind === "toc") {
-        metaSpan.textContent = [
-          "cultivation",
-          `${result.placement_count} xrefs`,
-          result.compressed ? "compress_file" : "plain",
-          `${ms} ms`,
-        ].join(" · ");
-
-        if (result.text) {
-          const pre = document.createElement("pre");
-          pre.className = "result-text";
-          pre.textContent = result.text;
-          previewSlot.hidden = false;
-          previewSlot.appendChild(pre);
-
-          const textUrl = trackUrl(
-            URL.createObjectURL(new Blob([result.text], { type: "text/plain;charset=utf-8" }))
-          );
-          actions.appendChild(downloadLink(textUrl, `${base}.toc.txt`, "Download .toc.txt"));
-        } else if (result.textError) {
-          const pre = document.createElement("pre");
-          pre.className = "result-text";
-          pre.textContent = result.textError;
-          previewSlot.hidden = false;
-          previewSlot.appendChild(pre);
-        }
-
-        const jsonStr = JSON.stringify(result.doc, null, 2) + "\n";
-        const jsonUrl = trackUrl(
-          URL.createObjectURL(new Blob([jsonStr], { type: "application/json" }))
-        );
-        actions.appendChild(downloadLink(jsonUrl, `${base}.json`, "Download JSON"));
-
-        // Re-encode from decoded doc (bit-exact for xref TOCs via JSON floats)
-        if (result.doc.xref_list?.length) {
-          try {
-            const binary = buildTocBinary(result.doc);
-            const binUrl = trackUrl(
-              URL.createObjectURL(new Blob([binary], { type: "application/octet-stream" }))
-            );
-            actions.appendChild(
-              downloadLink(binUrl, `${base}_uncompressed.toc`, "Download uncompressed .toc")
-            );
-          } catch (encErr) {
-            console.warn("toc re-encode skipped", encErr);
-          }
-        }
+        throw new Error("Scenery tables (.toc and similar) are not converted in this tool.");
       } else if (result.kind === "sound") {
         const url = trackUrl(URL.createObjectURL(result.wavBlob));
         metaSpan.textContent = [

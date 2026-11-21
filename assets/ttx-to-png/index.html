@@ -3,18 +3,19 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>TTX / TSB / TOC / PNG</title>
+    <title>TTX / TSB / PNG / WAV Web Converter</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <main class="shell">
       <header class="hero">
-        <p class="brand">TTX / TSB / TOC / PNG</p>
+        <p class="brand">TTX / TSB / PNG / WAV Web Converter</p>
         <p class="lede">
-          Drop Aerofly&nbsp;FS <code>.ttx</code> textures, <code>.tsb</code> sounds, or
-          <code>.toc</code> scenery tables. Decoding runs in your browser — nothing is uploaded.
+          Drop Aerofly&nbsp;FS <code>.ttx</code> textures or <code>.tsb</code> sounds.
+          Decoding runs in your browser — nothing is uploaded.
           Drop a PNG or JPEG to write a plain <code>.ttx</code> (ETC2 for mobile, DXT for PC).
-          Drop <code>.toc.txt</code> / JSON to pack an uncompressed <code>.toc</code>.
+          Drop a <code>.wav</code> to write a <code>.tsb</code>
+          (22050&nbsp;Hz, mono, 16-bit PCM, <code>compress_file</code>).
         </p>
       </header>
 
@@ -23,12 +24,12 @@
           <input
             type="file"
             id="file"
-            accept=".ttx,.tsb,.toc,.txt,.json,.png,.jpg,.jpeg,.webp,image/png,image/jpeg,image/webp,application/octet-stream,text/plain,application/json"
+            accept=".ttx,.tsb,.png,.jpg,.jpeg,.webp,.wav,image/png,image/jpeg,image/webp,audio/wav,application/octet-stream"
             multiple
             hidden
           />
-          <span class="drop-title">Drop .ttx / .tsb / .toc / .png here</span>
-          <span class="drop-hint">PNG or JPG writes a plain .ttx · tap to choose</span>
+          <span class="drop-title">Drop .ttx / .tsb / .png / .wav here</span>
+          <span class="drop-hint">.png / .jpg → plain .ttx · .wav → .tsb · tap to choose</span>
         </label>
 
         <label class="opt" for="encodeFormat">
@@ -54,20 +55,17 @@
           <strong>Disclaimer:</strong> outputs are <em>preview decodes</em> of GPU/audio
           data inside the container — not a guaranteed copy of the artist’s original
           file. Textures may have been flipped, scaled, mipmapped, or block-compressed;
-          sounds are typically mono 16-bit PCM for in-game 3D placement.
-          <code>.toc</code> text matches official Aerofly syntax for xref cultivation
-          tables; shipping <code>compress_file=true</code> still needs IPACS tools.
-          Re-encoding casually can look/sound wrong or crash the game.
-          PNG → <code>.ttx</code> is an unofficial encoder: block formats are lossy, and the
-          file is plain (<code>compress_file</code> off, no LZHAM). Prefer the IPACS
-          converter for anything you ship.
+          sounds in Aerofly are 22050&nbsp;Hz, mono, 16-bit PCM.
+          Re-encoding casually can look or sound wrong or crash the game.
+          PNG → <code>.ttx</code> and WAV → <code>.tsb</code> are unofficial encoders.
+          Textures are plain (<code>compress_file</code> off).
+          Sounds are <code>compress_file</code> (LZHAM), which Aerofly needs in order to read <code>mono16</code>.
+          Block formats are lossy. Prefer the IPACS converter for anything you ship.
         </p>
         <p>
           Textures: <code>type_rgba</code>, <code>type_r</code>, <code>type_rg_rgtc2</code>,
           DXT1/3/5, ASTC, ETC2(+EAC). Encode: ETC2, or DXT1 — DXT5 / ETC2 RGBA when the
-          image has alpha. Sounds: <code>mono16</code> → WAV.
-          Scenery: <code>.toc</code> → <code>.toc.txt</code> / JSON (xref lists).
-          Optional <code>compress_file</code> (LZHAM) on decode.
+          image has alpha.           Sounds: <code>.tsb</code> ↔ WAV (<code>mono16</code> at 22050&nbsp;Hz, <code>compress_file</code>).
         </p>
       </footer>
     </main>

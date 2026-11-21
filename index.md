@@ -142,7 +142,7 @@ High quality freeware addons for:
 
   <div class="country-overlay">
     <h2>🇮🇸 Iceland</h2>
-    <p>1 Scenery</p>
+    <p>1 Scenery (2 Regions)</p>
   </div>
 </a>
 
@@ -224,6 +224,15 @@ High quality freeware addons for:
   <div class="country-overlay">
     <h2>🇵🇭 Philippines</h2>
     <p>1 Scenery</p>
+  </div>
+</a>
+
+<a class="country-card" href="countries/pk.html">
+  <img src="assets/images/countries/pk.jpg">
+
+  <div class="country-overlay">
+    <h2>🇵🇰 Pakistan</h2>
+    <p>2 Sceneries</p>
   </div>
 </a>
 

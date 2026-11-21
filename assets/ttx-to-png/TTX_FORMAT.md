@@ -339,9 +339,10 @@ Cultivation tiles (`tile_*.toc`) share the container but store dense building da
 | DXT3/DXT5 decode | Supported (`type_rgba_s3tc_dxt3` / `dxt5`) |
 | Bit-exact original PNG from DXT/ETC | Impossible (lossy). Solid B/W DXT1 synthetics can round-trip exactly |
 | PNG → TTX | Browser writes plain (`compress_file=false`) ETC2 or DXT1/DXT5. LZHAM file compression still needs the official converter |
-| WAV → TSB / JSON → TOC encode | Out of scope; use official converter |
+| WAV → TSB | Browser writes `compress_file` mono16 at 22050 Hz (LZHAM, same wrapper as shipping sounds). Other WAV layouts are refused |
+| JSON → TOC encode | Removed from the browser tool |
 | TSB stereo / other rates | Not in corpus yet; `mono16` @ 22050 confirmed |
-| `compress_file=false` for audio | One test still produced `b5fe` wrapper — treat inflate as required when magic matches |
+| `compress_file=false` for audio | Shipping sounds are `b5fe` even when a converter was asked for uncompressed. Aerofly reports `unknown format ('')` for a plain `.tsb`, because `mono16` lives inside the LZHAM blob |
 | Cultivation TOC full geometry dump | Partial (summary / strings); object-list TOCs fully decoded |
 
 ---

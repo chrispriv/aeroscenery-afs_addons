@@ -5,6 +5,11 @@ title: Change Log
 
 # Change Log
 
+## 2026-11-21
+- 🇵🇰 [Skardu Mountain Photo Scenery](scenery/pk_skardu.html) released / v1.0
+- 🇵🇰 [Karachi Photo Scenery](scenery/pk_karachi.html) released / v1.0
+- 🇮🇸 [Western Iceland Photo Scenery](scenery/is_iceland) updated / v1.1
+
 ## 2026-10-24
 - 🇮🇳 [Mumbai Photo Scenery](scenery/in_mumbai.html) released / v1.0
 - 🇵🇭 [Manila Area Photo Scenery](scenery/ph_manila.html) released / v1.0

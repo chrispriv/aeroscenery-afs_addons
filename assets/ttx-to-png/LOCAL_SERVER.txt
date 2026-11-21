@@ -1,0 +1,33 @@
+Local test server for this folder
+=================================
+
+The page must be opened over http:// . Opening index.html as a file
+(file://) cannot load the WASM decoders.
+
+Start
+-----
+1. Open PowerShell.
+2. Paste:
+
+   cd "E:\Visual Studio NET\GitHub\aeroscenery-afs_addons\assets\ttx-to-png"
+   python -m http.server 8765
+
+   If python is not found, use:  py -m http.server 8765
+
+3. Leave that window open. Open:
+
+   http://127.0.0.1:8765
+
+After editing a file, reload the page in the browser (Ctrl + F5 for Refresh)
+
+Stop
+----
+In the same PowerShell window, press Ctrl+C.
+The prompt returns and the page no longer loads.
+
+Closing that window also stops the server.
+
+If the page still loads, run this in a new PowerShell window
+(change 8765 if you started a different port):
+
+   Get-NetTCPConnection -LocalPort 8765 -ErrorAction SilentlyContinue | ForEach-Object { Stop-Process -Id $_.OwningProcess -Force }

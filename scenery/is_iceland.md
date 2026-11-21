@@ -15,6 +15,10 @@ HD photo scenery covering the western part of Iceland, incl. enlarged area of Re
 
 A minor elevation fix has been added for Reykjavik and Vestmannaeyjar island airport.
 
+## Note
+
+Version v1.1 Part 2 Vestmannaeyjar Island has been added 
+
 ### Part 1
 - Reykjavik
 - Stykkisholmur

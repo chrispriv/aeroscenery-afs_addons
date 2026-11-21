@@ -1,4 +1,4 @@
-# TTX / TSB / TOC (browser)
+# TTX / TSB / PNG / WAV (browser)
 
 Client-side Aerofly FS converter. Nothing is uploaded.
 
@@ -7,8 +7,7 @@ Client-side Aerofly FS converter. Nothing is uploaded.
 | `.ttx` | PNG preview |
 | PNG / JPEG / WebP | plain `.ttx` (ETC2 or DXT1/DXT5) |
 | `.tsb` | WAV |
-| `.toc` | `.toc.txt` (official syntax) + JSON (+ uncompressed `.toc`) |
-| `.toc.txt` / `.json` | uncompressed `.toc` |
+| `.wav` (22050 Hz, mono, 16-bit PCM) | `.tsb` (`compress_file`, LZHAM) |
 
 Format refs: [`../../docs/TTX_FORMAT.md`](../../docs/TTX_FORMAT.md), [`../../docs/TOC_FORMAT.md`](../../docs/TOC_FORMAT.md).
 
@@ -39,6 +38,8 @@ toc.js
 gpu_decode.js
 tmcompress.js
 tmcompress.wasm
+lzham_pack.js
+lzham_pack.wasm
 vendor/texture2ddecoder/texture2ddecoder.js
 vendor/texture2ddecoder/texture2ddecoder.wasm
 ```
@@ -60,6 +61,7 @@ python3 -m http.server 8765
 # open http://localhost:8765
 node test_decode.mjs   # decode smoke tests
 node test_encode.mjs   # PNG pixels → plain TTX round-trip
+node test_wav_tsb.mjs  # WAV → plain inner TSB, rejects other layouts
 ```
 
 ## Formats
@@ -75,6 +77,6 @@ node test_encode.mjs   # PNG pixels → plain TTX round-trip
 | `type_rgb_etc2` / `type_rgb_etc1` | texture2ddecoder WASM. Encode: individual + differential ETC2 |
 | `type_rgba_etc2` | ETC2+EAC (alpha). Encode when the PNG has alpha |
 | `compress_file=true` | LZHAM/tmcompress inflate (WASM) |
-| `.tsb` / `mono16` | Sound → WAV (PCM s16le mono, rate from f32) |
+| `.tsb` / `mono16` | Sound → WAV. Encode accepts only 22050 Hz, mono, 16-bit PCM and writes `compress_file` |
 
 Flip vertically is **on by default** (aircraft liveries). Uncheck for source-art orientation.
